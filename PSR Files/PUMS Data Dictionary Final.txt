@@ -1,0 +1,218 @@
+Data Dictionary
+American Community Survey
+2012-2016 ACS 5-Year Public Use Microdata Sample (PUMS) Files
+
+
+County
+	Alameda County
+	Alpine, Amador, Calaveras, Inyo, Mariposa, Mono & Tuolumne Counties 
+	Butte County
+	Colusa, Glenn, Tehama & Trinity Counties 
+	Contra Costa County
+	Del Norte
+	El Dorado County
+	Fresno County
+	Humboldt County
+	Imperial County
+	Kern County
+	Kings County
+	Lake & Mendocino Counties 
+	Los Angeles County
+	Madera County
+	Marin County
+	Merced County
+	Monterey County
+	Monterey (South & East) & San Benito Counties 
+	Napa County
+	Nevada & Sierra Counties 
+	Orange County
+	Placer County
+	Riverside County
+	Sacramento County
+	San Bernardino County
+	San Diego County
+	San Francisco County
+	San Joaquin County
+	San Luis Obispo County
+	San Mateo County
+	Santa Barbara County
+	Santa Clara County
+	Santa Cruz County
+	Shasta County
+	Solano County
+	Sonoma County
+	Stanislaus County
+	Sutter & Yuba Counties
+	Tulare County
+	Ventura County
+	Yolo County
+
+
+State
+	California (6)
+
+
+Age
+	Age (1 - 999999)
+
+
+Gave birth to child within the past 12 months
+
+           b .N/A (less than 15 years/greater than 50 years/
+             .male)
+           1 .Yes      
+           2 .No
+
+
+Grandparents living with grandchildren 
+           b .N/A (less than 30 years/institutional GQ)
+           1 .Yes      
+           2 .No 
+
+
+Insurance through a current or former employer or union
+           1 .Yes
+           2 .No
+
+
+Travel time to work
+                bbb .N/A (not a worker or worker who worked at 
+                    .home)
+           001..200 .1 to 200 minutes to get to work (Top-coded)
+
+
+Vehicle occupancy
+
+           bb .N/A (not a worker or worker whose means of
+              .transportation to work was not car, truck,
+              .or van)
+           01 .Drove alone
+           02 .In 2-person carpool
+           03 .In 3-person carpool
+           04 .In 4-person carpool
+           05 .In 5-person carpool
+           06 .In 6-person carpool
+           07 .In 7-person carpool
+           08 .In 8-person carpool
+           09 .In 9-person carpool
+           10 .In 10-person or more carpool (Top-coded)
+
+
+Means of transportation to work
+           bb .N/A (not a worker--not in the labor force,
+              .including persons under 16 years; unemployed;
+              .employed, with a job but not at work; Armed
+              .Forces, with a job but not at work)
+           01 .Car, truck, or van
+           02 .Bus or trolley bus
+           03 .Streetcar or trolley car (carro publico in Puerto Rico)
+           04 .Subway or elevated
+           05 .Railroad
+           06 .Ferryboat           
+           07 .Taxicab
+           08 .Motorcycle
+           09 .Bicycle
+           10 .Walked
+           11 .Worked at home
+           12 .Other method
+
+
+Language other than English spoken at home
+           b .N/A (less than 5 years old)
+           1 .Yes, speaks another language
+           2 .No, speaks only English
+
+
+Marital status
+           1 .Married
+           2 .Widowed
+           3 .Divorced
+           4 .Separated
+           5 .Never married or under 15 years old
+
+
+School enrollment
+           b .N/A (less than 3 years old)
+           1 .No, has not attended in the last 3 months
+           2 .Yes, public school or public college    
+           3 .Yes, private school or college or home school
+
+
+Grade level attending
+           bb .N/A (not attending school)
+           01 .Nursery school/preschool
+           02 .Kindergarten
+           03 .Grade 1
+           04 .Grade 2
+           05 .Grade 3
+           06 .Grade 4
+           07 .Grade 5
+           08 .Grade 6
+           09 .Grade 7
+           10 .Grade 8
+           11 .Grade 9
+           12 .Grade 10
+           13 .Grade 11
+           14 .Grade 12
+           15 .College undergraduate years (freshman to senior)
+           16 .Graduate or professional school beyond a bachelor's degree
+
+
+Educational attainment
+           bb .N/A (less than 3 years old)
+           01 .No schooling completed
+           02 .Nursery school, preschool   
+           03 .Kindergarten
+           04 .Grade 1
+           05 .Grade 2
+           06 .Grade 3                   
+           07 .Grade 4
+           08 .Grade 5
+           09 .Grade 6
+           10 .Grade 7                   
+           11 .Grade 8  
+           12 .Grade 9
+           13 .Grade 10
+           14 .Grade 11                   
+           15 .12th grade - no diploma   
+           16 .Regular high school diploma
+           17 .GED or alternative credential
+           18 .Some college, but less than 1 year
+           19 .1 or more years of college credit, no degree
+           20 .Associate's degree                           
+           21 .Bachelor's degree
+           22 .Master's degree
+           23 .Professional degree beyond a bachelor's degree
+           24 .Doctorate degree
+
+
+Wages or salary income past 12 months
+           bbbbbb .N/A (less than 15 years old)
+           000000 .None
+           000001..999999 .$1 to 999999 (Rounded and top-coded)
+
+
+Usual hours worked per week past 12 months
+               bb .N/A (less than 16 years old/did not work during the past 12 months)
+           01..98 .1 to 98 usual hours
+               99 .99 or more usual hours
+
+
+Disability
+           1 .With a disability
+           2 .Without a disability
+
+
+Employment status
+           b .N/A (less than 16 years old)
+           1 .Civilian employed, at work
+           2 .Civilian employed, with a job but not at work
+           3 .Unemployed
+           4 .Armed forces, at work
+           5 .Armed forces, with a job but not at work
+           6 .Not in labor force
+
+
+Has own child
+           0 .No     
+           1 .Yes
