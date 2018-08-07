@@ -1,0 +1,427 @@
+,Business Name,Category,City,Others,Phone,Ratings,State,County,Summary Level,State Code (FIPS),County Code (FIPS),County Subdivision Code (FIPS),Place Code (FIPS),Consolidtated City Code (FIPS),Area Name (including legal/statistical area description)
+0,Trader Joe's,grocery,Scottsdale,Lincoln Village Shopping Center,(480) 948-9886,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+1,Trader Joe's,grocery,Tucson,,(520) 323-4500,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+2,Trader Joe's,grocery,Tucson,,(520) 733-1313,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+3,Trader Joe's,grocery,Tucson,,(520) 325-0069,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+4,Trader Joe's,grocery,Agoura Hills,,(818) 865-8217,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+5,Trader Joe's,grocery,Alameda,Alameda South Shore Center,(510) 769-5450,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+6,Trader Joe's,grocery,Bakersfield,Town and Country Village,(661) 837-8863,,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+7,Trader Joe's,grocery,Berkeley,,(510) 204-9074,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+8,Trader Joe's,grocery,Brentwood,Lone Tree Plaza,(925) 516-3044,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+9,Trader Joe's,grocery,Burbank,,(818) 848-4299,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+10,Trader Joe's,grocery,Camarillo,Carmen Plaza,(805) 388-1925,,CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+11,Trader Joe's,grocery,Castro Valley,,(510) 538-2738,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+12,Trader Joe's,grocery,Chino Hills,The Shoppes at Chino Hills,(909) 627-1404,,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+13,Trader Joe's,grocery,Clovis,,(559) 325-3120,,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+14,Trader Joe's,grocery,Concord,Oak Grove Plaza,(925) 521-1134,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+15,Trader Joe's,grocery,Concord,Heritage Square,(925) 689-2990,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+16,Trader Joe's,grocery,Daly City,Westlake Shopping Center,(650) 755-3825,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+17,Trader Joe's,grocery,Davis,University Mall,(530) 757-2693,,CA,Yolo County,50.0,6.0,113.0,0.0,0.0,0.0,Yolo County
+18,Trader Joe's,grocery,El Cerrito,El Cerrito Plaza,(510) 524-7609,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+19,Trader Joe's,grocery,Emeryville,Powell Street Plaza,(510) 658-8091,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+20,Trader Joe's,grocery,Encinitas,Encinitas Village Shopping Center,(760) 634-2114,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+21,Trader Joe's,grocery,Escondido,,(760) 233-4020,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+22,Trader Joe's,grocery,Fair Oaks,Quail Pointe Shopping Center,(916) 863-1744,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+23,Trader Joe's,grocery,Folsom,,(916) 817-8820,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+24,Trader Joe's,grocery,Fresno,,(559) 433-6478,,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+25,Trader Joe's,grocery,Glendale,,(818) 507-8192,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+26,Trader Joe's,grocery,Goleta,Calle Real Shopping Center,(805) 692-2234,,CA,Santa Barbara County,50.0,6.0,83.0,0.0,0.0,0.0,Santa Barbara County
+27,Trader Joe's,grocery,Huntington Beach,5 Points Plaza,(714) 848-9640,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+28,Trader Joe's,grocery,Huntington Beach,5 Points Plaza,(714) 848-9640,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+29,Trader Joe's,grocery,Huntington Beach,5 Points Plaza,(714) 848-9640,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+30,Trader Joe's,grocery,Huntington Beach,5 Points Plaza,(714) 848-9640,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+31,Trader Joe's,grocery,Huntington Beach,5 Points Plaza,(714) 848-9640,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+32,Trader Joe's,grocery,Huntington Beach,5 Points Plaza,(714) 848-9640,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+33,Trader Joe's,grocery,Huntington Beach,5 Points Plaza,(714) 848-9640,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+34,Trader Joe's,grocery,Huntington Beach,5 Points Plaza,(714) 848-9640,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+35,Trader Joe's,grocery,Huntington Beach,Huntington Harbour Mall,(714) 846-7307,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+36,Trader Joe's,grocery,Huntington Beach,Huntington Harbour Mall,(714) 846-7307,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+37,Trader Joe's,grocery,Huntington Beach,Huntington Harbour Mall,(714) 846-7307,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+38,Trader Joe's,grocery,Huntington Beach,Huntington Harbour Mall,(714) 846-7307,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+39,Trader Joe's,grocery,Huntington Beach,Huntington Harbour Mall,(714) 846-7307,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+40,Trader Joe's,grocery,Huntington Beach,Huntington Harbour Mall,(714) 846-7307,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+41,Trader Joe's,grocery,Huntington Beach,Huntington Harbour Mall,(714) 846-7307,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+42,Trader Joe's,grocery,Huntington Beach,Huntington Harbour Mall,(714) 846-7307,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+43,Trader Joe's,grocery,Long Beach,Market Place Long Beach,(562) 596-4388,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+44,Trader Joe's,grocery,Los Angeles,8000 Sunset,(323) 822-7663,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+45,Trader Joe's,grocery,Los Angeles,,(310) 824-1495,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+46,Trader Joe's,grocery,Los Angeles,,(310) 836-2458,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+47,Trader Joe's,grocery,Los Angeles,,(310) 477-5949,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+48,Trader Joe's,grocery,Manhattan Beach,,(310) 372-1274,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+49,Trader Joe's,grocery,Monrovia,Huntington Oaks Center,(626) 358-8884,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+50,Trader Joe's Corporate Offices,grocery,Monrovia,,(626) 599-3700,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+51,Trader Joe's,grocery,Monterey,,(831) 372-2010,,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+52,Trader Joe's,grocery,Mountain View,San Antonio Center,(650) 917-1013,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+53,Trader Joe's,grocery,Napa,Bel Air Plaza,(707) 256-0806,,CA,Napa County,50.0,6.0,55.0,0.0,0.0,0.0,Napa County
+54,Trader Joe's,grocery,Oakland,,(510) 923-9428,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+55,Trader Joe's,grocery,Oakland,,(510) 238-9076,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+56,Trader Joe's,grocery,Oceanside,Fire Mountain Center,(760) 433-9994,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+57,Trader Joe's,grocery,Pasadena,,(626) 568-9254,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+58,Trader Joe's,grocery,Pasadena,The Shops On Lake Avenue,(626) 395-9553,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+59,Trader Joe's,grocery,Pinole,,(510) 222-3501,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+60,Trader Joe's,grocery,Pleasanton,Rose Pavilion,(925) 468-0763,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+61,Trader Joe's,grocery,Rancho Cucamonga,Haven Village,(909) 476-1410,,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+62,Trader Joe's,grocery,Redondo Beach,Riviera Place Shopping Center,(310) 316-1745,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+63,Trader Joe's,grocery,Riverside,Riverside Plaza,(951) 781-2378,,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+64,Trader Joe's,grocery,Roseville,Roseville Square Shopping Center,(916) 784-9084,,CA,Placer County,50.0,6.0,61.0,0.0,0.0,0.0,Placer County
+65,Trader Joe's,grocery,Sacramento,,(916) 456-1853,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+66,Trader Joe's,grocery,San Clemente,Ocean View Plaza,(949) 240-9996,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+67,Trader Joe's,grocery,San Clemente,Ocean View Plaza,(949) 240-9996,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+68,Trader Joe's,grocery,San Clemente,Ocean View Plaza,(949) 240-9996,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+69,Trader Joe's,grocery,San Clemente,Ocean View Plaza,(949) 240-9996,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+70,Trader Joe's,grocery,San Clemente,Ocean View Plaza,(949) 240-9996,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+71,Trader Joe's,grocery,San Clemente,Ocean View Plaza,(949) 240-9996,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+72,Trader Joe's,grocery,San Clemente,Ocean View Plaza,(949) 240-9996,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+73,Trader Joe's,grocery,San Clemente,Ocean View Plaza,(949) 240-9996,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+74,Trader Joe's,grocery,San Diego,,(619) 229-9092,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+75,Trader Joe's,grocery,San Dimas,San Dimas Marketplace,(909) 305-4757,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+76,Trader Joe's,grocery,San Francisco,,(415) 536-7801,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+77,Trader Joe's,grocery,San Francisco,Stonestown Galleria,(415) 665-1835,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+78,Trader Joe's,grocery,San Francisco,,(415) 351-1013,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+79,Trader Joe's,grocery,San Francisco,,(415) 346-9964,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+80,Trader Joe's,grocery,San Francisco,,(415) 292-7665,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+81,Trader Joe's,grocery,San Luis Obispo,,(805) 783-2780,,CA,San Luis Obispo County,50.0,6.0,79.0,0.0,0.0,0.0,San Luis Obispo County
+82,Trader Joe's,grocery,San Rafael,Montecito Plaza,(415) 454-9530,,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+83,Trader Joe's,grocery,Santa Ana,Bristol Plaza,(714) 424-9304,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+84,Trader Joe's,grocery,Santa Ana,Bristol Plaza,(714) 424-9304,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+85,Trader Joe's,grocery,Santa Ana,Bristol Plaza,(714) 424-9304,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+86,Trader Joe's,grocery,Santa Ana,Bristol Plaza,(714) 424-9304,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+87,Trader Joe's,grocery,Santa Ana,Bristol Plaza,(714) 424-9304,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+88,Trader Joe's,grocery,Santa Ana,Bristol Plaza,(714) 424-9304,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+89,Trader Joe's,grocery,Santa Ana,Bristol Plaza,(714) 424-9304,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+90,Trader Joe's,grocery,Santa Ana,Bristol Plaza,(714) 424-9304,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+91,Trader Joe's,grocery,Santa Clarita,,(661) 263-3796,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+92,Trader Joe's,grocery,Santa Monica,,(310) 581-0253,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+93,Trader Joe's,grocery,Temecula,,(951) 296-9964,,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+94,Trader Joe's,grocery,Toluca Lake,,(818) 762-2787,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+95,Trader Joe's,grocery,Westchester,,(310) 338-9238,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+96,Trader Joe's,grocery,Woodland Hills,,(818) 712-9475,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+97,Trader Joe's,grocery,Yorba Linda,Country Club Village,(714) 970-0116,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+98,Trader Joe's,grocery,Yorba Linda,Country Club Village,(714) 970-0116,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+99,Trader Joe's,grocery,Yorba Linda,Country Club Village,(714) 970-0116,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+100,Trader Joe's,grocery,Yorba Linda,Country Club Village,(714) 970-0116,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+101,Trader Joe's,grocery,Yorba Linda,Country Club Village,(714) 970-0116,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+102,Trader Joe's,grocery,Yorba Linda,Country Club Village,(714) 970-0116,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+103,Trader Joe's,grocery,Yorba Linda,Country Club Village,(714) 970-0116,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+104,Trader Joe's,grocery,Yorba Linda,Country Club Village,(714) 970-0116,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+105,Trader Joe's,grocery,Boulder,Twenty Ninth Street,(303) 443-0160,,CO,Boulder County,50.0,8.0,13.0,0.0,0.0,0.0,Boulder County
+106,Trader Joe's,grocery,Atlanta,Midtown Promenade,(404) 815-9210,,GA,Dekalb County,,,,,,,
+107,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,5.0,71.0,0.0,0.0,0.0,Johnson County
+108,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,13.0,167.0,0.0,0.0,0.0,Johnson County
+109,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,17.0,87.0,0.0,0.0,0.0,Johnson County
+110,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,18.0,81.0,0.0,0.0,0.0,Johnson County
+111,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,19.0,103.0,0.0,0.0,0.0,Johnson County
+112,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,20.0,91.0,0.0,0.0,0.0,Johnson County
+113,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,21.0,115.0,0.0,0.0,0.0,Johnson County
+114,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,29.0,101.0,0.0,0.0,0.0,Johnson County
+115,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,31.0,97.0,0.0,0.0,0.0,Johnson County
+116,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,47.0,91.0,0.0,0.0,0.0,Johnson County
+117,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,48.0,251.0,0.0,0.0,0.0,Johnson County
+118,Trader Joe's,grocery,Coralville,,(319) 351-7223,,IA,Johnson County,50.0,56.0,19.0,0.0,0.0,0.0,Johnson County
+119,Trader Joe's,grocery,Boise,,(208) 336-7282,,ID,Ada County,50.0,16.0,1.0,0.0,0.0,0.0,Ada County
+120,Trader Joe's,grocery,Baton Rouge,,(225) 382-0588,,LA,East Baton Rouge County,,,,,,,
+121,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,1.0,73.0,0.0,0.0,0.0,Jefferson County
+122,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,5.0,69.0,0.0,0.0,0.0,Jefferson County
+123,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,8.0,59.0,0.0,0.0,0.0,Jefferson County
+124,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,12.0,65.0,0.0,0.0,0.0,Jefferson County
+125,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,13.0,163.0,0.0,0.0,0.0,Jefferson County
+126,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,16.0,51.0,0.0,0.0,0.0,Jefferson County
+127,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,17.0,81.0,0.0,0.0,0.0,Jefferson County
+128,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,18.0,77.0,0.0,0.0,0.0,Jefferson County
+129,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,19.0,101.0,0.0,0.0,0.0,Jefferson County
+130,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,20.0,87.0,0.0,0.0,0.0,Jefferson County
+131,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,21.0,111.0,0.0,0.0,0.0,Jefferson County
+132,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,28.0,63.0,0.0,0.0,0.0,Jefferson County
+133,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,29.0,99.0,0.0,0.0,0.0,Jefferson County
+134,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,30.0,43.0,0.0,0.0,0.0,Jefferson County
+135,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,31.0,95.0,0.0,0.0,0.0,Jefferson County
+136,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,36.0,45.0,0.0,0.0,0.0,Jefferson County
+137,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,39.0,81.0,0.0,0.0,0.0,Jefferson County
+138,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,40.0,67.0,0.0,0.0,0.0,Jefferson County
+139,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,41.0,31.0,0.0,0.0,0.0,Jefferson County
+140,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,42.0,65.0,0.0,0.0,0.0,Jefferson County
+141,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,47.0,89.0,0.0,0.0,0.0,Jefferson County
+142,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,48.0,245.0,0.0,0.0,0.0,Jefferson County
+143,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,53.0,31.0,0.0,0.0,0.0,Jefferson County
+144,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,54.0,37.0,0.0,0.0,0.0,Jefferson County
+145,Trader Joe's,grocery,Metairie,,(504) 831-0253,,LA,Jefferson County,50.0,55.0,55.0,0.0,0.0,0.0,Jefferson County
+146,Trader Joe's,grocery,Cambridge,Memorial Plaza,(617) 491-8582,,MA,Middlesex County,50.0,9.0,7.0,0.0,0.0,0.0,Middlesex County
+147,Trader Joe's,grocery,Cambridge,Memorial Plaza,(617) 491-8582,,MA,Middlesex County,50.0,25.0,17.0,0.0,0.0,0.0,Middlesex County
+148,Trader Joe's,grocery,Cambridge,Memorial Plaza,(617) 491-8582,,MA,Middlesex County,50.0,34.0,23.0,0.0,0.0,0.0,Middlesex County
+149,Trader Joe's,grocery,Cambridge,Memorial Plaza,(617) 491-8582,,MA,Middlesex County,50.0,51.0,119.0,0.0,0.0,0.0,Middlesex County
+150,Trader Joe's,grocery,Somerville,Assembly Square,(617) 591-0124,,MA,Middlesex County,50.0,9.0,7.0,0.0,0.0,0.0,Middlesex County
+151,Trader Joe's,grocery,Somerville,Assembly Square,(617) 591-0124,,MA,Middlesex County,50.0,25.0,17.0,0.0,0.0,0.0,Middlesex County
+152,Trader Joe's,grocery,Somerville,Assembly Square,(617) 591-0124,,MA,Middlesex County,50.0,34.0,23.0,0.0,0.0,0.0,Middlesex County
+153,Trader Joe's,grocery,Somerville,Assembly Square,(617) 591-0124,,MA,Middlesex County,50.0,51.0,119.0,0.0,0.0,0.0,Middlesex County
+154,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,1.0,101.0,0.0,0.0,0.0,Montgomery County
+155,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,5.0,97.0,0.0,0.0,0.0,Montgomery County
+156,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,13.0,209.0,0.0,0.0,0.0,Montgomery County
+157,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,17.0,135.0,0.0,0.0,0.0,Montgomery County
+158,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,18.0,107.0,0.0,0.0,0.0,Montgomery County
+159,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,19.0,137.0,0.0,0.0,0.0,Montgomery County
+160,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,20.0,125.0,0.0,0.0,0.0,Montgomery County
+161,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,21.0,173.0,0.0,0.0,0.0,Montgomery County
+162,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,24.0,31.0,0.0,0.0,0.0,Montgomery County
+163,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,28.0,97.0,0.0,0.0,0.0,Montgomery County
+164,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,29.0,139.0,0.0,0.0,0.0,Montgomery County
+165,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,36.0,57.0,0.0,0.0,0.0,Montgomery County
+166,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,37.0,123.0,0.0,0.0,0.0,Montgomery County
+167,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,39.0,113.0,0.0,0.0,0.0,Montgomery County
+168,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,42.0,91.0,0.0,0.0,0.0,Montgomery County
+169,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,47.0,125.0,0.0,0.0,0.0,Montgomery County
+170,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,48.0,339.0,0.0,0.0,0.0,Montgomery County
+171,Trader Joe's,grocery,Rockville,Federal Plaza,(301) 468-6656,,MD,Montgomery County,50.0,51.0,121.0,0.0,0.0,0.0,Montgomery County
+172,Trader Joe's,grocery,Ann Arbor,,(734) 975-2455,,MI,Washtenaw County,50.0,26.0,161.0,0.0,0.0,0.0,Washtenaw County
+173,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,13.0,305.0,0.0,0.0,0.0,Wayne County
+174,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,17.0,191.0,0.0,0.0,0.0,Wayne County
+175,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,18.0,177.0,0.0,0.0,0.0,Wayne County
+176,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,19.0,185.0,0.0,0.0,0.0,Wayne County
+177,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,21.0,231.0,0.0,0.0,0.0,Wayne County
+178,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,26.0,163.0,0.0,0.0,0.0,Wayne County
+179,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,28.0,153.0,0.0,0.0,0.0,Wayne County
+180,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,29.0,223.0,0.0,0.0,0.0,Wayne County
+181,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,31.0,179.0,0.0,0.0,0.0,Wayne County
+182,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,36.0,117.0,0.0,0.0,0.0,Wayne County
+183,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,37.0,191.0,0.0,0.0,0.0,Wayne County
+184,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,39.0,169.0,0.0,0.0,0.0,Wayne County
+185,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,42.0,127.0,0.0,0.0,0.0,Wayne County
+186,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,47.0,181.0,0.0,0.0,0.0,Wayne County
+187,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,49.0,55.0,0.0,0.0,0.0,Wayne County
+188,Trader Joe's,grocery,Northville,Northville Park Place,(248) 349-4909,,MI,Wayne County,50.0,54.0,99.0,0.0,0.0,0.0,Wayne County
+189,Trader Joe's,grocery,Maple Grove,The Shoppes at Arbor Lakes,(763) 315-1739,,MN,Hennepin County,50.0,27.0,53.0,0.0,0.0,0.0,Hennepin County
+190,Trader Joe's,grocery,Minnetonka,West Ridge Market,(952) 417-9080,,MN,Hennepin County,50.0,27.0,53.0,0.0,0.0,0.0,Hennepin County
+191,Trader Joe's,grocery,Shoreview,,(651) 765-1398,,MN,Ramsey County,50.0,27.0,123.0,0.0,0.0,0.0,Ramsey County
+192,Trader Joe's,grocery,Shoreview,,(651) 765-1398,,MN,Ramsey County,50.0,38.0,71.0,0.0,0.0,0.0,Ramsey County
+193,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+194,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+195,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+196,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+197,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+198,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+199,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+200,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+201,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+202,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+203,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+204,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+205,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+206,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+207,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+208,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+209,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+210,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+211,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+212,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+213,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+214,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+215,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+216,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+217,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+218,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+219,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+220,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+221,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+222,Trader Joe's,grocery,Woodbury,Woodbury Lakes,(651) 735-0269,,MN,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+223,Trader Joe's,grocery,Hoboken,,(201) 714-4790,,NJ,Hudson County,50.0,34.0,17.0,0.0,0.0,0.0,Hudson County
+224,Trader Joe's,grocery,Millburn,,(973) 218-0912,,NJ,Essex County,50.0,25.0,9.0,0.0,0.0,0.0,Essex County
+225,Trader Joe's,grocery,Millburn,,(973) 218-0912,,NJ,Essex County,50.0,34.0,13.0,0.0,0.0,0.0,Essex County
+226,Trader Joe's,grocery,Millburn,,(973) 218-0912,,NJ,Essex County,50.0,36.0,31.0,0.0,0.0,0.0,Essex County
+227,Trader Joe's,grocery,Millburn,,(973) 218-0912,,NJ,Essex County,50.0,50.0,9.0,0.0,0.0,0.0,Essex County
+228,Trader Joe's,grocery,Millburn,,(973) 218-0912,,NJ,Essex County,50.0,51.0,57.0,0.0,0.0,0.0,Essex County
+229,Trader Joe's,grocery,Princeton,,(609) 897-0581,,NJ,Mercer County,50.0,17.0,131.0,0.0,0.0,0.0,Mercer County
+230,Trader Joe's,grocery,Princeton,,(609) 897-0581,,NJ,Mercer County,50.0,21.0,167.0,0.0,0.0,0.0,Mercer County
+231,Trader Joe's,grocery,Princeton,,(609) 897-0581,,NJ,Mercer County,50.0,29.0,129.0,0.0,0.0,0.0,Mercer County
+232,Trader Joe's,grocery,Princeton,,(609) 897-0581,,NJ,Mercer County,50.0,34.0,21.0,0.0,0.0,0.0,Mercer County
+233,Trader Joe's,grocery,Princeton,,(609) 897-0581,,NJ,Mercer County,50.0,38.0,57.0,0.0,0.0,0.0,Mercer County
+234,Trader Joe's,grocery,Princeton,,(609) 897-0581,,NJ,Mercer County,50.0,39.0,107.0,0.0,0.0,0.0,Mercer County
+235,Trader Joe's,grocery,Princeton,,(609) 897-0581,,NJ,Mercer County,50.0,42.0,85.0,0.0,0.0,0.0,Mercer County
+236,Trader Joe's,grocery,Princeton,,(609) 897-0581,,NJ,Mercer County,50.0,54.0,55.0,0.0,0.0,0.0,Mercer County
+237,Trader Joe's,grocery,Santa Fe,Coronado Center,(505) 995-8145,,NM,Santa Fe County,50.0,35.0,49.0,0.0,0.0,0.0,Santa Fe County
+238,Trader Joe's,grocery,Carson City,Clear Creek Plaza,(775) 267-2486,,NV,Carson City County,,,,,,,
+239,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,5.0,19.0,0.0,0.0,0.0,Clark County
+240,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,16.0,33.0,0.0,0.0,0.0,Clark County
+241,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,17.0,23.0,0.0,0.0,0.0,Clark County
+242,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,18.0,19.0,0.0,0.0,0.0,Clark County
+243,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,20.0,25.0,0.0,0.0,0.0,Clark County
+244,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,21.0,49.0,0.0,0.0,0.0,Clark County
+245,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,29.0,45.0,0.0,0.0,0.0,Clark County
+246,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,32.0,3.0,0.0,0.0,0.0,Clark County
+247,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,39.0,23.0,0.0,0.0,0.0,Clark County
+248,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,46.0,25.0,0.0,0.0,0.0,Clark County
+249,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,53.0,11.0,0.0,0.0,0.0,Clark County
+250,Trader Joe's,grocery,Henderson,,(702) 407-8673,,NV,Clark County,50.0,55.0,19.0,0.0,0.0,0.0,Clark County
+251,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,5.0,19.0,0.0,0.0,0.0,Clark County
+252,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,16.0,33.0,0.0,0.0,0.0,Clark County
+253,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,17.0,23.0,0.0,0.0,0.0,Clark County
+254,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,18.0,19.0,0.0,0.0,0.0,Clark County
+255,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,20.0,25.0,0.0,0.0,0.0,Clark County
+256,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,21.0,49.0,0.0,0.0,0.0,Clark County
+257,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,29.0,45.0,0.0,0.0,0.0,Clark County
+258,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,32.0,3.0,0.0,0.0,0.0,Clark County
+259,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,39.0,23.0,0.0,0.0,0.0,Clark County
+260,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,46.0,25.0,0.0,0.0,0.0,Clark County
+261,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,53.0,11.0,0.0,0.0,0.0,Clark County
+262,Trader Joe's,grocery,Henderson,Green Valley Plaza & Shops,(702) 433-6773,,NV,Clark County,50.0,55.0,19.0,0.0,0.0,0.0,Clark County
+263,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,5.0,19.0,0.0,0.0,0.0,Clark County
+264,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,16.0,33.0,0.0,0.0,0.0,Clark County
+265,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,17.0,23.0,0.0,0.0,0.0,Clark County
+266,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,18.0,19.0,0.0,0.0,0.0,Clark County
+267,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,20.0,25.0,0.0,0.0,0.0,Clark County
+268,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,21.0,49.0,0.0,0.0,0.0,Clark County
+269,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,29.0,45.0,0.0,0.0,0.0,Clark County
+270,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,32.0,3.0,0.0,0.0,0.0,Clark County
+271,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,39.0,23.0,0.0,0.0,0.0,Clark County
+272,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,46.0,25.0,0.0,0.0,0.0,Clark County
+273,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,53.0,11.0,0.0,0.0,0.0,Clark County
+274,Trader Joe's,grocery,Las Vegas,,(702) 242-8240,,NV,Clark County,50.0,55.0,19.0,0.0,0.0,0.0,Clark County
+275,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,5.0,19.0,0.0,0.0,0.0,Clark County
+276,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,16.0,33.0,0.0,0.0,0.0,Clark County
+277,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,17.0,23.0,0.0,0.0,0.0,Clark County
+278,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,18.0,19.0,0.0,0.0,0.0,Clark County
+279,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,20.0,25.0,0.0,0.0,0.0,Clark County
+280,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,21.0,49.0,0.0,0.0,0.0,Clark County
+281,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,29.0,45.0,0.0,0.0,0.0,Clark County
+282,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,32.0,3.0,0.0,0.0,0.0,Clark County
+283,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,39.0,23.0,0.0,0.0,0.0,Clark County
+284,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,46.0,25.0,0.0,0.0,0.0,Clark County
+285,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,53.0,11.0,0.0,0.0,0.0,Clark County
+286,Trader Joe's,grocery,Las Vegas,Downtown Summerlin,(702) 242-0597,,NV,Clark County,50.0,55.0,19.0,0.0,0.0,0.0,Clark County
+287,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,5.0,19.0,0.0,0.0,0.0,Clark County
+288,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,16.0,33.0,0.0,0.0,0.0,Clark County
+289,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,17.0,23.0,0.0,0.0,0.0,Clark County
+290,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,18.0,19.0,0.0,0.0,0.0,Clark County
+291,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,20.0,25.0,0.0,0.0,0.0,Clark County
+292,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,21.0,49.0,0.0,0.0,0.0,Clark County
+293,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,29.0,45.0,0.0,0.0,0.0,Clark County
+294,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,32.0,3.0,0.0,0.0,0.0,Clark County
+295,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,39.0,23.0,0.0,0.0,0.0,Clark County
+296,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,46.0,25.0,0.0,0.0,0.0,Clark County
+297,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,53.0,11.0,0.0,0.0,0.0,Clark County
+298,Trader Joe's,grocery,Las Vegas,Centennial Gateway,(702) 396-3372,,NV,Clark County,50.0,55.0,19.0,0.0,0.0,0.0,Clark County
+299,Trader Joe's,grocery,Reno,,(775) 826-1621,,NV,Washoe County,50.0,32.0,31.0,0.0,0.0,0.0,Washoe County
+300,Trader Joe's,grocery,Brooklyn,City Point Shopping Center,(718) 243-0107,,NY,Kings County,50.0,6.0,31.0,0.0,0.0,0.0,Kings County
+301,Trader Joe's,grocery,Brooklyn,City Point Shopping Center,(718) 243-0107,,NY,Kings County,50.0,36.0,47.0,0.0,0.0,0.0,Kings County
+302,Trader Joe's,grocery,Brooklyn,,(718) 246-8460,,NY,Kings County,50.0,6.0,31.0,0.0,0.0,0.0,Kings County
+303,Trader Joe's,grocery,Brooklyn,,(718) 246-8460,,NY,Kings County,50.0,36.0,47.0,0.0,0.0,0.0,Kings County
+304,Trader Joe's,grocery,New York,,(212) 889-3279,,NY,New York County,50.0,36.0,61.0,0.0,0.0,0.0,New York County
+305,Trader Joe's,grocery,New York,,(212) 799-0028,,NY,New York County,50.0,36.0,61.0,0.0,0.0,0.0,New York County
+306,Trader Joe's,grocery,New York,,(212) 678-1680,,NY,New York County,50.0,36.0,61.0,0.0,0.0,0.0,New York County
+307,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+308,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+309,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+310,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+311,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+312,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+313,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+314,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+315,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+316,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+317,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+318,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+319,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+320,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+321,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+322,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+323,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+324,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+325,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+326,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+327,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+328,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+329,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+330,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+331,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+332,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+333,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+334,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+335,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+336,Trader Joe's,grocery,Beaverton,Beaverton Town Square,(503) 626-3794,,OR,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+337,Trader Joe's,grocery,Corvallis,Corvallis Market Center,(541) 753-0048,,OR,Benton County,50.0,5.0,7.0,0.0,0.0,0.0,Benton County
+338,Trader Joe's,grocery,Corvallis,Corvallis Market Center,(541) 753-0048,,OR,Benton County,50.0,18.0,7.0,0.0,0.0,0.0,Benton County
+339,Trader Joe's,grocery,Corvallis,Corvallis Market Center,(541) 753-0048,,OR,Benton County,50.0,19.0,11.0,0.0,0.0,0.0,Benton County
+340,Trader Joe's,grocery,Corvallis,Corvallis Market Center,(541) 753-0048,,OR,Benton County,50.0,27.0,9.0,0.0,0.0,0.0,Benton County
+341,Trader Joe's,grocery,Corvallis,Corvallis Market Center,(541) 753-0048,,OR,Benton County,50.0,28.0,9.0,0.0,0.0,0.0,Benton County
+342,Trader Joe's,grocery,Corvallis,Corvallis Market Center,(541) 753-0048,,OR,Benton County,50.0,29.0,15.0,0.0,0.0,0.0,Benton County
+343,Trader Joe's,grocery,Corvallis,Corvallis Market Center,(541) 753-0048,,OR,Benton County,50.0,41.0,3.0,0.0,0.0,0.0,Benton County
+344,Trader Joe's,grocery,Corvallis,Corvallis Market Center,(541) 753-0048,,OR,Benton County,50.0,47.0,5.0,0.0,0.0,0.0,Benton County
+345,Trader Joe's,grocery,Corvallis,Corvallis Market Center,(541) 753-0048,,OR,Benton County,50.0,53.0,5.0,0.0,0.0,0.0,Benton County
+346,Trader Joe's,grocery,Eugene,Oakway Center,(541) 485-1744,,OR,Lane County,50.0,20.0,101.0,0.0,0.0,0.0,Lane County
+347,Trader Joe's,grocery,Eugene,Oakway Center,(541) 485-1744,,OR,Lane County,50.0,41.0,39.0,0.0,0.0,0.0,Lane County
+348,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+349,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+350,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+351,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+352,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+353,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+354,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+355,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+356,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+357,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+358,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+359,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+360,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+361,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+362,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+363,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+364,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+365,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+366,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+367,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+368,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+369,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+370,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+371,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+372,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+373,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+374,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+375,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+376,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+377,Trader Joe's,grocery,Hillsboro,Tanasbourne Village,(503) 645-8321,,OR,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+378,Trader Joe's,grocery,Portland,,(503) 777-1601,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+379,Trader Joe's,grocery,Portland,,(971) 544-0788,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+380,Trader Joe's,grocery,Portland,,(503) 284-4232,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+381,Trader Joe's,grocery,Pittsburgh,,(412) 363-5748,,PA,Allegheny County,50.0,42.0,3.0,0.0,0.0,0.0,Allegheny County
+382,Trader Joe's,grocery,Columbia,,(803) 790-2404,,SC,Lexington County,50.0,45.0,63.0,0.0,0.0,0.0,Lexington County
+383,Trader Joe's,grocery,Austin,,(512) 474-2263,,TX,Travis County,50.0,48.0,453.0,0.0,0.0,0.0,Travis County
+384,Trader Joe's,grocery,Dallas,Pepper Square,(972) 239-3901,,TX,Dallas County,50.0,1.0,47.0,0.0,0.0,0.0,Dallas County
+385,Trader Joe's,grocery,Dallas,Pepper Square,(972) 239-3901,,TX,Dallas County,50.0,5.0,39.0,0.0,0.0,0.0,Dallas County
+386,Trader Joe's,grocery,Dallas,Pepper Square,(972) 239-3901,,TX,Dallas County,50.0,19.0,49.0,0.0,0.0,0.0,Dallas County
+387,Trader Joe's,grocery,Dallas,Pepper Square,(972) 239-3901,,TX,Dallas County,50.0,29.0,59.0,0.0,0.0,0.0,Dallas County
+388,Trader Joe's,grocery,Dallas,Pepper Square,(972) 239-3901,,TX,Dallas County,50.0,48.0,113.0,0.0,0.0,0.0,Dallas County
+389,Trader Joe's,grocery,Houston,Alabama Shepherd Shopping Center,(713) 526-4034,,TX,Harris County,50.0,13.0,145.0,0.0,0.0,0.0,Harris County
+390,Trader Joe's,grocery,Houston,Alabama Shepherd Shopping Center,(713) 526-4034,,TX,Harris County,50.0,48.0,201.0,0.0,0.0,0.0,Harris County
+391,Trader Joe's,grocery,Houston,,(713) 266-2377,,TX,Harris County,50.0,13.0,145.0,0.0,0.0,0.0,Harris County
+392,Trader Joe's,grocery,Houston,,(713) 266-2377,,TX,Harris County,50.0,48.0,201.0,0.0,0.0,0.0,Harris County
+393,Trader Joe's,grocery,San Antonio,Quarry Village,(210) 826-1110,,TX,Bexar County,50.0,48.0,29.0,0.0,0.0,0.0,Bexar County
+394,Trader Joe's,grocery,San Antonio,,(210) 545-3123,,TX,Bexar County,50.0,48.0,29.0,0.0,0.0,0.0,Bexar County
+395,Trader Joe's,grocery,Alexandria,,(703) 548-0611,,VA,Alexandria City County,,,,,,,
+396,Trader Joe's,grocery,Bailey's Crossroads,The Shoppes at Baileys Crossroads,(703) 379-5883,,VA,Fairfax County,50.0,51.0,59.0,0.0,0.0,0.0,Fairfax County
+397,Trader Joe's,grocery,Charlottesville,The Shops at Stonefield,(434) 974-1466,,VA,Albemarle County,50.0,51.0,3.0,0.0,0.0,0.0,Albemarle County
+398,Trader Joe's,grocery,Falls Church,Tysons Station,(703) 288-0566,,VA,Fairfax County,50.0,51.0,59.0,0.0,0.0,0.0,Fairfax County
+399,Trader Joe's,grocery,Bellevue,,(425) 641-5069,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+400,Trader Joe's,grocery,Bellevue,,(425) 641-5069,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+401,Trader Joe's,grocery,Bellevue,,(425) 454-9799,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+402,Trader Joe's,grocery,Bellevue,,(425) 454-9799,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+403,Trader Joe's,grocery,Burien,Five Corners Shopping Center,(206) 901-9339,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+404,Trader Joe's,grocery,Burien,Five Corners Shopping Center,(206) 901-9339,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+405,Trader Joe's,grocery,Federal Way,SeaTac Village Shopping Center,(253) 941-6138,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+406,Trader Joe's,grocery,Federal Way,SeaTac Village Shopping Center,(253) 941-6138,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+407,Trader Joe's,grocery,Kirkland,The Village at Totem Lake,(425) 814-9181,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+408,Trader Joe's,grocery,Kirkland,The Village at Totem Lake,(425) 814-9181,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+409,Trader Joe's,grocery,Lynnwood,James Village Shopping Center,(425) 744-1346,,WA,Snohomish County,50.0,53.0,61.0,0.0,0.0,0.0,Snohomish County
+410,Trader Joe's,grocery,Seattle,,(206) 913-0013,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+411,Trader Joe's,grocery,Seattle,,(206) 913-0013,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+412,Trader Joe's,grocery,Seattle,,(206) 783-0498,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+413,Trader Joe's,grocery,Seattle,,(206) 783-0498,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+414,Trader Joe's,grocery,Seattle,,(206) 322-7268,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+415,Trader Joe's,grocery,Seattle,,(206) 322-7268,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+416,Trader Joe's,grocery,Seattle,,(206) 547-6299,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+417,Trader Joe's,grocery,Seattle,,(206) 547-6299,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+418,Trader Joe's,grocery,Seattle,,(206) 284-2546,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+419,Trader Joe's,grocery,Seattle,,(206) 284-2546,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+420,Trader Joe's,grocery,Spokane,Lincoln Heights Shopping Center,(509) 534-1077,,WA,Spokane County,50.0,53.0,63.0,0.0,0.0,0.0,Spokane County
+421,Trader Joe's,grocery,University Place,Green Firs Towne Center,(253) 460-2672,,WA,Pierce County,50.0,13.0,229.0,0.0,0.0,0.0,Pierce County
+422,Trader Joe's,grocery,University Place,Green Firs Towne Center,(253) 460-2672,,WA,Pierce County,50.0,31.0,139.0,0.0,0.0,0.0,Pierce County
+423,Trader Joe's,grocery,University Place,Green Firs Towne Center,(253) 460-2672,,WA,Pierce County,50.0,38.0,69.0,0.0,0.0,0.0,Pierce County
+424,Trader Joe's,grocery,University Place,Green Firs Towne Center,(253) 460-2672,,WA,Pierce County,50.0,53.0,53.0,0.0,0.0,0.0,Pierce County
+425,Trader Joe's,grocery,University Place,Green Firs Towne Center,(253) 460-2672,,WA,Pierce County,50.0,55.0,93.0,0.0,0.0,0.0,Pierce County

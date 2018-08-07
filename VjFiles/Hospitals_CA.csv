@@ -1,0 +1,877 @@
+,Business Name,Category,City,State,County,Summary Level,State Code (FIPS),County Code (FIPS),County Subdivision Code (FIPS),Place Code (FIPS),Consolidtated City Code (FIPS),Area Name (including legal/statistical area description)
+0,Alameda Hospital ,hospital, Alameda,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+1,Alta Bates Summit Medical Center ,hospital, Berkeley,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+2,Alta Bates Summit Medical Center ,hospital, Oakland,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+3,Ayesha Hospital,hospital,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+4,Children's Hospital Oakland ,hospital, Oakland,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+5,Eden Medical Center ,hospital, Castro Valley,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+6,Fairmont Hospital ,hospital, San Leandro,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+7,Highland Hospital ,hospital, Oakland,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+8,John George Psychiatric Pavilion ,hospital, San Leandro,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+9,Kaiser Fremont ,hospital, Fremont,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+10,Kaiser Livermore ,hospital, Livermore,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+11,Kaiser Oakland ,hospital, Oakland,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+12,Kaiser Permanente Medical Center ,hospital, Hayward,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+13,Kaiser Permanente Medical Center ,hospital, San Leandro,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+14,Kaiser Pleasanton ,hospital, Pleasanton,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+15,Kindred Hospital - San Francisco Bay Area ,hospital, San Leandro[1],CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+16,Livermore VA Hospital ,hospital, Livermore,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+17,St. Rose Hospital ,hospital, Hayward,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+18,San Leandro Hospital ,hospital, San Leandro,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+19,Valley Care Medical Center ,hospital, Pleasanton,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+20,Washington Hospital ,hospital, Fremont,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+21,Sutter Amador Hospital ,hospital, Jackson,CA,Amador County,50.0,6.0,5.0,0.0,0.0,0.0,Amador County
+22,County Hospital,hospital,,CA,Alpine County,50.0,6.0,3.0,0.0,0.0,0.0,Alpine County
+23,Biggs-Gridley Memorial Hospital,hospital,,CA,Butte County,50.0,6.0,7.0,0.0,0.0,0.0,Butte County
+24,Biggs-Gridley Memorial Hospital,hospital,,CA,Butte County,50.0,16.0,23.0,0.0,0.0,0.0,Butte County
+25,Biggs-Gridley Memorial Hospital,hospital,,CA,Butte County,50.0,46.0,19.0,0.0,0.0,0.0,Butte County
+26,California Park Rehabilitation Hospital,hospital,,CA,Butte County,50.0,6.0,7.0,0.0,0.0,0.0,Butte County
+27,California Park Rehabilitation Hospital,hospital,,CA,Butte County,50.0,16.0,23.0,0.0,0.0,0.0,Butte County
+28,California Park Rehabilitation Hospital,hospital,,CA,Butte County,50.0,46.0,19.0,0.0,0.0,0.0,Butte County
+29,Enloe Medical Center,hospital,,CA,Butte County,50.0,6.0,7.0,0.0,0.0,0.0,Butte County
+30,Enloe Medical Center,hospital,,CA,Butte County,50.0,16.0,23.0,0.0,0.0,0.0,Butte County
+31,Enloe Medical Center,hospital,,CA,Butte County,50.0,46.0,19.0,0.0,0.0,0.0,Butte County
+32,Feather River Hospital,hospital,,CA,Butte County,50.0,6.0,7.0,0.0,0.0,0.0,Butte County
+33,Feather River Hospital,hospital,,CA,Butte County,50.0,16.0,23.0,0.0,0.0,0.0,Butte County
+34,Feather River Hospital,hospital,,CA,Butte County,50.0,46.0,19.0,0.0,0.0,0.0,Butte County
+35,Oroville Hospital,hospital,,CA,Butte County,50.0,6.0,7.0,0.0,0.0,0.0,Butte County
+36,Oroville Hospital,hospital,,CA,Butte County,50.0,16.0,23.0,0.0,0.0,0.0,Butte County
+37,Oroville Hospital,hospital,,CA,Butte County,50.0,46.0,19.0,0.0,0.0,0.0,Butte County
+38,Mark Twain St. Joseph Hospital,hospital,,CA,Calaveras County,50.0,6.0,9.0,0.0,0.0,0.0,Calaveras County
+39,Colusa Regional Medical Center,hospital,,CA,Colusa County,50.0,6.0,11.0,0.0,0.0,0.0,Colusa County
+40,Contra Costa Regional Medical Center ,hospital, Martinez,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+41,Delta Memorial Hospital (now Sutter Delta Medical Center),hospital,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+42,Doctors Medical Center Pinole Campus ,hospital, Pinole,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+43,Guardian Rehabilitation Hospital,hospital,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+44,John Muir Medical Center ,hospital, Concord (formerly Mt. Diablo Medical Center),CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+45,John Muir Medical Center ,hospital, Walnut Creek,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+46,Kaiser Foundation Hospital ,hospital, Martinez,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+47,Kaiser Foundation Hospital ,hospital, Richmond,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+48,Kaiser Foundation Hospital ,hospital, Walnut Creek,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+49,Kaiser Medical Center ,hospital, Pinole,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+50,Los Medanos Community Hospital,hospital,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+51,San Ramon Regional Medical Center ,hospital, San Ramon,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+52,Sutter Delta Medical Center ,hospital, Antioch,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+53,Sutter Coast Hospital,hospital,,CA,Del Norte County,50.0,6.0,15.0,0.0,0.0,0.0,Del Norte County
+54,Barton Memorial Hospital,hospital,,CA,El Dorado County,50.0,6.0,17.0,0.0,0.0,0.0,El Dorado County
+55,Marshall Hospital,hospital,,CA,El Dorado County,50.0,6.0,17.0,0.0,0.0,0.0,El Dorado County
+56,Coalinga Regional Medical Center ,hospital, Coalinga,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+57,Coalinga State Hospital ,hospital, Coalinga (state run psychiatric hospital),CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+58,Community Medical Center-Clovis ,hospital, Clovis,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+59,Community Regional Medical Center ,hospital, Fresno,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+60,Fresno Heart & Surgical Hospital ,hospital, Fresno (part of Community Medical Centers),CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+61,Fresno Surgical Hospital ,hospital, Fresno,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+62,Kaiser Foundation Hospital ,hospital, Fresno,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+63,Kingsburg Medical Center ,hospital, Kingsburg (closed),CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+64,Saint Agnes Medical Center ,hospital, Fresno,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+65,San Joaquin Valley Rehabilitation Hospital,hospital,,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+66,Sanger General Hospital ,hospital, Sanger (closed),CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+67,Selma Community Hospital ,hospital, Selma,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+68,Sierra Kings Hospital ,hospital, Reedley (acquired by Adventist Health and renamed Adventist Medical Center ,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+69,Glenn Medical Center,hospital,,CA,Glenn County,50.0,6.0,21.0,0.0,0.0,0.0,Glenn County
+70,Jerold Phelps Community Hospital ,hospital, Garberville,CA,Humboldt County,50.0,6.0,23.0,0.0,0.0,0.0,Humboldt County
+71,Jerold Phelps Community Hospital ,hospital, Garberville,CA,Humboldt County,50.0,19.0,91.0,0.0,0.0,0.0,Humboldt County
+72,Jerold Phelps Community Hospital ,hospital, Garberville,CA,Humboldt County,50.0,32.0,13.0,0.0,0.0,0.0,Humboldt County
+73,Mad River Community Hospital ,hospital, Arcata,CA,Humboldt County,50.0,6.0,23.0,0.0,0.0,0.0,Humboldt County
+74,Mad River Community Hospital ,hospital, Arcata,CA,Humboldt County,50.0,19.0,91.0,0.0,0.0,0.0,Humboldt County
+75,Mad River Community Hospital ,hospital, Arcata,CA,Humboldt County,50.0,32.0,13.0,0.0,0.0,0.0,Humboldt County
+76,Redwood Memorial Hospital ,hospital, Fortuna (owned by St. Joseph Health System),CA,Humboldt County,50.0,6.0,23.0,0.0,0.0,0.0,Humboldt County
+77,Redwood Memorial Hospital ,hospital, Fortuna (owned by St. Joseph Health System),CA,Humboldt County,50.0,19.0,91.0,0.0,0.0,0.0,Humboldt County
+78,Redwood Memorial Hospital ,hospital, Fortuna (owned by St. Joseph Health System),CA,Humboldt County,50.0,32.0,13.0,0.0,0.0,0.0,Humboldt County
+79,St. Joseph Hospital ,hospital, Eureka (includes the General Hospital Campus and Rehabilitation Hospital),CA,Humboldt County,50.0,6.0,23.0,0.0,0.0,0.0,Humboldt County
+80,St. Joseph Hospital ,hospital, Eureka (includes the General Hospital Campus and Rehabilitation Hospital),CA,Humboldt County,50.0,19.0,91.0,0.0,0.0,0.0,Humboldt County
+81,St. Joseph Hospital ,hospital, Eureka (includes the General Hospital Campus and Rehabilitation Hospital),CA,Humboldt County,50.0,32.0,13.0,0.0,0.0,0.0,Humboldt County
+82,Calexico Health Center - Urgent Care,hospital,,CA,Imperial County,50.0,6.0,25.0,0.0,0.0,0.0,Imperial County
+83,El Centro Regional Medical Center,hospital,,CA,Imperial County,50.0,6.0,25.0,0.0,0.0,0.0,Imperial County
+84,Pioneers Memorial Hospital,hospital,,CA,Imperial County,50.0,6.0,25.0,0.0,0.0,0.0,Imperial County
+85,Northern Inyo Hospital,hospital,,CA,Inyo County,50.0,6.0,27.0,0.0,0.0,0.0,Inyo County
+86,Southern Inyo Hospital,hospital,,CA,Inyo County,50.0,6.0,27.0,0.0,0.0,0.0,Inyo County
+87,Bakersfield Heart Hospital ,hospital, Bakersfield,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+88,Bakersfield Memorial Hospital ,hospital, Bakersfield,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+89,Delano Regional Medical Center ,hospital, Delano,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+90,Kern Medical Center ,hospital, Bakersfield,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+91,Kern Valley ,hospital, Lake Isabella,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+92,Mercy Hospital Bakersfield (formerly named Mercy Truxton),hospital,,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+93,Mercy Southwest ,hospital, Bakersfield,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+94,Ridgecrest Regional Hospital ,hospital, Ridgecrest,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+95,San Joaquin Medical Center ,hospital, Bakersfield,CA,Kern County,50.0,6.0,29.0,0.0,0.0,0.0,Kern County
+96,Adventist Medical Center ,hospital, Hanford,CA,Kings County,50.0,6.0,31.0,0.0,0.0,0.0,Kings County
+97,Adventist Medical Center ,hospital, Hanford,CA,Kings County,50.0,36.0,47.0,0.0,0.0,0.0,Kings County
+98,Central Valley General Hospital,hospital,,CA,Kings County,50.0,6.0,31.0,0.0,0.0,0.0,Kings County
+99,Central Valley General Hospital,hospital,,CA,Kings County,50.0,36.0,47.0,0.0,0.0,0.0,Kings County
+100,Corcoran District Hospital,hospital,,CA,Kings County,50.0,6.0,31.0,0.0,0.0,0.0,Kings County
+101,Corcoran District Hospital,hospital,,CA,Kings County,50.0,36.0,47.0,0.0,0.0,0.0,Kings County
+102,Naval Hospital Lemoore,hospital,,CA,Kings County,50.0,6.0,31.0,0.0,0.0,0.0,Kings County
+103,Naval Hospital Lemoore,hospital,,CA,Kings County,50.0,36.0,47.0,0.0,0.0,0.0,Kings County
+104,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,6.0,33.0,0.0,0.0,0.0,Lake County
+105,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,8.0,65.0,0.0,0.0,0.0,Lake County
+106,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,12.0,69.0,0.0,0.0,0.0,Lake County
+107,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,17.0,97.0,0.0,0.0,0.0,Lake County
+108,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,18.0,89.0,0.0,0.0,0.0,Lake County
+109,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,26.0,85.0,0.0,0.0,0.0,Lake County
+110,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,27.0,75.0,0.0,0.0,0.0,Lake County
+111,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,30.0,47.0,0.0,0.0,0.0,Lake County
+112,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,39.0,85.0,0.0,0.0,0.0,Lake County
+113,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,41.0,37.0,0.0,0.0,0.0,Lake County
+114,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,46.0,79.0,0.0,0.0,0.0,Lake County
+115,St. Helena Hospital Clearlake,hospital,,CA,Lake County,50.0,47.0,95.0,0.0,0.0,0.0,Lake County
+116,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,6.0,33.0,0.0,0.0,0.0,Lake County
+117,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,8.0,65.0,0.0,0.0,0.0,Lake County
+118,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,12.0,69.0,0.0,0.0,0.0,Lake County
+119,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,17.0,97.0,0.0,0.0,0.0,Lake County
+120,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,18.0,89.0,0.0,0.0,0.0,Lake County
+121,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,26.0,85.0,0.0,0.0,0.0,Lake County
+122,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,27.0,75.0,0.0,0.0,0.0,Lake County
+123,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,30.0,47.0,0.0,0.0,0.0,Lake County
+124,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,39.0,85.0,0.0,0.0,0.0,Lake County
+125,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,41.0,37.0,0.0,0.0,0.0,Lake County
+126,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,46.0,79.0,0.0,0.0,0.0,Lake County
+127,Sutter Lakeside Hospital,hospital,,CA,Lake County,50.0,47.0,95.0,0.0,0.0,0.0,Lake County
+128,Banner Lassen Medical Center ,hospital, Susanville,CA,Lassen County,50.0,6.0,35.0,0.0,0.0,0.0,Lassen County
+129,North[edit],hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+130,These hospitals are located north of the 10 Freeway:,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+131,Alhambra Hospital Medical Center ,hospital, Alhambra,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+132,Antelope Valley Hospital Medical Center ,hospital, Lancaster,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+133,Barlow Respiratory Hospital ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+134,Burbank Community Hospital ,hospital, Burbank (closed 1997) (renamed Thompson Memorial Medical Center Hospital),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+135,California Hospital Medical Center ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+136,Cedars-Sinai Medical Center ,hospital, Los Angeles and Beverly Hills,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+137,Century City Hospital ,hospital, Los Angeles (closed),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+138,Children's Hospital Los Angeles ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+139,City of Hope National Medical Center ,hospital, Duarte,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+140,Encino Hospital Medical Center ,hospital, Encino,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+141,Estelle Doheney Eye Hospital ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+142,Foothill Presbyterian Hospital ,hospital, Glendora,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+143,Garfield Medical Center ,hospital, Monterey Park,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+144,Glendale Adventist Medical Center ,hospital, Glendale,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+145,Glendale Memorial Hospital and Health Center ,hospital, Glendale,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+146,Glendora Community Hospital ,hospital, Glendora (formerly East Valley Hospital),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+147,Good Samaritan Hospital ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+148,Granada Hills Community Hospital ,hospital, Granada Hills (closed August 2003),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+149,Henry Mayo Newhall Memorial Hospital ,hospital, Valencia,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+150,Hollywood Community Hospital of Hollywood ,hospital, Hollywood,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+151,Hollywood Community Hospital of Van Nuys ,hospital, Van Nuys,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+152,Hollywood Presbyterian Medical Center ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+153,Huntington Memorial Hospital ,hospital, Pasadena,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+154,Kaiser Foundation Hospital ,hospital, Chatsworth,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+155,Kaiser Foundation Hospital ,hospital, Panorama City,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+156,Kaiser Foundation Hospital ,hospital, West Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+157,Kaiser Foundation Hospital ,hospital, Woodland Hills,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+158,Kaiser Foundation Hospital Sunset ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+159,Lakewood Regional Medical Center ,hospital, Lakewood,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+160,Lancaster Community Hospital ,hospital, Lancaster (closed),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+161,Las Encinas Hospital ,hospital, Pasadena,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+162,Los Angeles Community Hospital ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+163,Los Angeles County High Desert Hospital ,hospital, Lancaster (closed June 2003),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+164,Los Angeles County Los Amigos Medical Center,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+165,Los Angeles County-USC Medical Center ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+166,Los Angeles Metropolitan Medical Center ,hospital, Los Angeles (closed 2013),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+167,Mattel Children's Hospital UCLA ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+168,Methodist Hospital of Southern California ,hospital, Arcadia,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+169,Mission Community Hospital ,hospital, Panorama Campus,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+170,Monrovia Community Hospital ,hospital, (closed May 2004),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+171,Monterey Park Hospital ,hospital, Monterey Park,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+172,Motion Picture & Television Hospital ,hospital, Woodland Hills,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+173,Northridge Hospital Medical Center ,hospital, Northridge,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+174,"Northridge Hospital Medical Center, Sherman Way Campus (closed December 2004)",hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+175,Olive View-UCLA Medical Center ,hospital, Sylmar,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+176,Olympia Medical Center ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+177,Orthopaedic Hospital ,hospital, Los Angeles (outpatient service only as of June 2005),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+178,Pacific Alliance Medical Center ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+179,Pacifica Hospital Of The Valley ,hospital, Sun Valley,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+180,Palmdale Regional Medical Center ,hospital, Palmdale,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+181,Pico Rivera Medical Center ,hospital, Pico Rivera,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+182,Promise Hospital of East Los Angeles ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+183,Providence Holy Cross Medical Center ,hospital, Mission Hills,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+184,Providence St. Joseph Medical Center ,hospital, Burbank,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+185,Providence Tarzana Medical Center ,hospital, Tarzana,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+186,Queen of the Valley ,hospital, West Covina,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+187,Resnick Neuropsychiatric Hospital at UCLA ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+188,Ronald Reagan UCLA Medical Center ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+189,St. John's Health Center ,hospital, Santa Monica,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+190,St. Luke Medical Center ,hospital, Sierra Madre (closed February 2002),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+191,St. Vincent Medical Center ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+192,San Gabriel Valley Medical Center ,hospital, San Gabriel,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+193,San Vicente Hospital,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+194,Santa Marta Hospital (see Elastar Community Hospital (closed 2004),hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+195,Santa Teresita Hospital ,hospital, Duarte (acute care closed January 2004),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+196,Sherman Oaks Hospital and the Grossman Burn Center ,hospital, Sherman Oaks,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+197,Shriners Hospital ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+198,Silver Lake Medical Center ,hospital, Los Angeles (formerly City of Angels Medical Center),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+199,"Silver Lake Medical Center, Ingleside Campus – Rosemead",hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+200,Temple Community Hospital ,hospital, Los Angeles (closed 2014),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+201,Thompson Memorial Medical Center Hospital ,hospital, Burbank (closed 1997) (formerly Burbank Community Hospital),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+202,"UCLA Medical Center, Santa Monica – Santa Monica",hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+203,USC Kenneth Norris Jr. Cancer Hospital,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+204,USC University Hospital ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+205,VA Greater Los Angeles Healthcare Center (Veterans Affairs) ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+206,Valley Presbyterian Hospital ,hospital, Van Nuys,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+207,Vencor Hospital ,hospital, Los Angeles ,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+208,Verdugo Hills Regional Medical Center ,hospital, Glendale,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+209,West Hills Hospital ,hospital, West Hills,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+210,West Hills Regional Medical Center ,hospital, West Hills],CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+211,West Los Angeles Memorial Hospital ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+212,West Los Angeles VA Medical Center ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+213,West Valley Hospital And Health Center ,hospital, Canoga Park,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+214,Westlake Outpatient Medical Center ,hospital, Westlake Village,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+215,Westside Hospital ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+216,White Memorial Medical Center ,hospital, Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+217,South[edit],hospital,,CA,Los Angeles County***,,,,,,,
+218,These hospitals are located south of the 10 Freeway:,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+219,Avalon Municipal Hospital,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+220,Baldwin Park Hospital ,hospital, Baldwin Park,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+221,Bay Harbor Hospital ,hospital, (closed September 1999),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+222,Bellflower Medical Center ,hospital, Bellflower,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+223,Bellwood General Hospital ,hospital, Bellflower (closed April 2003),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+224,Beverly Hospital ,hospital, Montebello,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+225,Broadway Community Hospital ,hospital, Los Angeles (closed March 1982),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+226,Brotman Medical Center ,hospital, Culver City,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+227,Casa Colina Hospital For Rehab Medicine ,hospital, Pomona,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+228,Cedars-Sinai Medical Center-Beverly Hills CA,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+229,"Centinela Freeman Regional Medical Center, Centinela Campus – Inglewood",hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+230,"Centinela Freeman Regional Medical Center, Marina Campus – Marina del Rey",hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+231,"Centinela Freeman Regional Medical Center, Memorial Campus – Inglewood (closed in 2007)",hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+232,Citrus Valley Medical Center ,hospital, IC Campus ,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+233,Citrus Valley Medical Center ,hospital, QV Campus ,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+234,Coast Plaza Hospital ,hospital, Norwalk,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+235,College Hospital ,hospital, Cerritos,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+236,College Medical Center ,hospital, Long Beach,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+237,Community Hospital of Gardena ,hospital, Gardena,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+238,Community Hospital of Huntington Park ,hospital, Huntington Park,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+239,Community Hospital of Long Beach ,hospital, Long Beach,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+240,Daniel Freeman Memorial Hospital ,hospital, Inglewood (closed 2007),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+241,Doctors Hospital Of West Covina ,hospital, West Covina,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+242,Downey Regional Medical Center ,hospital, Downey,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+243,East Los Angeles Doctors Hospital ,hospital, East Los Angeles,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+244,Elastar Community Hospital - East Los Angeles (closed in 2004)[2],hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+245,Gardens Regional Hospital & Medical Center (previously known as Tri-City Regional Medical Center)- Hawaiian Gardens[3],hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+246,Greater El Monte Community Hospital ,hospital, South El Monte,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+247,Harbor-UCLA Medical Center ,hospital, West Carson,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+248,Inter-Community Medical Center ,hospital, West Covina,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+249,Kaiser Foundation Hospital ,hospital, Bellflower,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+250,Kaiser Foundation Hospital ,hospital, Carson,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+251,Kaiser Foundation Hospital ,hospital, Harbor City,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+252,Kaiser Permanente Medical Center ,hospital, Baldwin Park,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+253,Little Company of Mary Hospital ,hospital, San Pedro,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+254,Little Company of Mary Hospital ,hospital, Torrance,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+255,Long Beach Community Hospital ,hospital, Long Beach,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+256,Long Beach Doctors Hospital ,hospital, Long Beach (closed June 1998),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+257,Long Beach Memorial Medical Center ,hospital, Long Beach,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+258,Los Angeles Community Hospital of Norwalk ,hospital, Norwalk,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+259,Los Angeles Metropolitan Med Center ,hospital, Hawthorne Campus ,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+260,Marina Del Rey Hospital ,hospital, Marina Del Rey,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+261,Martin Luther King Jr. - Harbor Hospital ,hospital, Willowbrook,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+262,Memorial Hospital Of Gardena ,hospital, Gardena,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+263,Metropolitan State Hospital ,hospital, Norwalk,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+264,Miller Children's Hospital ,hospital, Long Beach,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+265,Mission Hospital of Huntington Park ,hospital, Huntington Park,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+266,Morningside Hospital ,hospital, Los Angeles (closed September 1980),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+267,Pomona Valley Hospital Medical Center,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+268,Presbyterian Intercommunity Hospital,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+269,"Providence Little Company of Mary Medical Center, San Pedro Campus",hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+270,Rancho Los Amigos National Rehabilitation Center ,hospital, Downey,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+271,Regional Medical Center ,hospital, South Street,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+272,Rio Hondo Hospital ,hospital, Downey,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+273,Robert F. Kennedy Medical Center ,hospital, Los Angeles (closed December 2004),CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+274,St. Francis Medical Center ,hospital, Lynwood,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+275,St. Mary Medical Center ,hospital, Long Beach,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+276,San Dimas Community Hospital,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+277,Specialty Hospital of Southern California,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+278,Suburban Medical Center,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+279,Torrance Memorial Medical Center,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+280,"University Hospital – 3787 S. Vermont Avenue Los Angeles (opened before 1958, closed 1983)",hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+281,Whittier Hospital Medical Center,hospital,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+282,Children's Hospital of Central California ,hospital, Madera,CA,Madera County,50.0,6.0,39.0,0.0,0.0,0.0,Madera County
+283,Madera Community Hospital ,hospital, Madera,CA,Madera County,50.0,6.0,39.0,0.0,0.0,0.0,Madera County
+284,Kaiser Foundation Hospital ,hospital, San Rafael,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+285,Kentfield Rehabilitation Hospital,hospital,,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+286,Marin General Hospital ,hospital, Greenbrae,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+287,Novato Community Hospital,hospital,,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+288,John C. Fremont Hospital,hospital,,CA,Mariposa County,50.0,6.0,43.0,0.0,0.0,0.0,Mariposa County
+289,Frank R. Howard Memorial Hospital ,hospital, Willits,CA,Mendocino County,50.0,6.0,45.0,0.0,0.0,0.0,Mendocino County
+290,Mendocino Coast District Hospital ,hospital, Fort Bragg,CA,Mendocino County,50.0,6.0,45.0,0.0,0.0,0.0,Mendocino County
+291,Mendocino State Hospital (closed 1972),hospital,,CA,Mendocino County,50.0,6.0,45.0,0.0,0.0,0.0,Mendocino County
+292,Ukiah Valley Medical Center ,hospital, Ukiah,CA,Mendocino County,50.0,6.0,45.0,0.0,0.0,0.0,Mendocino County
+293,Los Banos Community Hospital,hospital,,CA,Merced County,50.0,6.0,47.0,0.0,0.0,0.0,Merced County
+294,Mercy Medical Center Merced Community Campus,hospital,,CA,Merced County,50.0,6.0,47.0,0.0,0.0,0.0,Merced County
+295,Mercy Medical Center Merced Dominican Campus,hospital,,CA,Merced County,50.0,6.0,47.0,0.0,0.0,0.0,Merced County
+296,Modoc Medical Center,hospital,,CA,Modoc County,50.0,6.0,49.0,0.0,0.0,0.0,Modoc County
+297,Surprise Valley Community Hospital,hospital,,CA,Modoc County,50.0,6.0,49.0,0.0,0.0,0.0,Modoc County
+298,Mammoth Hospital,hospital,,CA,Mono County,50.0,6.0,51.0,0.0,0.0,0.0,Mono County
+299,Community Hospital of the Monterey Peninsula ,hospital, Monterey,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+300,George L. Mee Memorial Hospital ,hospital, King City,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+301,Natividad Medical Center ,hospital, Salinas,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+302,Salinas Surgery Center ,hospital, Salinas,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+303,Salinas Valley Memorial Hospital ,hospital, Salinas,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+304,Napa State Hospital ,hospital, Napa,CA,Napa County,50.0,6.0,55.0,0.0,0.0,0.0,Napa County
+305,Queen of the Valley Medical Center ,hospital, Napa,CA,Napa County,50.0,6.0,55.0,0.0,0.0,0.0,Napa County
+306,St. Helena Hospital ,hospital, Angwin,CA,Napa County,50.0,6.0,55.0,0.0,0.0,0.0,Napa County
+307,Veterans Home of California Yountville ,hospital, Yountville,CA,Napa County,50.0,6.0,55.0,0.0,0.0,0.0,Napa County
+308,Sierra Nevada Memorial Hospital ,hospital, Grass Valley,CA,Nevada County,50.0,5.0,99.0,0.0,0.0,0.0,Nevada County
+309,Sierra Nevada Memorial Hospital ,hospital, Grass Valley,CA,Nevada County,50.0,6.0,57.0,0.0,0.0,0.0,Nevada County
+310,Tahoe Forest Hospital ,hospital, Truckee,CA,Nevada County,50.0,5.0,99.0,0.0,0.0,0.0,Nevada County
+311,Tahoe Forest Hospital ,hospital, Truckee,CA,Nevada County,50.0,6.0,57.0,0.0,0.0,0.0,Nevada County
+312,Anaheim General Hospital ,hospital, Anaheim,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+313,Anaheim General Hospital ,hospital, Anaheim,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+314,Anaheim General Hospital ,hospital, Anaheim,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+315,Anaheim General Hospital ,hospital, Anaheim,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+316,Anaheim General Hospital ,hospital, Anaheim,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+317,Anaheim General Hospital ,hospital, Anaheim,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+318,Anaheim General Hospital ,hospital, Anaheim,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+319,Anaheim General Hospital ,hospital, Anaheim,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+320,Anaheim General Hospital ,hospital, Buena Park Campus,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+321,Anaheim General Hospital ,hospital, Buena Park Campus,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+322,Anaheim General Hospital ,hospital, Buena Park Campus,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+323,Anaheim General Hospital ,hospital, Buena Park Campus,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+324,Anaheim General Hospital ,hospital, Buena Park Campus,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+325,Anaheim General Hospital ,hospital, Buena Park Campus,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+326,Anaheim General Hospital ,hospital, Buena Park Campus,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+327,Anaheim General Hospital ,hospital, Buena Park Campus,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+328,Anaheim Regional Medical Center ,hospital, Anaheim,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+329,Anaheim Regional Medical Center ,hospital, Anaheim,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+330,Anaheim Regional Medical Center ,hospital, Anaheim,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+331,Anaheim Regional Medical Center ,hospital, Anaheim,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+332,Anaheim Regional Medical Center ,hospital, Anaheim,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+333,Anaheim Regional Medical Center ,hospital, Anaheim,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+334,Anaheim Regional Medical Center ,hospital, Anaheim,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+335,Anaheim Regional Medical Center ,hospital, Anaheim,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+336,Brea Community Hospital ,hospital, Brea (closed),CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+337,Brea Community Hospital ,hospital, Brea (closed),CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+338,Brea Community Hospital ,hospital, Brea (closed),CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+339,Brea Community Hospital ,hospital, Brea (closed),CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+340,Brea Community Hospital ,hospital, Brea (closed),CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+341,Brea Community Hospital ,hospital, Brea (closed),CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+342,Brea Community Hospital ,hospital, Brea (closed),CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+343,Brea Community Hospital ,hospital, Brea (closed),CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+344,Chapman Medical Center ,hospital, Orange,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+345,Chapman Medical Center ,hospital, Orange,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+346,Chapman Medical Center ,hospital, Orange,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+347,Chapman Medical Center ,hospital, Orange,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+348,Chapman Medical Center ,hospital, Orange,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+349,Chapman Medical Center ,hospital, Orange,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+350,Chapman Medical Center ,hospital, Orange,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+351,Chapman Medical Center ,hospital, Orange,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+352,Children's Hospital at Mission,hospital,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+353,Children's Hospital at Mission,hospital,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+354,Children's Hospital at Mission,hospital,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+355,Children's Hospital at Mission,hospital,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+356,Children's Hospital at Mission,hospital,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+357,Children's Hospital at Mission,hospital,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+358,Children's Hospital at Mission,hospital,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+359,Children's Hospital at Mission,hospital,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+360,Children's Hospital of Orange County ,hospital, Orange,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+361,Children's Hospital of Orange County ,hospital, Orange,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+362,Children's Hospital of Orange County ,hospital, Orange,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+363,Children's Hospital of Orange County ,hospital, Orange,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+364,Children's Hospital of Orange County ,hospital, Orange,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+365,Children's Hospital of Orange County ,hospital, Orange,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+366,Children's Hospital of Orange County ,hospital, Orange,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+367,Children's Hospital of Orange County ,hospital, Orange,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+368,Coastal Communities Hospital ,hospital, Santa Ana,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+369,Coastal Communities Hospital ,hospital, Santa Ana,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+370,Coastal Communities Hospital ,hospital, Santa Ana,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+371,Coastal Communities Hospital ,hospital, Santa Ana,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+372,Coastal Communities Hospital ,hospital, Santa Ana,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+373,Coastal Communities Hospital ,hospital, Santa Ana,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+374,Coastal Communities Hospital ,hospital, Santa Ana,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+375,Coastal Communities Hospital ,hospital, Santa Ana,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+376,College Hospital Costa Mesa,hospital,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+377,College Hospital Costa Mesa,hospital,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+378,College Hospital Costa Mesa,hospital,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+379,College Hospital Costa Mesa,hospital,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+380,College Hospital Costa Mesa,hospital,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+381,College Hospital Costa Mesa,hospital,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+382,College Hospital Costa Mesa,hospital,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+383,College Hospital Costa Mesa,hospital,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+384,Fountain Valley Regional Hospital and Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+385,Fountain Valley Regional Hospital and Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+386,Fountain Valley Regional Hospital and Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+387,Fountain Valley Regional Hospital and Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+388,Fountain Valley Regional Hospital and Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+389,Fountain Valley Regional Hospital and Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+390,Fountain Valley Regional Hospital and Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+391,Fountain Valley Regional Hospital and Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+392,Garden Grove Hospital and Medical Center ,hospital, Garden Grove,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+393,Garden Grove Hospital and Medical Center ,hospital, Garden Grove,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+394,Garden Grove Hospital and Medical Center ,hospital, Garden Grove,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+395,Garden Grove Hospital and Medical Center ,hospital, Garden Grove,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+396,Garden Grove Hospital and Medical Center ,hospital, Garden Grove,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+397,Garden Grove Hospital and Medical Center ,hospital, Garden Grove,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+398,Garden Grove Hospital and Medical Center ,hospital, Garden Grove,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+399,Garden Grove Hospital and Medical Center ,hospital, Garden Grove,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+400,HealthBridge Children's Rehabilitation Hospital ,hospital, Orange,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+401,HealthBridge Children's Rehabilitation Hospital ,hospital, Orange,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+402,HealthBridge Children's Rehabilitation Hospital ,hospital, Orange,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+403,HealthBridge Children's Rehabilitation Hospital ,hospital, Orange,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+404,HealthBridge Children's Rehabilitation Hospital ,hospital, Orange,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+405,HealthBridge Children's Rehabilitation Hospital ,hospital, Orange,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+406,HealthBridge Children's Rehabilitation Hospital ,hospital, Orange,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+407,HealthBridge Children's Rehabilitation Hospital ,hospital, Orange,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+408,Hoag Memorial Hospital Presbyterian ,hospital, Irvine,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+409,Hoag Memorial Hospital Presbyterian ,hospital, Irvine,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+410,Hoag Memorial Hospital Presbyterian ,hospital, Irvine,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+411,Hoag Memorial Hospital Presbyterian ,hospital, Irvine,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+412,Hoag Memorial Hospital Presbyterian ,hospital, Irvine,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+413,Hoag Memorial Hospital Presbyterian ,hospital, Irvine,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+414,Hoag Memorial Hospital Presbyterian ,hospital, Irvine,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+415,Hoag Memorial Hospital Presbyterian ,hospital, Irvine,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+416,Hoag Memorial Hospital Presbyterian ,hospital, Newport Beach,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+417,Hoag Memorial Hospital Presbyterian ,hospital, Newport Beach,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+418,Hoag Memorial Hospital Presbyterian ,hospital, Newport Beach,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+419,Hoag Memorial Hospital Presbyterian ,hospital, Newport Beach,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+420,Hoag Memorial Hospital Presbyterian ,hospital, Newport Beach,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+421,Hoag Memorial Hospital Presbyterian ,hospital, Newport Beach,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+422,Hoag Memorial Hospital Presbyterian ,hospital, Newport Beach,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+423,Hoag Memorial Hospital Presbyterian ,hospital, Newport Beach,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+424,Huntington Beach Hospital and Medical Center ,hospital, Huntington Beach,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+425,Huntington Beach Hospital and Medical Center ,hospital, Huntington Beach,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+426,Huntington Beach Hospital and Medical Center ,hospital, Huntington Beach,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+427,Huntington Beach Hospital and Medical Center ,hospital, Huntington Beach,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+428,Huntington Beach Hospital and Medical Center ,hospital, Huntington Beach,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+429,Huntington Beach Hospital and Medical Center ,hospital, Huntington Beach,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+430,Huntington Beach Hospital and Medical Center ,hospital, Huntington Beach,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+431,Huntington Beach Hospital and Medical Center ,hospital, Huntington Beach,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+432,John Douglas French Center ,hospital, Los Alamitos,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+433,John Douglas French Center ,hospital, Los Alamitos,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+434,John Douglas French Center ,hospital, Los Alamitos,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+435,John Douglas French Center ,hospital, Los Alamitos,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+436,John Douglas French Center ,hospital, Los Alamitos,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+437,John Douglas French Center ,hospital, Los Alamitos,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+438,John Douglas French Center ,hospital, Los Alamitos,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+439,John Douglas French Center ,hospital, Los Alamitos,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+440,Kaiser Foundation Hospital ,hospital, Anaheim,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+441,Kaiser Foundation Hospital ,hospital, Anaheim,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+442,Kaiser Foundation Hospital ,hospital, Anaheim,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+443,Kaiser Foundation Hospital ,hospital, Anaheim,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+444,Kaiser Foundation Hospital ,hospital, Anaheim,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+445,Kaiser Foundation Hospital ,hospital, Anaheim,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+446,Kaiser Foundation Hospital ,hospital, Anaheim,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+447,Kaiser Foundation Hospital ,hospital, Anaheim,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+448,Kaiser Foundation Hospital ,hospital, Irvine,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+449,Kaiser Foundation Hospital ,hospital, Irvine,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+450,Kaiser Foundation Hospital ,hospital, Irvine,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+451,Kaiser Foundation Hospital ,hospital, Irvine,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+452,Kaiser Foundation Hospital ,hospital, Irvine,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+453,Kaiser Foundation Hospital ,hospital, Irvine,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+454,Kaiser Foundation Hospital ,hospital, Irvine,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+455,Kaiser Foundation Hospital ,hospital, Irvine,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+456,Kaiser Foundation Hospital ,hospital, Lakeview,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+457,Kaiser Foundation Hospital ,hospital, Lakeview,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+458,Kaiser Foundation Hospital ,hospital, Lakeview,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+459,Kaiser Foundation Hospital ,hospital, Lakeview,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+460,Kaiser Foundation Hospital ,hospital, Lakeview,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+461,Kaiser Foundation Hospital ,hospital, Lakeview,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+462,Kaiser Foundation Hospital ,hospital, Lakeview,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+463,Kaiser Foundation Hospital ,hospital, Lakeview,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+464,Kindred Hospital ,hospital, Brea,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+465,Kindred Hospital ,hospital, Brea,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+466,Kindred Hospital ,hospital, Brea,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+467,Kindred Hospital ,hospital, Brea,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+468,Kindred Hospital ,hospital, Brea,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+469,Kindred Hospital ,hospital, Brea,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+470,Kindred Hospital ,hospital, Brea,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+471,Kindred Hospital ,hospital, Brea,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+472,Kindred Hospital ,hospital, Santa Ana,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+473,Kindred Hospital ,hospital, Santa Ana,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+474,Kindred Hospital ,hospital, Santa Ana,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+475,Kindred Hospital ,hospital, Santa Ana,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+476,Kindred Hospital ,hospital, Santa Ana,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+477,Kindred Hospital ,hospital, Santa Ana,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+478,Kindred Hospital ,hospital, Santa Ana,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+479,Kindred Hospital ,hospital, Santa Ana,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+480,Kindred Hospital ,hospital, Westminster,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+481,Kindred Hospital ,hospital, Westminster,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+482,Kindred Hospital ,hospital, Westminster,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+483,Kindred Hospital ,hospital, Westminster,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+484,Kindred Hospital ,hospital, Westminster,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+485,Kindred Hospital ,hospital, Westminster,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+486,Kindred Hospital ,hospital, Westminster,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+487,Kindred Hospital ,hospital, Westminster,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+488,La Palma Intercommunity Hospital ,hospital, La Palma,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+489,La Palma Intercommunity Hospital ,hospital, La Palma,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+490,La Palma Intercommunity Hospital ,hospital, La Palma,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+491,La Palma Intercommunity Hospital ,hospital, La Palma,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+492,La Palma Intercommunity Hospital ,hospital, La Palma,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+493,La Palma Intercommunity Hospital ,hospital, La Palma,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+494,La Palma Intercommunity Hospital ,hospital, La Palma,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+495,La Palma Intercommunity Hospital ,hospital, La Palma,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+496,Los Alamitos Medical Center ,hospital, Los Alamitos,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+497,Los Alamitos Medical Center ,hospital, Los Alamitos,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+498,Los Alamitos Medical Center ,hospital, Los Alamitos,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+499,Los Alamitos Medical Center ,hospital, Los Alamitos,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+500,Los Alamitos Medical Center ,hospital, Los Alamitos,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+501,Los Alamitos Medical Center ,hospital, Los Alamitos,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+502,Los Alamitos Medical Center ,hospital, Los Alamitos,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+503,Los Alamitos Medical Center ,hospital, Los Alamitos,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+504,Martin Luther Hospital Medical Center,hospital,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+505,Martin Luther Hospital Medical Center,hospital,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+506,Martin Luther Hospital Medical Center,hospital,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+507,Martin Luther Hospital Medical Center,hospital,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+508,Martin Luther Hospital Medical Center,hospital,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+509,Martin Luther Hospital Medical Center,hospital,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+510,Martin Luther Hospital Medical Center,hospital,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+511,Martin Luther Hospital Medical Center,hospital,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+512,Mission Hospital Regional Medical Center ,hospital, Mission Viejo,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+513,Mission Hospital Regional Medical Center ,hospital, Mission Viejo,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+514,Mission Hospital Regional Medical Center ,hospital, Mission Viejo,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+515,Mission Hospital Regional Medical Center ,hospital, Mission Viejo,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+516,Mission Hospital Regional Medical Center ,hospital, Mission Viejo,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+517,Mission Hospital Regional Medical Center ,hospital, Mission Viejo,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+518,Mission Hospital Regional Medical Center ,hospital, Mission Viejo,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+519,Mission Hospital Regional Medical Center ,hospital, Mission Viejo,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+520,Orange Coast Memorial Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+521,Orange Coast Memorial Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+522,Orange Coast Memorial Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+523,Orange Coast Memorial Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+524,Orange Coast Memorial Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+525,Orange Coast Memorial Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+526,Orange Coast Memorial Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+527,Orange Coast Memorial Medical Center ,hospital, Fountain Valley,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+528,Orange County Community Hospital ,hospital, Buena Park,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+529,Orange County Community Hospital ,hospital, Buena Park,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+530,Orange County Community Hospital ,hospital, Buena Park,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+531,Orange County Community Hospital ,hospital, Buena Park,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+532,Orange County Community Hospital ,hospital, Buena Park,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+533,Orange County Community Hospital ,hospital, Buena Park,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+534,Orange County Community Hospital ,hospital, Buena Park,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+535,Orange County Community Hospital ,hospital, Buena Park,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+536,Pacifica Hospital,hospital,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+537,Pacifica Hospital,hospital,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+538,Pacifica Hospital,hospital,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+539,Pacifica Hospital,hospital,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+540,Pacifica Hospital,hospital,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+541,Pacifica Hospital,hospital,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+542,Pacifica Hospital,hospital,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+543,Pacifica Hospital,hospital,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+544,Placentia-Linda Community Hospital ,hospital, Placentia,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+545,Placentia-Linda Community Hospital ,hospital, Placentia,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+546,Placentia-Linda Community Hospital ,hospital, Placentia,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+547,Placentia-Linda Community Hospital ,hospital, Placentia,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+548,Placentia-Linda Community Hospital ,hospital, Placentia,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+549,Placentia-Linda Community Hospital ,hospital, Placentia,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+550,Placentia-Linda Community Hospital ,hospital, Placentia,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+551,Placentia-Linda Community Hospital ,hospital, Placentia,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+552,Saddleback Memorial Medical Center ,hospital, Laguna Hills,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+553,Saddleback Memorial Medical Center ,hospital, Laguna Hills,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+554,Saddleback Memorial Medical Center ,hospital, Laguna Hills,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+555,Saddleback Memorial Medical Center ,hospital, Laguna Hills,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+556,Saddleback Memorial Medical Center ,hospital, Laguna Hills,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+557,Saddleback Memorial Medical Center ,hospital, Laguna Hills,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+558,Saddleback Memorial Medical Center ,hospital, Laguna Hills,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+559,Saddleback Memorial Medical Center ,hospital, Laguna Hills,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+560,St. Joseph Hospital ,hospital, Orange,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+561,St. Joseph Hospital ,hospital, Orange,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+562,St. Joseph Hospital ,hospital, Orange,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+563,St. Joseph Hospital ,hospital, Orange,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+564,St. Joseph Hospital ,hospital, Orange,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+565,St. Joseph Hospital ,hospital, Orange,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+566,St. Joseph Hospital ,hospital, Orange,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+567,St. Joseph Hospital ,hospital, Orange,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+568,St. Jude Medical Center ,hospital, Fullerton,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+569,St. Jude Medical Center ,hospital, Fullerton,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+570,St. Jude Medical Center ,hospital, Fullerton,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+571,St. Jude Medical Center ,hospital, Fullerton,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+572,St. Jude Medical Center ,hospital, Fullerton,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+573,St. Jude Medical Center ,hospital, Fullerton,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+574,St. Jude Medical Center ,hospital, Fullerton,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+575,St. Jude Medical Center ,hospital, Fullerton,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+576,San Clemente Hospital and Medical Center ,hospital, San Clemente,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+577,San Clemente Hospital and Medical Center ,hospital, San Clemente,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+578,San Clemente Hospital and Medical Center ,hospital, San Clemente,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+579,San Clemente Hospital and Medical Center ,hospital, San Clemente,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+580,San Clemente Hospital and Medical Center ,hospital, San Clemente,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+581,San Clemente Hospital and Medical Center ,hospital, San Clemente,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+582,San Clemente Hospital and Medical Center ,hospital, San Clemente,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+583,San Clemente Hospital and Medical Center ,hospital, San Clemente,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+584,Santa Ana Hospital Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+585,Santa Ana Hospital Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+586,Santa Ana Hospital Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+587,Santa Ana Hospital Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+588,Santa Ana Hospital Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+589,Santa Ana Hospital Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+590,Santa Ana Hospital Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+591,Santa Ana Hospital Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+592,South Coast Medical Center ,hospital, Laguna Beach,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+593,South Coast Medical Center ,hospital, Laguna Beach,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+594,South Coast Medical Center ,hospital, Laguna Beach,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+595,South Coast Medical Center ,hospital, Laguna Beach,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+596,South Coast Medical Center ,hospital, Laguna Beach,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+597,South Coast Medical Center ,hospital, Laguna Beach,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+598,South Coast Medical Center ,hospital, Laguna Beach,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+599,South Coast Medical Center ,hospital, Laguna Beach,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+600,Specialty Hospital of Southern California ,hospital, Santa Ana,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+601,Specialty Hospital of Southern California ,hospital, Santa Ana,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+602,Specialty Hospital of Southern California ,hospital, Santa Ana,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+603,Specialty Hospital of Southern California ,hospital, Santa Ana,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+604,Specialty Hospital of Southern California ,hospital, Santa Ana,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+605,Specialty Hospital of Southern California ,hospital, Santa Ana,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+606,Specialty Hospital of Southern California ,hospital, Santa Ana,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+607,Specialty Hospital of Southern California ,hospital, Santa Ana,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+608,Tustin Hospital Medical Center,hospital,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+609,Tustin Hospital Medical Center,hospital,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+610,Tustin Hospital Medical Center,hospital,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+611,Tustin Hospital Medical Center,hospital,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+612,Tustin Hospital Medical Center,hospital,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+613,Tustin Hospital Medical Center,hospital,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+614,Tustin Hospital Medical Center,hospital,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+615,Tustin Hospital Medical Center,hospital,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+616,Tustin Rehabilitation Hospital,hospital,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+617,Tustin Rehabilitation Hospital,hospital,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+618,Tustin Rehabilitation Hospital,hospital,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+619,Tustin Rehabilitation Hospital,hospital,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+620,Tustin Rehabilitation Hospital,hospital,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+621,Tustin Rehabilitation Hospital,hospital,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+622,Tustin Rehabilitation Hospital,hospital,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+623,Tustin Rehabilitation Hospital,hospital,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+624,"University of California, Irvine Medical Center – Orange",hospital,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+625,"University of California, Irvine Medical Center – Orange",hospital,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+626,"University of California, Irvine Medical Center – Orange",hospital,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+627,"University of California, Irvine Medical Center – Orange",hospital,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+628,"University of California, Irvine Medical Center – Orange",hospital,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+629,"University of California, Irvine Medical Center – Orange",hospital,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+630,"University of California, Irvine Medical Center – Orange",hospital,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+631,"University of California, Irvine Medical Center – Orange",hospital,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+632,Vencor Hospital ,hospital, Brea,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+633,Vencor Hospital ,hospital, Brea,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+634,Vencor Hospital ,hospital, Brea,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+635,Vencor Hospital ,hospital, Brea,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+636,Vencor Hospital ,hospital, Brea,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+637,Vencor Hospital ,hospital, Brea,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+638,Vencor Hospital ,hospital, Brea,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+639,Vencor Hospital ,hospital, Brea,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+640,Vencor Hospital ,hospital, Orange County,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+641,Vencor Hospital ,hospital, Orange County,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+642,Vencor Hospital ,hospital, Orange County,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+643,Vencor Hospital ,hospital, Orange County,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+644,Vencor Hospital ,hospital, Orange County,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+645,Vencor Hospital ,hospital, Orange County,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+646,Vencor Hospital ,hospital, Orange County,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+647,Vencor Hospital ,hospital, Orange County,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+648,West Anaheim Medical Center ,hospital, Anaheim,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+649,West Anaheim Medical Center ,hospital, Anaheim,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+650,West Anaheim Medical Center ,hospital, Anaheim,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+651,West Anaheim Medical Center ,hospital, Anaheim,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+652,West Anaheim Medical Center ,hospital, Anaheim,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+653,West Anaheim Medical Center ,hospital, Anaheim,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+654,West Anaheim Medical Center ,hospital, Anaheim,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+655,West Anaheim Medical Center ,hospital, Anaheim,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+656,Western Medical Center ,hospital, Anaheim,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+657,Western Medical Center ,hospital, Anaheim,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+658,Western Medical Center ,hospital, Anaheim,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+659,Western Medical Center ,hospital, Anaheim,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+660,Western Medical Center ,hospital, Anaheim,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+661,Western Medical Center ,hospital, Anaheim,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+662,Western Medical Center ,hospital, Anaheim,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+663,Western Medical Center ,hospital, Anaheim,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+664,Orange County Global Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+665,Orange County Global Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+666,Orange County Global Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+667,Orange County Global Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+668,Orange County Global Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+669,Orange County Global Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+670,Orange County Global Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+671,Orange County Global Medical Center ,hospital, Santa Ana,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+672,Kaiser Permanente Medical Center ,hospital, Roseville,CA,Placer County,50.0,6.0,61.0,0.0,0.0,0.0,Placer County
+673,Sutter Auburn Faith Hospital,hospital,,CA,Placer County,50.0,6.0,61.0,0.0,0.0,0.0,Placer County
+674,Sutter Roseville Medical Center,hospital,,CA,Placer County,50.0,6.0,61.0,0.0,0.0,0.0,Placer County
+675,Eastern Plumas District Hospital,hospital,,CA,Plumas County,50.0,6.0,63.0,0.0,0.0,0.0,Plumas County
+676,Indian Valley Hospital,hospital,,CA,Plumas County,50.0,6.0,63.0,0.0,0.0,0.0,Plumas County
+677,Plumas District Hospital,hospital,,CA,Plumas County,50.0,6.0,63.0,0.0,0.0,0.0,Plumas County
+678,Seneca Hospital,hospital,,CA,Plumas County,50.0,6.0,63.0,0.0,0.0,0.0,Plumas County
+679,Angel View Children's Hospital ,hospital, Desert Hot Springs,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+680,"Banning General Hospital – Banning (built to support the Desert Training Center, since closed)",hospital,,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+681,Corona Regional Medical Center ,hospital, Corona,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+682,Desert Regional Medical Center ,hospital, Palm Springs,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+683,Eisenhower Medical Center ,hospital, Rancho Mirage,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+684,Hemet Valley Medical Center ,hospital, Hemet,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+685,Inland Valley Regional Medical Center ,hospital, Wildomar,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+686,John F. Kennedy Memorial Hospital ,hospital, Indio,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+687,Kaiser Foundation Hospital ,hospital, Riverside,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+688,Lakeside Hospital ,hospital, Perris,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+689,Loma Linda University Medical Center ,hospital, Murrieta ,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+690,Menifee Valley Medical Center ,hospital, Sun City,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+691,Mission Valley Medical Center ,hospital, Lake Elsinore,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+692,Moreno Valley Community Hospital ,hospital, Moreno Valley,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+693,Palo Verde Hospital ,hospital, Blythe,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+694,Parkview Community Hospital Medical Center ,hospital, Riverside,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+695,Rancho Springs Medical Center ,hospital, Murrieta,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+696,Riverside Community Hospital ,hospital, Riverside,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+697,Riverside County Regional Medical Center ,hospital, Moreno Valley,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+698,San Gorgonio Memorial Hospital ,hospital, Banning,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+699,Valley Health Systems ,hospital, Hemet,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+700,Valley Plaza Doctors Hospital,hospital,,CA,Riverside County,50.0,6.0,65.0,0.0,0.0,0.0,Riverside County
+701,Kaiser Foundation Hospital ,hospital, North Sacramento,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+702,Kaiser Foundation Hospital ,hospital, South Sacramento,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+703,Mercy General Hospital,hospital,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+704,Mercy Hospital ,hospital, Folsom,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+705,Mercy San Juan Medical Center,hospital,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+706,Methodist Hospital of Sacramento,hospital,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+707,Shriners Hospitals for Children Northern Calif.,hospital,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+708,Sierra Vista Hospital,hospital,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+709,Sutter General Hospital,hospital,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+710,Sutter Memorial Hospital,hospital,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+711,University of California Davis Medical Center,hospital,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+712,Vencor Hospital ,hospital, Sacramento,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+713,San Benito Health Care District-Hazel Hawkins SNF,hospital,,CA,San Benito County,50.0,6.0,69.0,0.0,0.0,0.0,San Benito County
+714,Arrowhead Regional Medical Center ,hospital, Colton,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+715,Barstow Community Hospital ,hospital, Barstow,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+716,Bear Valley Community Hospital,hospital,,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+717,Chino Valley Medical Center ,hospital, Chino,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+718,Colorado River Medical Center,hospital,,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+719,Community Hospital of San Bernardino ,hospital, San Bernardino,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+720,Desert Valley Hospital ,hospital, Victorville,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+721,Hi-Desert Medical Center,hospital,,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+722,Kaiser Foundation Hospital ,hospital, Fontana,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+723,Loma Linda University Children's Hospital ,hospital, Loma Linda,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+724,Loma Linda University Medical Center ,hospital, Loma Linda,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+725,Loma Linda Veterans Affairs Medical Center ,hospital, Loma Linda,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+726,Montclair Hospital Medical Center ,hospital, Montclair,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+727,Mountains Community Hospital ,hospital, Lake Arrowhead,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+728,Patton State Hospital ,hospital, San Bernardino,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+729,Redlands Community Hospital ,hospital, Redlands,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+730,Robert H. Ballard Rehabilitation Hospital,hospital,,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+731,St. Bernardine Medical Center ,hospital, San Bernardino,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+732,St. Mary Regional Medical Center,hospital,,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+733,San Antonio Community Hospital ,hospital, Upland,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+734,Vencor Hospital ,hospital, Ontario,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+735,Victor Valley Hospital ,hospital, Victorville,CA,San Bernardino County,50.0,6.0,71.0,0.0,0.0,0.0,San Bernardino County
+736,Alvarado Hospital Medical Center ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+737,Bayview Hospital ,hospital, Chula Vista,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+738,Children's Hospital and Health Center ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+739,Children's Hospital of San Diego ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+740,Fallbrook Hospital ,hospital, Fallbrook,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+741,Green Hospital of Scripps Clinic ,hospital, La Jolla,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+742,Kaiser Permanente Medical Center ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+743,Kindred Hospital ,hospital, San Diego ,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+744,Mary Birch Hospital for Women ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+745,Naval Medical Center San Diego ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+746,Palomar Medical Center ,hospital, Escondido,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+747,Paradise Valley Hospital ,hospital, National City,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+748,Pomerado Hospital ,hospital, Poway,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+749,Rady Children's Hospital[4],hospital,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+750,San Diego County Psychiatric Hospital ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+751,San Luis Rey Hospital ,hospital, Encinitas,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+752,Scripps Health,hospital,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+753,Scripps Green Hospital ,hospital, La Jolla,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+754,Scripps Memorial Hospital ,hospital, Encinitas,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+755,Scripps Memorial Hospital ,hospital, La Jolla,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+756,Scripps Mercy Hospital ,hospital, Chula Vista,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+757,Scripps Mercy Hospital ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+758,Sharp HealthCare,hospital,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+759,Sharp Cabrillo Hospital ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+760,Sharp Chula Vista Medical Center ,hospital, Chula Vista,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+761,Sharp Coronado Hospital ,hospital, Coronado,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+762,Sharp Grossmont Hospital ,hospital, La Mesa,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+763,Sharp Memorial Hospital ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+764,Sharp Mesa Vista ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+765,Tri-City Medical Center ,hospital, Oceanside,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+766,UC San Diego Health ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+767,"UC San Diego Medical Center, Hillcrest – San Diego",hospital,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+768,Jacobs Medical Center ,hospital, La Jolla,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+769,U.S. Naval Hospital ,hospital, Camp Pendleton,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+770,Vencor Hospital ,hospital, San Diego,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+771,Veterans Affairs Medical Center San Diego ,hospital, La Jolla,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+772,Bridge to Wellness (adult psychiatric partial hospitalization),hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+773,California Pacific Medical Center,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+774,Davies Medical Center,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+775,Haight Free Clinic,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+776,Kaiser Permanente San Francisco Medical Center,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+777,Laguna Honda Hospital and Rehabilitation Center,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+778,Saint Francis Memorial Hospital (Spine Center),hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+779,St. Luke's Hospital,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+780,St. Mary's Medical Center,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+781,San Francisco City Clinic,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+782,San Francisco General Hospital,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+783,San Francisco VA Medical Center,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+784,UCSF Mount Zion Medical Center,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+785,UCSF Medical Center,hospital,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+786,Dameron Hospital ,hospital, Stockton,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+787,Doctors Hospital of Manteca ,hospital, Manteca,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+788,Kaiser Permanente ,hospital, Manteca,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+789,Lodi Memorial Hospital ,hospital, Lodi,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+790,St. Joseph's Medical Center ,hospital, Stockton,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+791,San Joaquin General Hospital ,hospital, French Camp,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+792,Arroyo Grande Community Hospital ,hospital, Arroyo Grande,CA,San Luis Obispo County,50.0,6.0,79.0,0.0,0.0,0.0,San Luis Obispo County
+793,Atascadero State Hospital - Atascadero,hospital,,CA,San Luis Obispo County,50.0,6.0,79.0,0.0,0.0,0.0,San Luis Obispo County
+794,French Hospital Medical Center ,hospital, San Luis Obispo,CA,San Luis Obispo County,50.0,6.0,79.0,0.0,0.0,0.0,San Luis Obispo County
+795,San Luis Obispo General Hospital (closed June 2003),hospital,,CA,San Luis Obispo County,50.0,6.0,79.0,0.0,0.0,0.0,San Luis Obispo County
+796,Sierra Vista Regional Medical Center ,hospital, San Luis Obispo,CA,San Luis Obispo County,50.0,6.0,79.0,0.0,0.0,0.0,San Luis Obispo County
+797,Twin Cities Community Hospital ,hospital, Templeton,CA,San Luis Obispo County,50.0,6.0,79.0,0.0,0.0,0.0,San Luis Obispo County
+798,Kaiser Foundation Hospital ,hospital, Redwood City,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+799,Kaiser Foundation Hospital ,hospital, South San Francisco,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+800,Menlo Park VA Hospital ,hospital, Menlo Park,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+801,Mills Health Center ,hospital, San Mateo,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+802,Mills-Peninsula Medical Center ,hospital, Burlingame,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+803,San Mateo Medical Center ,hospital, San Mateo,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+804,Sequoia Hospital ,hospital, Redwood City,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+805,Seton Medical Center ,hospital, Daly City,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+806,Seton Medical Center ,hospital, Coastside ,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+807,Cottage Children's Hospital ,hospital, Santa Barbara,CA,Santa Barbara County,50.0,6.0,83.0,0.0,0.0,0.0,Santa Barbara County
+808,Goleta Valley Cottage Hospital ,hospital, Santa Barbara,CA,Santa Barbara County,50.0,6.0,83.0,0.0,0.0,0.0,Santa Barbara County
+809,Lompoc Valley Medical Center ,hospital, Lompoc,CA,Santa Barbara County,50.0,6.0,83.0,0.0,0.0,0.0,Santa Barbara County
+810,Marian Medical Center[5] ,hospital, Santa Maria,CA,Santa Barbara County,50.0,6.0,83.0,0.0,0.0,0.0,Santa Barbara County
+811,Saint Francis Medical Center ,hospital, Santa Barbara,CA,Santa Barbara County,50.0,6.0,83.0,0.0,0.0,0.0,Santa Barbara County
+812,Santa Barbara Cottage Hospital ,hospital, Santa Barbara,CA,Santa Barbara County,50.0,6.0,83.0,0.0,0.0,0.0,Santa Barbara County
+813,Santa Ynez Valley Cottage Hospital ,hospital, Solvang,CA,Santa Barbara County,50.0,6.0,83.0,0.0,0.0,0.0,Santa Barbara County
+814,Community Hospital of Los Gatos ,hospital, Los Gatos,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+815,El Camino Hospital ,hospital, Mountain View,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+816,Good Samaritan Hospital ,hospital, San Jose,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+817,Kaiser Permanente Santa Clara Medical Center ,hospital, Santa Clara,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+818,Kaiser Permanente Santa Teresa Medical Center ,hospital, San Jose,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+819,Lucile Salter Packard Children's Hospital at Stanford ,hospital, Palo Alto,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+820,O'Connor Hospital ,hospital, San Jose,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+821,Regional Medical Center of San Jose ,hospital, San Jose,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+822,Saint Louise Regional Hospital ,hospital, Gilroy,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+823,San Jose Medical Center ,hospital, San Jose,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+824,Santa Clara Valley Medical Center ,hospital, San Jose,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+825,Stanford University Medical Center ,hospital, Stanford,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+826,VA Palo Alto Hospital ,hospital, Palo Alto,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+827,Dominican Hospital ,hospital, Santa Cruz,CA,Santa Cruz County,50.0,4.0,23.0,0.0,0.0,0.0,Santa Cruz County
+828,Dominican Hospital ,hospital, Santa Cruz,CA,Santa Cruz County,50.0,6.0,87.0,0.0,0.0,0.0,Santa Cruz County
+829,Sutter Maternity and Surgery Hospital ,hospital, Santa Cruz,CA,Santa Cruz County,50.0,4.0,23.0,0.0,0.0,0.0,Santa Cruz County
+830,Sutter Maternity and Surgery Hospital ,hospital, Santa Cruz,CA,Santa Cruz County,50.0,6.0,87.0,0.0,0.0,0.0,Santa Cruz County
+831,Watsonville Community Hospital ,hospital, Watsonville,CA,Santa Cruz County,50.0,4.0,23.0,0.0,0.0,0.0,Santa Cruz County
+832,Watsonville Community Hospital ,hospital, Watsonville,CA,Santa Cruz County,50.0,6.0,87.0,0.0,0.0,0.0,Santa Cruz County
+833,Mayers Memorial Hospital District ,hospital, Fall River Mills,CA,Shasta County,50.0,6.0,89.0,0.0,0.0,0.0,Shasta County
+834,Mercy Medical Center ,hospital, Redding,CA,Shasta County,50.0,6.0,89.0,0.0,0.0,0.0,Shasta County
+835,Shasta Regional Medical Center ,hospital, Redding,CA,Shasta County,50.0,6.0,89.0,0.0,0.0,0.0,Shasta County
+836,Fairchild Medical Center ,hospital, Yreka,CA,Siskiyou County,50.0,6.0,93.0,0.0,0.0,0.0,Siskiyou County
+837,California Specialty Hospital ,hospital, Vallejo,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+838,David Grant USAF Medical Center ,hospital, Travis Air Force Base,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+839,Kaiser Permanente Medical Center ,hospital, Vallejo,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+840,NorthBay Medical Center ,hospital, Fairfield [6],CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+841,Sutter Solano Medical Center ,hospital, Vallejo,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+842,NorthBay VacaValley Hospital ,hospital, Vacaville [6],CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+843,Kaiser Permanente Medical Center ,hospital, Vacaville,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+844,Healdsburg District Hospital ,hospital, Healdsburg,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+845,Kaiser Permanente Medical Center ,hospital, Santa Rosa,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+846,Sonoma West Medical Center ,hospital, Sebastopol,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+847,Petaluma Valley Hospital ,hospital, Petaluma,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+848,Santa Rosa Memorial Hospital ,hospital, Santa Rosa,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+849,Sonoma Developmental Center ,hospital, Eldridge,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+850,Sonoma Valley Hospital ,hospital, Sonoma,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+851,Sutter Medical Center of Santa Rosa ,hospital, Santa Rosa,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+852,Doctors Medical Center of Modesto ,hospital, Modesto,CA,Stanislaus County,50.0,6.0,99.0,0.0,0.0,0.0,Stanislaus County
+853,Emanuel Medical Center ,hospital, Turlock,CA,Stanislaus County,50.0,6.0,99.0,0.0,0.0,0.0,Stanislaus County
+854,Kaiser Medical Center ,hospital, Modesto,CA,Stanislaus County,50.0,6.0,99.0,0.0,0.0,0.0,Stanislaus County
+855,Memorial Medical Center ,hospital, Modesto,CA,Stanislaus County,50.0,6.0,99.0,0.0,0.0,0.0,Stanislaus County
+856,Oak Valley Hospital ,hospital, Oakdale,CA,Stanislaus County,50.0,6.0,99.0,0.0,0.0,0.0,Stanislaus County
+857,Fremont Memorial Hospital ,hospital, Yuba City,CA,Sutter County,50.0,6.0,101.0,0.0,0.0,0.0,Sutter County
+858,Saint Elizabeth Community Hospital ,hospital, Red Bluff,CA,Tehama County,50.0,6.0,103.0,0.0,0.0,0.0,Tehama County
+859,Mountain Community Medical Services ,hospital, Weaverville,CA,Trinity County,50.0,6.0,105.0,0.0,0.0,0.0,Trinity County
+860,Mountain Community Medical Services ,hospital, Weaverville,CA,Trinity County,50.0,48.0,455.0,0.0,0.0,0.0,Trinity County
+861,Kaweah Delta Medical Center ,hospital, Visalia,CA,Tulare County,50.0,6.0,107.0,0.0,0.0,0.0,Tulare County
+862,Porterville Developmental Center ,hospital, Porterville,CA,Tulare County,50.0,6.0,107.0,0.0,0.0,0.0,Tulare County
+863,Sierra View District Hospital ,hospital, Porterville,CA,Tulare County,50.0,6.0,107.0,0.0,0.0,0.0,Tulare County
+864,Tulare Regional Medical Center ,hospital, Tulare,CA,Tulare County,50.0,6.0,107.0,0.0,0.0,0.0,Tulare County
+865,Sonora Regional Medical Center ,hospital, Sonora,CA,Tuolumne County,50.0,6.0,109.0,0.0,0.0,0.0,Tuolumne County
+866,Camarillo State Mental Hospital ,hospital, Camarillo (closed 1997),CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+867,Community Memorial Hospital ,hospital, Ventura,CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+868,Los Robles Hospital & Medical Center ,hospital, Thousand Oaks,CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+869,St. John's Pleasant Valley Hospital ,hospital, Camarillo,CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+870,St. John's Regional Medical Center ,hospital, Oxnard,CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+871,Santa Paula Hospital ,hospital, Santa Paula,CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+872,Simi Valley Hospital ,hospital, Simi Valley,CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+873,Ventura County Medical Center ,hospital, Ventura,CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+874,Sutter Davis Hospital ,hospital, Davis,CA,Yolo County,50.0,6.0,113.0,0.0,0.0,0.0,Yolo County
+875,Rideout Memorial Hospital ,hospital, Marysville,CA,Yuba County,50.0,6.0,115.0,0.0,0.0,0.0,Yuba County
