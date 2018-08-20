@@ -1,0 +1,996 @@
+,Business Name,Category,City,Others,Phone,Ratings,State,County,Summary Level,State Code (FIPS),County Code (FIPS),County Subdivision Code (FIPS),Place Code (FIPS),Consolidtated City Code (FIPS),Area Name (including legal/statistical area description)
+0,Safeway,grocery,Ketchikan,Ketchikan Plaza,(907) 228-1900,,AK,Ketchikan Gateway County,,,,,,,
+1,Safeway,grocery,Apache Junction,,(480) 982-6120,,AZ,Pinal County,50.0,4.0,21.0,0.0,0.0,0.0,Pinal County
+2,Safeway,grocery,Bullhead City,,(928) 763-3555,,AZ,Mohave County,50.0,4.0,15.0,0.0,0.0,0.0,Mohave County
+3,Safeway,grocery,Chandler,,(480) 726-7776,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+4,Safeway,grocery,Chandler,,(480) 883-0255,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+5,Safeway,grocery,Cottonwood,,(928) 634-3711,,AZ,Yavapai County,50.0,4.0,25.0,0.0,0.0,0.0,Yavapai County
+6,Safeway,grocery,Kingman,,(928) 753-2943,,AZ,Mohave County,50.0,4.0,15.0,0.0,0.0,0.0,Mohave County
+7,Safeway,grocery,Kingman,,(928) 681-4900,,AZ,Mohave County,50.0,4.0,15.0,0.0,0.0,0.0,Mohave County
+8,Safeway,grocery,Mesa,,(480) 833-9338,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+9,Safeway,grocery,Mesa,Stonebridge Plaza,(480) 807-0447,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+10,Safeway,grocery,Mesa,,(480) 281-2972,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+11,Safeway,grocery,Payson,,(928) 472-8208,,AZ,Gila County,50.0,4.0,7.0,0.0,0.0,0.0,Gila County
+12,Safeway,grocery,Phoenix,,(602) 252-4538,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+13,Safeway,grocery,Phoenix,Plaza Mountainside,(480) 759-9611,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+14,Safeway,grocery,Prescott,,(928) 778-3086,,AZ,Yavapai County,50.0,4.0,25.0,0.0,0.0,0.0,Yavapai County
+15,Safeway,grocery,Prescott Valley,,(928) 772-6126,,AZ,Yavapai County,50.0,4.0,25.0,0.0,0.0,0.0,Yavapai County
+16,Safeway,grocery,Queen Creek,,(480) 279-2733,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+17,Safeway,grocery,Scottsdale,,(480) 391-1090,,AZ,Maricopa County,50.0,4.0,13.0,0.0,0.0,0.0,Maricopa County
+18,Safeway,grocery,Show Low,,(928) 532-5656,,AZ,Navajo County,50.0,4.0,17.0,0.0,0.0,0.0,Navajo County
+19,Safeway,grocery,Tucson,,(520) 206-9047,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+20,Safeway,grocery,Tucson,,(520) 624-8442,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+21,Safeway,grocery,Tucson,,(520) 327-2287,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+22,Safeway,grocery,Tucson,,(520) 575-0949,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+23,Safeway,grocery,Tucson,,(520) 792-0083,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+24,Safeway,grocery,Tucson,,(520) 299-3534,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+25,Safeway,grocery,Tucson,Rita Ranch Shopping Center,(520) 663-0009,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+26,Safeway,grocery,Tucson,,(520) 579-8365,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+27,Safeway,grocery,Tucson,Thornydale Plaza,(520) 579-1083,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+28,Safeway,grocery,Tucson,Silverado Plaza,(520) 885-7777,,AZ,Pima County,50.0,4.0,19.0,0.0,0.0,0.0,Pima County
+29,Safeway,grocery,Albany,,(510) 525-4107,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+30,Safeway,grocery,Anderson,,(530) 365-6401,,CA,Shasta County,50.0,6.0,89.0,0.0,0.0,0.0,Shasta County
+31,Safeway,grocery,Antioch,Crossings Shopping Center,(925) 706-4150,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+32,Safeway Photo Center,grocery,Antioch,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+33,Safeway,grocery,Aptos,,(831) 688-2775,,CA,Santa Cruz County,50.0,4.0,23.0,0.0,0.0,0.0,Santa Cruz County
+34,Safeway,grocery,Aptos,,(831) 688-2775,,CA,Santa Cruz County,50.0,6.0,87.0,0.0,0.0,0.0,Santa Cruz County
+35,Safeway,grocery,Auburn,,(530) 887-3230,,CA,Placer County,50.0,6.0,61.0,0.0,0.0,0.0,Placer County
+36,Safeway,grocery,Bay Point,Oak Hills Shopping Center,(925) 458-0181,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+37,Safeway,grocery,Berkeley,,(510) 526-3086,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+38,Safeway Community Markets,grocery,Berkeley,,(510) 841-7942,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+39,Safeway Pharmacy,grocery,Berkeley,,(510) 542-5242,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+40,Safeway,grocery,Brentwood,Balfour Village,(925) 626-6020,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+41,Safeway,grocery,Brentwood,Town Centre Plaza,(925) 634-6780,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+42,Safeway Photo Center,grocery,Brentwood,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+43,Safeway,grocery,Carmel-By-The-Sea,The Crossroads Carmel,(831) 625-8820,,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+44,Safeway,grocery,Carmel-By-The-Sea,Mid Valley Shopping Center,(831) 624-4600,,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+45,Safeway,grocery,Chico,,(530) 895-6300,,CA,Butte County,50.0,6.0,7.0,0.0,0.0,0.0,Butte County
+46,Safeway,grocery,Chico,,(530) 895-6300,,CA,Butte County,50.0,16.0,23.0,0.0,0.0,0.0,Butte County
+47,Safeway,grocery,Chico,,(530) 895-6300,,CA,Butte County,50.0,46.0,19.0,0.0,0.0,0.0,Butte County
+48,Safeway,grocery,Clayton,,(925) 672-2135,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+49,Safeway Photo Center,grocery,Clayton,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+50,Safeway,grocery,Concord,,(925) 689-3240,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+51,Safeway,grocery,Corning,,(530) 824-2467,,CA,Tehama County,50.0,6.0,103.0,0.0,0.0,0.0,Tehama County
+52,Safeway,grocery,Cupertino,Homestead Square Shopping Center,(408) 253-0112,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+53,Safeway,grocery,Danville,Tassajara Crossing,(925) 736-0298,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+54,Safeway Photo Center,grocery,Danville,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+55,Safeway Pharmacy,grocery,Danville,,(925) 736-0346,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+56,Safeway,grocery,Davis,Oakshade Town Center,(530) 792-8500,,CA,Yolo County,50.0,6.0,113.0,0.0,0.0,0.0,Yolo County
+57,Safeway,grocery,Davis,The Marketplace,(530) 757-4540,,CA,Yolo County,50.0,6.0,113.0,0.0,0.0,0.0,Yolo County
+58,Safeway,grocery,Del Rey Oaks,,(831) 393-2090,,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+59,Safeway,grocery,Discovery Bay,Sandy Cove Shopping Center,(925) 626-6000,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+60,Safeway Photo Center,grocery,Discovery Bay,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+61,Safeway Liquor,grocery,Discovery Bay,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+62,Safeway,grocery,Dixon,Dixon Plaza,(707) 678-7400,,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+63,Safeway,grocery,Dublin,Shops At Waterford,(925) 551-4710,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+64,Safeway,grocery,Dublin,,(925) 556-4034,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+65,Safeway Photo Center,grocery,Dublin,,,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+66,Safeway,grocery,El Cerrito,,(510) 233-8400,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+67,Safeway Bakery,grocery,El Cerrito,,(510) 233-8400,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+68,Safeway,grocery,Elk Grove,,(916) 691-3770,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+69,Safeway Pharmacy,grocery,Elk Grove,,(916) 691-3777,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+70,Safeway,grocery,Fairfield,Great Clips,(707) 427-5640,,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+71,Safeway,grocery,Fairfield,Green Valley Shopping Center,(707) 863-4160,,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+72,Safeway,grocery,Fort Bragg,,(707) 964-4079,,CA,Mendocino County,50.0,6.0,45.0,0.0,0.0,0.0,Mendocino County
+73,Safeway,grocery,Foster City,MetroCenter,(650) 377-0711,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+74,Safeway,grocery,Fremont,,(510) 657-1625,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+75,Safeway,grocery,Fremont,Fremont Hub,(510) 794-1666,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+76,Safeway,grocery,Fremont,,(510) 497-1003,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+77,Safeway Photo Center,grocery,Fremont,,,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+78,Safeway,grocery,Gilroy,,(408) 842-6446,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+79,Safeway,grocery,Guerneville,,(707) 869-9433,,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+80,Safeway,grocery,Half Moon Bay,Strawflower Village,(650) 726-1143,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+81,Safeway,grocery,Hayward,,(510) 582-0700,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+82,Safeway,grocery,Healdsburg,Vineyard Plaza,(707) 431-7102,,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+83,Safeway,grocery,Jackson,,(209) 257-0779,,CA,Amador County,50.0,6.0,5.0,0.0,0.0,0.0,Amador County
+84,Safeway,grocery,King City,King City Shopping Center,(831) 385-7820,,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+85,Safeway,grocery,Kings Beach,,(530) 546-0170,,CA,Placer County,50.0,6.0,61.0,0.0,0.0,0.0,Placer County
+86,SAFEWAY,grocery,La Verne,	$3.46/Regular,(909) 593-2572,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+87,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,6.0,33.0,0.0,0.0,0.0,Lake County
+88,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,8.0,65.0,0.0,0.0,0.0,Lake County
+89,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,12.0,69.0,0.0,0.0,0.0,Lake County
+90,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,17.0,97.0,0.0,0.0,0.0,Lake County
+91,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,18.0,89.0,0.0,0.0,0.0,Lake County
+92,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,26.0,85.0,0.0,0.0,0.0,Lake County
+93,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,27.0,75.0,0.0,0.0,0.0,Lake County
+94,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,30.0,47.0,0.0,0.0,0.0,Lake County
+95,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,39.0,85.0,0.0,0.0,0.0,Lake County
+96,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,41.0,37.0,0.0,0.0,0.0,Lake County
+97,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,46.0,79.0,0.0,0.0,0.0,Lake County
+98,Safeway,grocery,Lakeport,,(707) 263-8072,,CA,Lake County,50.0,47.0,95.0,0.0,0.0,0.0,Lake County
+99,Safeway,grocery,Livermore,Arroyo Park Shopping Center,(925) 455-2520,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+100,Safeway,grocery,Livermore,,(925) 455-5667,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+101,Safeway Bakery,grocery,Livermore,,(925) 455-2520,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+102,Safeway Photo Center,grocery,Livermore,,,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+103,Safeway,grocery,Lodi,Sunwest Market Place,(209) 367-7875,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+104,Safeway Bakery,grocery,Lodi,,,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+105,Safeway Pharmacy,grocery,Lodi,,(209) 367-7882,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+106,Safeway Liquor,grocery,Lodi,,,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+107,Safeway,grocery,Los Gatos,,(408) 354-9708,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+108,Safeway,grocery,Manteca,Mission Ridge Shopping Center,(209) 824-1144,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+109,Safeway Bakery,grocery,Manteca,,,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+110,Safeway Pharmacy,grocery,Manteca,,(209) 239-1809,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+111,Safeway Liquor,grocery,Manteca,,,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+112,Safeway,grocery,Menlo Park,,(650) 854-3056,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+113,Safeway,grocery,Mill Valley,,(415) 388-6216,,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+114,Safeway,grocery,Millbrae,,(650) 652-3416,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+115,Safeway,grocery,Milpitas,Milpitas Town Center,(408) 262-9850,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+116,Safeway Photo Center,grocery,Milpitas,,,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+117,Safeway,grocery,Modesto,,(209) 571-6280,,CA,Stanislaus County,50.0,6.0,99.0,0.0,0.0,0.0,Stanislaus County
+118,Safeway,grocery,Morgan Hill,Lawrence Oaks Shopping Center,(408) 776-8720,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+119,Safeway,grocery,Mountain View,Bailey Park Plaza Shopping Center,(650) 961-4868,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+120,Safeway,grocery,Mountain View,The Village at San Antonio Center,(650) 948-4533,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+121,Safeway Pharmacy,grocery,Mountain View,,(650) 948-4605,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+122,Safeway,grocery,Napa,,(707) 225-3037,,CA,Napa County,50.0,6.0,55.0,0.0,0.0,0.0,Napa County
+123,Just For You,grocery,Napa,,(707) 257-7685,,CA,Napa County,50.0,6.0,55.0,0.0,0.0,0.0,Napa County
+124,Safeway,grocery,Novato,,(415) 881-9256,,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+125,Safeway,grocery,Novato,Novato Fair S.C.,(415) 898-1503,,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+126,Safeway,grocery,Oakland,,(510) 531-0565,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+127,Safeway,grocery,Oakland,,(510) 985-0012,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+128,Safeway,grocery,Pacific Grove,,(831) 375-8262,,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+129,Safeway,grocery,Palo Alto,Midtown Shopping Center,(650) 321-8400,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+130,Safeway,grocery,Petaluma,Washington Square Shopping Center,(707) 766-9097,,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+131,Safeway Photo Center,grocery,Pittsburg,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+132,Safeway,grocery,Placerville,,(530) 295-2972,,CA,El Dorado County,50.0,6.0,17.0,0.0,0.0,0.0,El Dorado County
+133,Safeway,grocery,Pleasant Hill,,(925) 688-0680,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+134,Safeway,grocery,Pleasanton,Pleasanton Gateway Shopping Center,(925) 846-8644,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+135,Safeway,grocery,Pleasanton,,(925) 417-5530,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+136,Safeway Headquarters,grocery,Pleasanton,,(925) 226-5000,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+137,Safeway Photo Center,grocery,Pleasanton,,,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+138,Safeway,grocery,Prunedale,,(831) 663-6702,,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+139,Safeway,grocery,Quincy,,(530) 283-1404,,CA,Plumas County,50.0,6.0,63.0,0.0,0.0,0.0,Plumas County
+140,Safeway,grocery,Redwood City,Sequoia Station,(650) 306-1900,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+141,Safeway Bread Plant,grocery,Richmond,,(510) 412-2716,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+142,Safeway,grocery,Rocklin,,(916) 789-0101,,CA,Placer County,50.0,6.0,61.0,0.0,0.0,0.0,Placer County
+143,Safeway,grocery,Rohnert Park,Park Plaza Center,(707) 584-8942,,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+144,Safeway,grocery,Roseville,Crocker Ranch,(916) 780-9919,,CA,Placer County,50.0,6.0,61.0,0.0,0.0,0.0,Placer County
+145,Safeway,grocery,Sacramento,,(916) 492-9967,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+146,Safeway,grocery,Sacramento,,(916) 681-8666,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+147,Safeway,grocery,Sacramento,,(916) 456-0852,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+148,Safeway,grocery,Sacramento,,(916) 483-9389,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+149,Safeway,grocery,Salinas,Harden Ranch Plaza,(831) 442-7500,,CA,Monterey County,50.0,6.0,53.0,0.0,0.0,0.0,Monterey County
+150,Safeway,grocery,San Francisco,,(415) 982-3112,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+151,Safeway,grocery,San Francisco,,(415) 563-4946,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+152,Safeway,grocery,San Francisco,,(415) 683-4070,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+153,Safeway,grocery,San Francisco,,(415) 921-4557,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+154,Safeway,grocery,San Francisco,Potrero Center,(415) 575-1120,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+155,Safeway,grocery,San Francisco,The Beacon,(415) 633-1001,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+156,Safeway,grocery,San Francisco,,(415) 665-4565,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+157,Safeway,grocery,San Francisco,,(415) 665-4136,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+158,Safeway,grocery,San Francisco,,(415) 387-4664,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+159,Safeway Pharmacy,grocery,San Francisco,,(415) 436-9032,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+160,Safeway,grocery,San Jose,,(408) 272-2287,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+161,Safeway,grocery,San Jose,,(408) 264-1523,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+162,Safeway Market,grocery,San Jose,The 88,(408) 292-4010,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+163,Safeway,grocery,San Jose,,(408) 267-1200,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+164,Safeway Fuel Station,grocery,San Jose,	$3.44/Regular,(408) 362-9255,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+165,Safeway,grocery,San Leandro,,(510) 632-2949,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+166,Safeway,grocery,San Leandro,Greenhouse Marketplace,(510) 483-2225,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+167,Safeway,grocery,San Mateo,,(650) 341-0374,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+168,Safeway,grocery,San Mateo,Woodlake Shopping Center,(650) 347-2704,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+169,Safeway,grocery,San Rafael,,(415) 456-1453,,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+170,Safeway,grocery,San Rafael,,(415) 479-6111,,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+171,Safeway,grocery,San Ramon,,(925) 359-2001,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+172,Safeway,grocery,San Ramon,Diablo Plaza,(925) 831-9515,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+173,Safeway Liquor,grocery,San Ramon,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+174,Safeway Bakery,grocery,San Ramon,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+175,Safeway Photo Center,grocery,San Ramon,,,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+176,Safeway Fuel Station,grocery,San Ramon,	$3.70/Regular,(925) 359-2001,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+177,Safeway,grocery,Santa Clara,Rivermark Village,(408) 855-0980,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+178,Safeway,grocery,Santa Clara,Westfield Valley Fair,(408) 248-3305,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+179,Safeway Photo Center,grocery,Santa Clara,,,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+180,Safeway,grocery,Santa Cruz,,(831) 426-7489,,CA,Santa Cruz County,50.0,4.0,23.0,0.0,0.0,0.0,Santa Cruz County
+181,Safeway,grocery,Santa Cruz,,(831) 426-7489,,CA,Santa Cruz County,50.0,6.0,87.0,0.0,0.0,0.0,Santa Cruz County
+182,Safeway,grocery,Santa Cruz,Almar Shopping Center,(831) 420-0781,,CA,Santa Cruz County,50.0,4.0,23.0,0.0,0.0,0.0,Santa Cruz County
+183,Safeway,grocery,Santa Cruz,Almar Shopping Center,(831) 420-0781,,CA,Santa Cruz County,50.0,6.0,87.0,0.0,0.0,0.0,Santa Cruz County
+184,Safeway Pharmacy,grocery,Santa Cruz,,(831) 426-8911,,CA,Santa Cruz County,50.0,4.0,23.0,0.0,0.0,0.0,Santa Cruz County
+185,Safeway Pharmacy,grocery,Santa Cruz,,(831) 426-8911,,CA,Santa Cruz County,50.0,6.0,87.0,0.0,0.0,0.0,Santa Cruz County
+186,Safeway,grocery,Santa Rosa,,(707) 528-3062,,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+187,Safeway Pharmacy,grocery,Santa Rosa,,(707) 528-3730,,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+188,Safeway,grocery,Scotts Valley,Scotts Village Shopping Center,(831) 438-7431,,CA,Santa Cruz County,50.0,4.0,23.0,0.0,0.0,0.0,Santa Cruz County
+189,Safeway,grocery,Scotts Valley,Scotts Village Shopping Center,(831) 438-7431,,CA,Santa Cruz County,50.0,6.0,87.0,0.0,0.0,0.0,Santa Cruz County
+190,Safeway,grocery,Sebastopol,,(707) 823-1101,,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+191,Safeway,grocery,Sonoma,,(707) 996-0633,,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+192,Safeway,grocery,Sonora,,(209) 533-7810,,CA,Tuolumne County,50.0,6.0,109.0,0.0,0.0,0.0,Tuolumne County
+193,Safeway,grocery,Soquel,,(831) 477-7212,,CA,Santa Cruz County,50.0,4.0,23.0,0.0,0.0,0.0,Santa Cruz County
+194,Safeway,grocery,Soquel,,(831) 477-7212,,CA,Santa Cruz County,50.0,6.0,87.0,0.0,0.0,0.0,Santa Cruz County
+195,Safeway,grocery,South Lake Tahoe,,(530) 542-7740,,CA,El Dorado County,50.0,6.0,17.0,0.0,0.0,0.0,El Dorado County
+196,Safeway,grocery,St Helena,,(707) 968-3620,,CA,Napa County,50.0,6.0,55.0,0.0,0.0,0.0,Napa County
+197,Safeway,grocery,Stockton,,(209) 472-8600,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+198,Safeway,grocery,Stockton,,(209) 461-5555,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+199,Safeway Bakery,grocery,Stockton,,,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+200,Safeway Bakery,grocery,Stockton,,(209) 472-8600,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+201,Safeway Pharmacy,grocery,Stockton,,(209) 461-5560,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+202,Safeway Pharmacy,grocery,Stockton,,(209) 472-8605,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+203,Safeway Liquor,grocery,Stockton,,,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+204,Safeway,grocery,Sunnyvale,,(408) 732-1259,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+205,Safeway,grocery,Sunnyvale,Cherry Chase Shopping Center,(408) 732-5900,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+206,Safeway,grocery,Tahoe City,,(530) 583-2772,,CA,Placer County,50.0,6.0,61.0,0.0,0.0,0.0,Placer County
+207,Safeway,grocery,Tracy,Corral Hollow,(209) 830-2950,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+208,Safeway Distribution Warehouse,grocery,Tracy,,(209) 833-4700,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+209,Safeway Photo Center,grocery,Tracy,,,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+210,Safeway Liquor,grocery,Tracy,,,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+211,Safeway Fuel Station,grocery,Tracy,	$3.26/Regular,(209) 830-2950,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+212,U.S. Bank ATM - Tracy - Safeway,grocery,Tracy,,(800) 872-2657,,CA,San Joaquin County,50.0,6.0,77.0,0.0,0.0,0.0,San Joaquin County
+213,Safeway,grocery,Truckee,Gateway at Donner Pass,(530) 582-7950,,CA,Nevada County,50.0,5.0,99.0,0.0,0.0,0.0,Nevada County
+214,Safeway,grocery,Truckee,Gateway at Donner Pass,(530) 582-7950,,CA,Nevada County,50.0,6.0,57.0,0.0,0.0,0.0,Nevada County
+215,Safeway,grocery,Turlock,Monte Vista Crossings,(209) 669-2725,,CA,Stanislaus County,50.0,6.0,99.0,0.0,0.0,0.0,Stanislaus County
+216,Safeway,grocery,Ukiah,,(707) 467-2700,,CA,Mendocino County,50.0,6.0,45.0,0.0,0.0,0.0,Mendocino County
+217,Safeway,grocery,Vacaville,Vacaville Commons Shopping Center,(707) 452-7277,,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+218,Safeway,grocery,Vallejo,,(707) 643-2172,,CA,Solano County,50.0,6.0,95.0,0.0,0.0,0.0,Solano County
+219,Safeway,grocery,Alamosa,,(719) 587-3075,,CO,Alamosa County,50.0,8.0,3.0,0.0,0.0,0.0,Alamosa County
+220,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,8.0,1.0,0.0,0.0,0.0,Adams County
+221,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,16.0,3.0,0.0,0.0,0.0,Adams County
+222,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,17.0,1.0,0.0,0.0,0.0,Adams County
+223,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,18.0,1.0,0.0,0.0,0.0,Adams County
+224,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,19.0,3.0,0.0,0.0,0.0,Adams County
+225,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,28.0,1.0,0.0,0.0,0.0,Adams County
+226,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,31.0,1.0,0.0,0.0,0.0,Adams County
+227,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,38.0,1.0,0.0,0.0,0.0,Adams County
+228,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,39.0,1.0,0.0,0.0,0.0,Adams County
+229,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,42.0,1.0,0.0,0.0,0.0,Adams County
+230,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,53.0,1.0,0.0,0.0,0.0,Adams County
+231,Safeway,grocery,Aurora,,(720) 876-2244,,CO,Adams County,50.0,55.0,1.0,0.0,0.0,0.0,Adams County
+232,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,8.0,1.0,0.0,0.0,0.0,Adams County
+233,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,16.0,3.0,0.0,0.0,0.0,Adams County
+234,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,17.0,1.0,0.0,0.0,0.0,Adams County
+235,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,18.0,1.0,0.0,0.0,0.0,Adams County
+236,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,19.0,3.0,0.0,0.0,0.0,Adams County
+237,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,28.0,1.0,0.0,0.0,0.0,Adams County
+238,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,31.0,1.0,0.0,0.0,0.0,Adams County
+239,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,38.0,1.0,0.0,0.0,0.0,Adams County
+240,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,39.0,1.0,0.0,0.0,0.0,Adams County
+241,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,42.0,1.0,0.0,0.0,0.0,Adams County
+242,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,53.0,1.0,0.0,0.0,0.0,Adams County
+243,Safeway,grocery,Aurora,,(303) 750-6802,,CO,Adams County,50.0,55.0,1.0,0.0,0.0,0.0,Adams County
+244,Safeway,grocery,Boulder,Meadows On the Parkway,(303) 494-5373,,CO,Boulder County,50.0,8.0,13.0,0.0,0.0,0.0,Boulder County
+245,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,8.0,1.0,0.0,0.0,0.0,Adams County
+246,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,16.0,3.0,0.0,0.0,0.0,Adams County
+247,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,17.0,1.0,0.0,0.0,0.0,Adams County
+248,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,18.0,1.0,0.0,0.0,0.0,Adams County
+249,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,19.0,3.0,0.0,0.0,0.0,Adams County
+250,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,28.0,1.0,0.0,0.0,0.0,Adams County
+251,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,31.0,1.0,0.0,0.0,0.0,Adams County
+252,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,38.0,1.0,0.0,0.0,0.0,Adams County
+253,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,39.0,1.0,0.0,0.0,0.0,Adams County
+254,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,42.0,1.0,0.0,0.0,0.0,Adams County
+255,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,53.0,1.0,0.0,0.0,0.0,Adams County
+256,Safeway,grocery,Brighton,,(303) 659-6461,,CO,Adams County,50.0,55.0,1.0,0.0,0.0,0.0,Adams County
+257,Safeway,grocery,Colorado Springs,,(719) 473-6307,,CO,El Paso County,50.0,8.0,41.0,0.0,0.0,0.0,El Paso County
+258,Safeway,grocery,Colorado Springs,,(719) 473-6307,,CO,El Paso County,50.0,48.0,141.0,0.0,0.0,0.0,El Paso County
+259,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,8.0,1.0,0.0,0.0,0.0,Adams County
+260,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,16.0,3.0,0.0,0.0,0.0,Adams County
+261,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,17.0,1.0,0.0,0.0,0.0,Adams County
+262,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,18.0,1.0,0.0,0.0,0.0,Adams County
+263,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,19.0,3.0,0.0,0.0,0.0,Adams County
+264,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,28.0,1.0,0.0,0.0,0.0,Adams County
+265,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,31.0,1.0,0.0,0.0,0.0,Adams County
+266,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,38.0,1.0,0.0,0.0,0.0,Adams County
+267,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,39.0,1.0,0.0,0.0,0.0,Adams County
+268,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,42.0,1.0,0.0,0.0,0.0,Adams County
+269,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,53.0,1.0,0.0,0.0,0.0,Adams County
+270,Safeway,grocery,Denver,,(303) 722-6117,,CO,Adams County,50.0,55.0,1.0,0.0,0.0,0.0,Adams County
+271,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,8.0,1.0,0.0,0.0,0.0,Adams County
+272,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,16.0,3.0,0.0,0.0,0.0,Adams County
+273,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,17.0,1.0,0.0,0.0,0.0,Adams County
+274,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,18.0,1.0,0.0,0.0,0.0,Adams County
+275,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,19.0,3.0,0.0,0.0,0.0,Adams County
+276,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,28.0,1.0,0.0,0.0,0.0,Adams County
+277,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,31.0,1.0,0.0,0.0,0.0,Adams County
+278,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,38.0,1.0,0.0,0.0,0.0,Adams County
+279,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,39.0,1.0,0.0,0.0,0.0,Adams County
+280,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,42.0,1.0,0.0,0.0,0.0,Adams County
+281,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,53.0,1.0,0.0,0.0,0.0,Adams County
+282,Safeway,grocery,Denver,,(303) 477-5091,,CO,Adams County,50.0,55.0,1.0,0.0,0.0,0.0,Adams County
+283,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,8.0,1.0,0.0,0.0,0.0,Adams County
+284,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,16.0,3.0,0.0,0.0,0.0,Adams County
+285,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,17.0,1.0,0.0,0.0,0.0,Adams County
+286,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,18.0,1.0,0.0,0.0,0.0,Adams County
+287,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,19.0,3.0,0.0,0.0,0.0,Adams County
+288,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,28.0,1.0,0.0,0.0,0.0,Adams County
+289,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,31.0,1.0,0.0,0.0,0.0,Adams County
+290,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,38.0,1.0,0.0,0.0,0.0,Adams County
+291,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,39.0,1.0,0.0,0.0,0.0,Adams County
+292,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,42.0,1.0,0.0,0.0,0.0,Adams County
+293,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,53.0,1.0,0.0,0.0,0.0,Adams County
+294,Safeway,grocery,Denver,,(303) 691-8870,,CO,Adams County,50.0,55.0,1.0,0.0,0.0,0.0,Adams County
+295,Safeway,grocery,Elizabeth,,(303) 646-0336,,CO,Elbert County,50.0,8.0,39.0,0.0,0.0,0.0,Elbert County
+296,Safeway,grocery,Elizabeth,,(303) 646-0336,,CO,Elbert County,50.0,13.0,105.0,0.0,0.0,0.0,Elbert County
+297,Safeway,grocery,Englewood,Heritage Place Shopping Center,(303) 771-8707,,CO,Arapahoe County,50.0,8.0,5.0,0.0,0.0,0.0,Arapahoe County
+298,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,8.0,1.0,0.0,0.0,0.0,Adams County
+299,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,16.0,3.0,0.0,0.0,0.0,Adams County
+300,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,17.0,1.0,0.0,0.0,0.0,Adams County
+301,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,18.0,1.0,0.0,0.0,0.0,Adams County
+302,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,19.0,3.0,0.0,0.0,0.0,Adams County
+303,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,28.0,1.0,0.0,0.0,0.0,Adams County
+304,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,31.0,1.0,0.0,0.0,0.0,Adams County
+305,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,38.0,1.0,0.0,0.0,0.0,Adams County
+306,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,39.0,1.0,0.0,0.0,0.0,Adams County
+307,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,42.0,1.0,0.0,0.0,0.0,Adams County
+308,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,53.0,1.0,0.0,0.0,0.0,Adams County
+309,Safeway,grocery,Federal Heights,,(303) 469-0990,,CO,Adams County,50.0,55.0,1.0,0.0,0.0,0.0,Adams County
+310,Safeway,grocery,Fort Collins,Harmony Market Center,(970) 223-6335,,CO,Larimer County,50.0,8.0,69.0,0.0,0.0,0.0,Larimer County
+311,Safeway,grocery,Grand Junction,,(970) 248-9869,,CO,Mesa County,50.0,8.0,77.0,0.0,0.0,0.0,Mesa County
+312,Safeway,grocery,Gunnison,,(970) 641-0787,,CO,Gunnison County,50.0,8.0,51.0,0.0,0.0,0.0,Gunnison County
+313,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,8.0,35.0,0.0,0.0,0.0,Douglas County
+314,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,13.0,97.0,0.0,0.0,0.0,Douglas County
+315,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,17.0,41.0,0.0,0.0,0.0,Douglas County
+316,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,20.0,45.0,0.0,0.0,0.0,Douglas County
+317,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,27.0,41.0,0.0,0.0,0.0,Douglas County
+318,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,29.0,67.0,0.0,0.0,0.0,Douglas County
+319,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,31.0,55.0,0.0,0.0,0.0,Douglas County
+320,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,32.0,5.0,0.0,0.0,0.0,Douglas County
+321,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,41.0,19.0,0.0,0.0,0.0,Douglas County
+322,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,46.0,43.0,0.0,0.0,0.0,Douglas County
+323,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,53.0,17.0,0.0,0.0,0.0,Douglas County
+324,Safeway,grocery,Highlands Ranch,Highlands Ranch Shopping Center,(303) 683-1983,,CO,Douglas County,50.0,55.0,31.0,0.0,0.0,0.0,Douglas County
+325,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,1.0,73.0,0.0,0.0,0.0,Jefferson County
+326,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,5.0,69.0,0.0,0.0,0.0,Jefferson County
+327,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,8.0,59.0,0.0,0.0,0.0,Jefferson County
+328,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,12.0,65.0,0.0,0.0,0.0,Jefferson County
+329,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,13.0,163.0,0.0,0.0,0.0,Jefferson County
+330,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,16.0,51.0,0.0,0.0,0.0,Jefferson County
+331,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,17.0,81.0,0.0,0.0,0.0,Jefferson County
+332,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,18.0,77.0,0.0,0.0,0.0,Jefferson County
+333,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,19.0,101.0,0.0,0.0,0.0,Jefferson County
+334,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,20.0,87.0,0.0,0.0,0.0,Jefferson County
+335,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,21.0,111.0,0.0,0.0,0.0,Jefferson County
+336,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,28.0,63.0,0.0,0.0,0.0,Jefferson County
+337,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,29.0,99.0,0.0,0.0,0.0,Jefferson County
+338,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,30.0,43.0,0.0,0.0,0.0,Jefferson County
+339,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,31.0,95.0,0.0,0.0,0.0,Jefferson County
+340,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,36.0,45.0,0.0,0.0,0.0,Jefferson County
+341,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,39.0,81.0,0.0,0.0,0.0,Jefferson County
+342,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,40.0,67.0,0.0,0.0,0.0,Jefferson County
+343,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,41.0,31.0,0.0,0.0,0.0,Jefferson County
+344,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,42.0,65.0,0.0,0.0,0.0,Jefferson County
+345,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,47.0,89.0,0.0,0.0,0.0,Jefferson County
+346,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,48.0,245.0,0.0,0.0,0.0,Jefferson County
+347,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,53.0,31.0,0.0,0.0,0.0,Jefferson County
+348,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,54.0,37.0,0.0,0.0,0.0,Jefferson County
+349,Safeway,grocery,Lakewood,,(303) 232-4989,,CO,Jefferson County,50.0,55.0,55.0,0.0,0.0,0.0,Jefferson County
+350,Safeway,grocery,Lamar,,(719) 336-2540,,CO,Prowers County,50.0,8.0,99.0,0.0,0.0,0.0,Prowers County
+351,Safeway,grocery,Littleton,,(303) 978-1859,,CO,Arapahoe County,50.0,8.0,5.0,0.0,0.0,0.0,Arapahoe County
+352,Safeway,grocery,Littleton,,(303) 218-2100,,CO,Arapahoe County,50.0,8.0,5.0,0.0,0.0,0.0,Arapahoe County
+353,Safeway,grocery,Littleton,,(720) 922-0305,,CO,Arapahoe County,50.0,8.0,5.0,0.0,0.0,0.0,Arapahoe County
+354,Safeway,grocery,Loveland,,(970) 669-3440,,CO,Larimer County,50.0,8.0,69.0,0.0,0.0,0.0,Larimer County
+355,Safeway,grocery,Loveland,Columbine Shopping Center,(970) 669-1342,,CO,Larimer County,50.0,8.0,69.0,0.0,0.0,0.0,Larimer County
+356,Safeway,grocery,Monument,,(719) 488-1187,,CO,El Paso County,50.0,8.0,41.0,0.0,0.0,0.0,El Paso County
+357,Safeway,grocery,Monument,,(719) 488-1187,,CO,El Paso County,50.0,48.0,141.0,0.0,0.0,0.0,El Paso County
+358,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,8.0,35.0,0.0,0.0,0.0,Douglas County
+359,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,13.0,97.0,0.0,0.0,0.0,Douglas County
+360,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,17.0,41.0,0.0,0.0,0.0,Douglas County
+361,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,20.0,45.0,0.0,0.0,0.0,Douglas County
+362,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,27.0,41.0,0.0,0.0,0.0,Douglas County
+363,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,29.0,67.0,0.0,0.0,0.0,Douglas County
+364,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,31.0,55.0,0.0,0.0,0.0,Douglas County
+365,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,32.0,5.0,0.0,0.0,0.0,Douglas County
+366,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,41.0,19.0,0.0,0.0,0.0,Douglas County
+367,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,46.0,43.0,0.0,0.0,0.0,Douglas County
+368,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,53.0,17.0,0.0,0.0,0.0,Douglas County
+369,Safeway,grocery,Parker,,(303) 840-1604,,CO,Douglas County,50.0,55.0,31.0,0.0,0.0,0.0,Douglas County
+370,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,1.0,73.0,0.0,0.0,0.0,Jefferson County
+371,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,5.0,69.0,0.0,0.0,0.0,Jefferson County
+372,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,8.0,59.0,0.0,0.0,0.0,Jefferson County
+373,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,12.0,65.0,0.0,0.0,0.0,Jefferson County
+374,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,13.0,163.0,0.0,0.0,0.0,Jefferson County
+375,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,16.0,51.0,0.0,0.0,0.0,Jefferson County
+376,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,17.0,81.0,0.0,0.0,0.0,Jefferson County
+377,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,18.0,77.0,0.0,0.0,0.0,Jefferson County
+378,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,19.0,101.0,0.0,0.0,0.0,Jefferson County
+379,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,20.0,87.0,0.0,0.0,0.0,Jefferson County
+380,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,21.0,111.0,0.0,0.0,0.0,Jefferson County
+381,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,28.0,63.0,0.0,0.0,0.0,Jefferson County
+382,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,29.0,99.0,0.0,0.0,0.0,Jefferson County
+383,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,30.0,43.0,0.0,0.0,0.0,Jefferson County
+384,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,31.0,95.0,0.0,0.0,0.0,Jefferson County
+385,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,36.0,45.0,0.0,0.0,0.0,Jefferson County
+386,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,39.0,81.0,0.0,0.0,0.0,Jefferson County
+387,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,40.0,67.0,0.0,0.0,0.0,Jefferson County
+388,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,41.0,31.0,0.0,0.0,0.0,Jefferson County
+389,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,42.0,65.0,0.0,0.0,0.0,Jefferson County
+390,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,47.0,89.0,0.0,0.0,0.0,Jefferson County
+391,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,48.0,245.0,0.0,0.0,0.0,Jefferson County
+392,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,53.0,31.0,0.0,0.0,0.0,Jefferson County
+393,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,54.0,37.0,0.0,0.0,0.0,Jefferson County
+394,Safeway,grocery,Wheat Ridge,Wheat Ridge Marketplace,(303) 456-2670,,CO,Jefferson County,50.0,55.0,55.0,0.0,0.0,0.0,Jefferson County
+395,Safeway,grocery,Windsor,,(970) 674-1177,,CO,Weld County,50.0,8.0,123.0,0.0,0.0,0.0,Weld County
+396,Safeway,grocery,Washington,,(202) 667-6825,,DC,District Of Columbia County,,,,,,,
+397,Safeway,grocery,Washington,,(202) 722-4023,,DC,District Of Columbia County,,,,,,,
+398,Safeway,grocery,Washington,City Vista,(202) 719-2435,,DC,District Of Columbia County,,,,,,,
+399,Safeway,grocery,Washington,,(202) 337-5649,,DC,District Of Columbia County,,,,,,,
+400,Safeway,grocery,Altamonte Springs,,(407) 834-7424,,FL,Seminole County,50.0,12.0,117.0,0.0,0.0,0.0,Seminole County
+401,Safeway,grocery,Altamonte Springs,,(407) 834-7424,,FL,Seminole County,50.0,13.0,253.0,0.0,0.0,0.0,Seminole County
+402,Safeway,grocery,Altamonte Springs,,(407) 834-7424,,FL,Seminole County,50.0,40.0,133.0,0.0,0.0,0.0,Seminole County
+403,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,12.0,47.0,0.0,0.0,0.0,Hamilton County
+404,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,17.0,65.0,0.0,0.0,0.0,Hamilton County
+405,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,18.0,57.0,0.0,0.0,0.0,Hamilton County
+406,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,19.0,79.0,0.0,0.0,0.0,Hamilton County
+407,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,20.0,75.0,0.0,0.0,0.0,Hamilton County
+408,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,31.0,81.0,0.0,0.0,0.0,Hamilton County
+409,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,36.0,41.0,0.0,0.0,0.0,Hamilton County
+410,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,39.0,61.0,0.0,0.0,0.0,Hamilton County
+411,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,47.0,65.0,0.0,0.0,0.0,Hamilton County
+412,Safeway,grocery,Indianapolis,Brightwood Plaza,(317) 547-8528,,IN,Hamilton County,50.0,48.0,193.0,0.0,0.0,0.0,Hamilton County
+413,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,1.0,101.0,0.0,0.0,0.0,Montgomery County
+414,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,5.0,97.0,0.0,0.0,0.0,Montgomery County
+415,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,13.0,209.0,0.0,0.0,0.0,Montgomery County
+416,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,17.0,135.0,0.0,0.0,0.0,Montgomery County
+417,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,18.0,107.0,0.0,0.0,0.0,Montgomery County
+418,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,19.0,137.0,0.0,0.0,0.0,Montgomery County
+419,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,20.0,125.0,0.0,0.0,0.0,Montgomery County
+420,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,21.0,173.0,0.0,0.0,0.0,Montgomery County
+421,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,24.0,31.0,0.0,0.0,0.0,Montgomery County
+422,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,28.0,97.0,0.0,0.0,0.0,Montgomery County
+423,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,29.0,139.0,0.0,0.0,0.0,Montgomery County
+424,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,36.0,57.0,0.0,0.0,0.0,Montgomery County
+425,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,37.0,123.0,0.0,0.0,0.0,Montgomery County
+426,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,39.0,113.0,0.0,0.0,0.0,Montgomery County
+427,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,42.0,91.0,0.0,0.0,0.0,Montgomery County
+428,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,47.0,125.0,0.0,0.0,0.0,Montgomery County
+429,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,48.0,339.0,0.0,0.0,0.0,Montgomery County
+430,Safeway,grocery,Damascus,,(301) 391-6146,,MD,Montgomery County,50.0,51.0,121.0,0.0,0.0,0.0,Montgomery County
+431,Safeway,grocery,Dunkirk,Dunkirk Market Place,(301) 855-3765,,MD,Calvert County,50.0,24.0,9.0,0.0,0.0,0.0,Calvert County
+432,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,5.0,15.0,0.0,0.0,0.0,Carroll County
+433,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,13.0,45.0,0.0,0.0,0.0,Carroll County
+434,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,17.0,15.0,0.0,0.0,0.0,Carroll County
+435,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,18.0,15.0,0.0,0.0,0.0,Carroll County
+436,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,19.0,27.0,0.0,0.0,0.0,Carroll County
+437,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,21.0,41.0,0.0,0.0,0.0,Carroll County
+438,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,24.0,13.0,0.0,0.0,0.0,Carroll County
+439,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,28.0,15.0,0.0,0.0,0.0,Carroll County
+440,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,29.0,33.0,0.0,0.0,0.0,Carroll County
+441,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,33.0,3.0,0.0,0.0,0.0,Carroll County
+442,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,39.0,19.0,0.0,0.0,0.0,Carroll County
+443,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,47.0,17.0,0.0,0.0,0.0,Carroll County
+444,Safeway,grocery,Eldersburg,,(410) 552-1021,,MD,Carroll County,50.0,51.0,35.0,0.0,0.0,0.0,Carroll County
+445,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,1.0,101.0,0.0,0.0,0.0,Montgomery County
+446,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,5.0,97.0,0.0,0.0,0.0,Montgomery County
+447,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,13.0,209.0,0.0,0.0,0.0,Montgomery County
+448,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,17.0,135.0,0.0,0.0,0.0,Montgomery County
+449,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,18.0,107.0,0.0,0.0,0.0,Montgomery County
+450,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,19.0,137.0,0.0,0.0,0.0,Montgomery County
+451,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,20.0,125.0,0.0,0.0,0.0,Montgomery County
+452,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,21.0,173.0,0.0,0.0,0.0,Montgomery County
+453,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,24.0,31.0,0.0,0.0,0.0,Montgomery County
+454,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,28.0,97.0,0.0,0.0,0.0,Montgomery County
+455,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,29.0,139.0,0.0,0.0,0.0,Montgomery County
+456,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,36.0,57.0,0.0,0.0,0.0,Montgomery County
+457,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,37.0,123.0,0.0,0.0,0.0,Montgomery County
+458,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,39.0,113.0,0.0,0.0,0.0,Montgomery County
+459,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,42.0,91.0,0.0,0.0,0.0,Montgomery County
+460,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,47.0,125.0,0.0,0.0,0.0,Montgomery County
+461,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,48.0,339.0,0.0,0.0,0.0,Montgomery County
+462,Safeway,grocery,Germantown,Shops at Town Center & Century Station,(301) 916-8584,,MD,Montgomery County,50.0,51.0,121.0,0.0,0.0,0.0,Montgomery County
+463,Safeway,grocery,Hanover,Arundel Village,(410) 904-7222,,MD,Anne Arundel County,50.0,24.0,3.0,0.0,0.0,0.0,Anne Arundel County
+464,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,1.0,101.0,0.0,0.0,0.0,Montgomery County
+465,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,5.0,97.0,0.0,0.0,0.0,Montgomery County
+466,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,13.0,209.0,0.0,0.0,0.0,Montgomery County
+467,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,17.0,135.0,0.0,0.0,0.0,Montgomery County
+468,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,18.0,107.0,0.0,0.0,0.0,Montgomery County
+469,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,19.0,137.0,0.0,0.0,0.0,Montgomery County
+470,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,20.0,125.0,0.0,0.0,0.0,Montgomery County
+471,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,21.0,173.0,0.0,0.0,0.0,Montgomery County
+472,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,24.0,31.0,0.0,0.0,0.0,Montgomery County
+473,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,28.0,97.0,0.0,0.0,0.0,Montgomery County
+474,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,29.0,139.0,0.0,0.0,0.0,Montgomery County
+475,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,36.0,57.0,0.0,0.0,0.0,Montgomery County
+476,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,37.0,123.0,0.0,0.0,0.0,Montgomery County
+477,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,39.0,113.0,0.0,0.0,0.0,Montgomery County
+478,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,42.0,91.0,0.0,0.0,0.0,Montgomery County
+479,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,47.0,125.0,0.0,0.0,0.0,Montgomery County
+480,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,48.0,339.0,0.0,0.0,0.0,Montgomery County
+481,Safeway,grocery,Rockville,Fallsgrove Village Center,(301) 944-1584,,MD,Montgomery County,50.0,51.0,121.0,0.0,0.0,0.0,Montgomery County
+482,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,1.0,101.0,0.0,0.0,0.0,Montgomery County
+483,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,5.0,97.0,0.0,0.0,0.0,Montgomery County
+484,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,13.0,209.0,0.0,0.0,0.0,Montgomery County
+485,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,17.0,135.0,0.0,0.0,0.0,Montgomery County
+486,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,18.0,107.0,0.0,0.0,0.0,Montgomery County
+487,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,19.0,137.0,0.0,0.0,0.0,Montgomery County
+488,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,20.0,125.0,0.0,0.0,0.0,Montgomery County
+489,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,21.0,173.0,0.0,0.0,0.0,Montgomery County
+490,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,24.0,31.0,0.0,0.0,0.0,Montgomery County
+491,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,28.0,97.0,0.0,0.0,0.0,Montgomery County
+492,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,29.0,139.0,0.0,0.0,0.0,Montgomery County
+493,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,36.0,57.0,0.0,0.0,0.0,Montgomery County
+494,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,37.0,123.0,0.0,0.0,0.0,Montgomery County
+495,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,39.0,113.0,0.0,0.0,0.0,Montgomery County
+496,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,42.0,91.0,0.0,0.0,0.0,Montgomery County
+497,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,47.0,125.0,0.0,0.0,0.0,Montgomery County
+498,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,48.0,339.0,0.0,0.0,0.0,Montgomery County
+499,Safeway,grocery,Rockville,King Farm Village Center,(301) 990-3150,,MD,Montgomery County,50.0,51.0,121.0,0.0,0.0,0.0,Montgomery County
+500,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,1.0,101.0,0.0,0.0,0.0,Montgomery County
+501,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,5.0,97.0,0.0,0.0,0.0,Montgomery County
+502,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,13.0,209.0,0.0,0.0,0.0,Montgomery County
+503,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,17.0,135.0,0.0,0.0,0.0,Montgomery County
+504,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,18.0,107.0,0.0,0.0,0.0,Montgomery County
+505,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,19.0,137.0,0.0,0.0,0.0,Montgomery County
+506,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,20.0,125.0,0.0,0.0,0.0,Montgomery County
+507,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,21.0,173.0,0.0,0.0,0.0,Montgomery County
+508,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,24.0,31.0,0.0,0.0,0.0,Montgomery County
+509,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,28.0,97.0,0.0,0.0,0.0,Montgomery County
+510,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,29.0,139.0,0.0,0.0,0.0,Montgomery County
+511,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,36.0,57.0,0.0,0.0,0.0,Montgomery County
+512,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,37.0,123.0,0.0,0.0,0.0,Montgomery County
+513,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,39.0,113.0,0.0,0.0,0.0,Montgomery County
+514,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,42.0,91.0,0.0,0.0,0.0,Montgomery County
+515,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,47.0,125.0,0.0,0.0,0.0,Montgomery County
+516,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,48.0,339.0,0.0,0.0,0.0,Montgomery County
+517,Safeway,grocery,Rockville,Rock Creek Village Center,(301) 438-4020,,MD,Montgomery County,50.0,51.0,121.0,0.0,0.0,0.0,Montgomery County
+518,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,5.0,15.0,0.0,0.0,0.0,Carroll County
+519,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,13.0,45.0,0.0,0.0,0.0,Carroll County
+520,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,17.0,15.0,0.0,0.0,0.0,Carroll County
+521,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,18.0,15.0,0.0,0.0,0.0,Carroll County
+522,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,19.0,27.0,0.0,0.0,0.0,Carroll County
+523,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,21.0,41.0,0.0,0.0,0.0,Carroll County
+524,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,24.0,13.0,0.0,0.0,0.0,Carroll County
+525,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,28.0,15.0,0.0,0.0,0.0,Carroll County
+526,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,29.0,33.0,0.0,0.0,0.0,Carroll County
+527,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,33.0,3.0,0.0,0.0,0.0,Carroll County
+528,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,39.0,19.0,0.0,0.0,0.0,Carroll County
+529,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,47.0,17.0,0.0,0.0,0.0,Carroll County
+530,Safeway,grocery,Westminster,College Square,(410) 871-1200,,MD,Carroll County,50.0,51.0,35.0,0.0,0.0,0.0,Carroll County
+531,Safeway,grocery,Butte,,(406) 494-7046,,MT,Silver Bow County,50.0,30.0,93.0,0.0,0.0,0.0,Silver Bow County
+532,Safeway,grocery,Ogallala,,(308) 284-4044,,NE,Keith County,50.0,31.0,101.0,0.0,0.0,0.0,Keith County
+533,Safeway,grocery,Fallon,,(775) 428-2330,,NV,Churchill County,50.0,32.0,1.0,0.0,0.0,0.0,Churchill County
+534,Safeway,grocery,Hawthorne,,(775) 945-2159,,NV,Mineral County,50.0,8.0,79.0,0.0,0.0,0.0,Mineral County
+535,Safeway,grocery,Hawthorne,,(775) 945-2159,,NV,Mineral County,50.0,30.0,61.0,0.0,0.0,0.0,Mineral County
+536,Safeway,grocery,Hawthorne,,(775) 945-2159,,NV,Mineral County,50.0,32.0,21.0,0.0,0.0,0.0,Mineral County
+537,Safeway,grocery,Hawthorne,,(775) 945-2159,,NV,Mineral County,50.0,54.0,57.0,0.0,0.0,0.0,Mineral County
+538,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+539,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+540,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+541,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+542,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+543,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+544,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+545,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+546,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+547,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+548,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+549,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+550,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+551,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+552,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+553,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+554,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+555,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+556,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+557,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+558,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+559,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+560,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+561,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+562,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+563,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+564,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+565,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+566,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+567,Safeway,grocery,Aloha,Aloha Market Center,(503) 259-3180,,OR,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+568,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,1.0,71.0,0.0,0.0,0.0,Jackson County
+569,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,5.0,67.0,0.0,0.0,0.0,Jackson County
+570,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,8.0,57.0,0.0,0.0,0.0,Jackson County
+571,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,12.0,63.0,0.0,0.0,0.0,Jackson County
+572,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,13.0,157.0,0.0,0.0,0.0,Jackson County
+573,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,17.0,77.0,0.0,0.0,0.0,Jackson County
+574,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,18.0,71.0,0.0,0.0,0.0,Jackson County
+575,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,19.0,97.0,0.0,0.0,0.0,Jackson County
+576,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,20.0,85.0,0.0,0.0,0.0,Jackson County
+577,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,21.0,109.0,0.0,0.0,0.0,Jackson County
+578,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,26.0,75.0,0.0,0.0,0.0,Jackson County
+579,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,27.0,63.0,0.0,0.0,0.0,Jackson County
+580,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,28.0,59.0,0.0,0.0,0.0,Jackson County
+581,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,29.0,95.0,0.0,0.0,0.0,Jackson County
+582,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,37.0,99.0,0.0,0.0,0.0,Jackson County
+583,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,39.0,79.0,0.0,0.0,0.0,Jackson County
+584,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,40.0,65.0,0.0,0.0,0.0,Jackson County
+585,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,41.0,29.0,0.0,0.0,0.0,Jackson County
+586,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,46.0,71.0,0.0,0.0,0.0,Jackson County
+587,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,47.0,87.0,0.0,0.0,0.0,Jackson County
+588,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,48.0,239.0,0.0,0.0,0.0,Jackson County
+589,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,54.0,35.0,0.0,0.0,0.0,Jackson County
+590,Safeway,grocery,Ashland,,(541) 482-7777,,OR,Jackson County,50.0,55.0,53.0,0.0,0.0,0.0,Jackson County
+591,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+592,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+593,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+594,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+595,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+596,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+597,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+598,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+599,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+600,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+601,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+602,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+603,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+604,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+605,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+606,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+607,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+608,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+609,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+610,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+611,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+612,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+613,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+614,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+615,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+616,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+617,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+618,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+619,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+620,Safeway,grocery,Beaverton,Hyland Hills Shopping Center,(503) 672-8180,,OR,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+621,Safeway,grocery,Bend,The Forum Shopping Center,(541) 383-6500,,OR,Deschutes County,50.0,41.0,17.0,0.0,0.0,0.0,Deschutes County
+622,Safeway,grocery,Boring,,(503) 658-7000,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+623,Safeway,grocery,Burns,,(541) 573-8580,,OR,Harney County,50.0,41.0,25.0,0.0,0.0,0.0,Harney County
+624,Safeway,grocery,Clatskanie,,(503) 728-2490,,OR,Columbia County,50.0,5.0,27.0,0.0,0.0,0.0,Columbia County
+625,Safeway,grocery,Clatskanie,,(503) 728-2490,,OR,Columbia County,50.0,12.0,23.0,0.0,0.0,0.0,Columbia County
+626,Safeway,grocery,Clatskanie,,(503) 728-2490,,OR,Columbia County,50.0,13.0,73.0,0.0,0.0,0.0,Columbia County
+627,Safeway,grocery,Clatskanie,,(503) 728-2490,,OR,Columbia County,50.0,36.0,21.0,0.0,0.0,0.0,Columbia County
+628,Safeway,grocery,Clatskanie,,(503) 728-2490,,OR,Columbia County,50.0,41.0,9.0,0.0,0.0,0.0,Columbia County
+629,Safeway,grocery,Clatskanie,,(503) 728-2490,,OR,Columbia County,50.0,42.0,37.0,0.0,0.0,0.0,Columbia County
+630,Safeway,grocery,Clatskanie,,(503) 728-2490,,OR,Columbia County,50.0,53.0,13.0,0.0,0.0,0.0,Columbia County
+631,Safeway,grocery,Clatskanie,,(503) 728-2490,,OR,Columbia County,50.0,55.0,21.0,0.0,0.0,0.0,Columbia County
+632,Safeway,grocery,Coos Bay,,(541) 267-1700,,OR,Coos County,50.0,33.0,7.0,0.0,0.0,0.0,Coos County
+633,Safeway,grocery,Coos Bay,,(541) 267-1700,,OR,Coos County,50.0,41.0,11.0,0.0,0.0,0.0,Coos County
+634,Safeway,grocery,Coquille,,(541) 396-2223,,OR,Coos County,50.0,33.0,7.0,0.0,0.0,0.0,Coos County
+635,Safeway,grocery,Coquille,,(541) 396-2223,,OR,Coos County,50.0,41.0,11.0,0.0,0.0,0.0,Coos County
+636,Safeway,grocery,Eugene,Edgewood Shopping Center,(541) 342-4067,,OR,Lane County,50.0,20.0,101.0,0.0,0.0,0.0,Lane County
+637,Safeway,grocery,Eugene,Edgewood Shopping Center,(541) 342-4067,,OR,Lane County,50.0,41.0,39.0,0.0,0.0,0.0,Lane County
+638,Safeway,grocery,Gladstone,,(503) 723-2680,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+639,Safeway,grocery,Grants Pass,,(541) 956-7540,,OR,Josephine County,50.0,41.0,33.0,0.0,0.0,0.0,Josephine County
+640,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,1.0,93.0,0.0,0.0,0.0,Marion County
+641,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,5.0,89.0,0.0,0.0,0.0,Marion County
+642,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,12.0,83.0,0.0,0.0,0.0,Marion County
+643,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,13.0,197.0,0.0,0.0,0.0,Marion County
+644,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,17.0,121.0,0.0,0.0,0.0,Marion County
+645,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,18.0,97.0,0.0,0.0,0.0,Marion County
+646,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,19.0,125.0,0.0,0.0,0.0,Marion County
+647,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,20.0,115.0,0.0,0.0,0.0,Marion County
+648,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,21.0,155.0,0.0,0.0,0.0,Marion County
+649,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,28.0,91.0,0.0,0.0,0.0,Marion County
+650,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,29.0,127.0,0.0,0.0,0.0,Marion County
+651,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,39.0,101.0,0.0,0.0,0.0,Marion County
+652,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,41.0,47.0,0.0,0.0,0.0,Marion County
+653,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,45.0,67.0,0.0,0.0,0.0,Marion County
+654,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,47.0,115.0,0.0,0.0,0.0,Marion County
+655,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,48.0,315.0,0.0,0.0,0.0,Marion County
+656,Safeway,grocery,Keizer,,(503) 390-8810,,OR,Marion County,50.0,54.0,49.0,0.0,0.0,0.0,Marion County
+657,Safeway,grocery,Lake Oswego,Meridian Square,(503) 675-2500,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+658,Safeway,grocery,Milwaukie,,(503) 303-1441,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+659,Safeway,grocery,Newberg,Springbrook Plaza,(503) 537-4001,,OR,Yamhill County,50.0,41.0,71.0,0.0,0.0,0.0,Yamhill County
+660,Safeway,grocery,Oregon City,Hilltop Mall,(503) 655-8155,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+661,Safeway,grocery,Portland,,(503) 205-1849,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+662,Safeway,grocery,Portland,,(503) 236-7070,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+663,Safeway,grocery,Portland,,(503) 452-6068,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+664,Safeway,grocery,Portland,Sunset Mall,(503) 350-2080,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+665,Safeway,grocery,Portland,,(503) 528-0580,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+666,Safeway,grocery,Portland,,(503) 280-1200,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+667,Safeway,grocery,Portland,,(503) 205-1599,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+668,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,8.0,35.0,0.0,0.0,0.0,Douglas County
+669,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,13.0,97.0,0.0,0.0,0.0,Douglas County
+670,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,17.0,41.0,0.0,0.0,0.0,Douglas County
+671,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,20.0,45.0,0.0,0.0,0.0,Douglas County
+672,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,27.0,41.0,0.0,0.0,0.0,Douglas County
+673,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,29.0,67.0,0.0,0.0,0.0,Douglas County
+674,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,31.0,55.0,0.0,0.0,0.0,Douglas County
+675,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,32.0,5.0,0.0,0.0,0.0,Douglas County
+676,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,41.0,19.0,0.0,0.0,0.0,Douglas County
+677,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,46.0,43.0,0.0,0.0,0.0,Douglas County
+678,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,53.0,17.0,0.0,0.0,0.0,Douglas County
+679,Safeway,grocery,Reedsport,,(541) 271-3142,,OR,Douglas County,50.0,55.0,31.0,0.0,0.0,0.0,Douglas County
+680,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,1.0,93.0,0.0,0.0,0.0,Marion County
+681,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,5.0,89.0,0.0,0.0,0.0,Marion County
+682,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,12.0,83.0,0.0,0.0,0.0,Marion County
+683,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,13.0,197.0,0.0,0.0,0.0,Marion County
+684,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,17.0,121.0,0.0,0.0,0.0,Marion County
+685,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,18.0,97.0,0.0,0.0,0.0,Marion County
+686,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,19.0,125.0,0.0,0.0,0.0,Marion County
+687,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,20.0,115.0,0.0,0.0,0.0,Marion County
+688,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,21.0,155.0,0.0,0.0,0.0,Marion County
+689,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,28.0,91.0,0.0,0.0,0.0,Marion County
+690,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,29.0,127.0,0.0,0.0,0.0,Marion County
+691,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,39.0,101.0,0.0,0.0,0.0,Marion County
+692,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,41.0,47.0,0.0,0.0,0.0,Marion County
+693,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,45.0,67.0,0.0,0.0,0.0,Marion County
+694,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,47.0,115.0,0.0,0.0,0.0,Marion County
+695,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,48.0,315.0,0.0,0.0,0.0,Marion County
+696,Safeway,grocery,Salem,,(503) 399-1502,,OR,Marion County,50.0,54.0,49.0,0.0,0.0,0.0,Marion County
+697,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,1.0,93.0,0.0,0.0,0.0,Marion County
+698,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,5.0,89.0,0.0,0.0,0.0,Marion County
+699,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,12.0,83.0,0.0,0.0,0.0,Marion County
+700,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,13.0,197.0,0.0,0.0,0.0,Marion County
+701,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,17.0,121.0,0.0,0.0,0.0,Marion County
+702,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,18.0,97.0,0.0,0.0,0.0,Marion County
+703,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,19.0,125.0,0.0,0.0,0.0,Marion County
+704,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,20.0,115.0,0.0,0.0,0.0,Marion County
+705,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,21.0,155.0,0.0,0.0,0.0,Marion County
+706,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,28.0,91.0,0.0,0.0,0.0,Marion County
+707,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,29.0,127.0,0.0,0.0,0.0,Marion County
+708,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,39.0,101.0,0.0,0.0,0.0,Marion County
+709,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,41.0,47.0,0.0,0.0,0.0,Marion County
+710,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,45.0,67.0,0.0,0.0,0.0,Marion County
+711,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,47.0,115.0,0.0,0.0,0.0,Marion County
+712,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,48.0,315.0,0.0,0.0,0.0,Marion County
+713,Safeway,grocery,Salem,Oak Hills Shopping Center,(503) 365-2170,,OR,Marion County,50.0,54.0,49.0,0.0,0.0,0.0,Marion County
+714,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+715,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+716,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+717,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+718,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+719,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+720,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+721,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+722,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+723,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+724,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+725,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+726,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+727,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+728,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+729,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+730,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+731,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+732,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+733,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+734,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+735,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+736,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+737,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+738,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+739,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+740,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+741,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+742,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+743,Safeway,grocery,Sherwood,Sherwood Crossroads,(503) 625-4760,,OR,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+744,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,1.0,93.0,0.0,0.0,0.0,Marion County
+745,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,5.0,89.0,0.0,0.0,0.0,Marion County
+746,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,12.0,83.0,0.0,0.0,0.0,Marion County
+747,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,13.0,197.0,0.0,0.0,0.0,Marion County
+748,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,17.0,121.0,0.0,0.0,0.0,Marion County
+749,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,18.0,97.0,0.0,0.0,0.0,Marion County
+750,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,19.0,125.0,0.0,0.0,0.0,Marion County
+751,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,20.0,115.0,0.0,0.0,0.0,Marion County
+752,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,21.0,155.0,0.0,0.0,0.0,Marion County
+753,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,28.0,91.0,0.0,0.0,0.0,Marion County
+754,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,29.0,127.0,0.0,0.0,0.0,Marion County
+755,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,39.0,101.0,0.0,0.0,0.0,Marion County
+756,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,41.0,47.0,0.0,0.0,0.0,Marion County
+757,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,45.0,67.0,0.0,0.0,0.0,Marion County
+758,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,47.0,115.0,0.0,0.0,0.0,Marion County
+759,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,48.0,315.0,0.0,0.0,0.0,Marion County
+760,Safeway,grocery,Silverton,,(503) 873-1800,,OR,Marion County,50.0,54.0,49.0,0.0,0.0,0.0,Marion County
+761,Safeway,grocery,Sweet Home,,(541) 367-0670,,OR,Linn County,50.0,19.0,113.0,0.0,0.0,0.0,Linn County
+762,Safeway,grocery,Sweet Home,,(541) 367-0670,,OR,Linn County,50.0,20.0,107.0,0.0,0.0,0.0,Linn County
+763,Safeway,grocery,Sweet Home,,(541) 367-0670,,OR,Linn County,50.0,29.0,115.0,0.0,0.0,0.0,Linn County
+764,Safeway,grocery,Sweet Home,,(541) 367-0670,,OR,Linn County,50.0,41.0,43.0,0.0,0.0,0.0,Linn County
+765,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+766,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+767,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+768,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+769,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+770,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+771,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+772,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+773,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+774,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+775,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+776,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+777,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+778,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+779,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+780,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+781,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+782,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+783,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+784,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+785,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+786,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+787,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+788,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+789,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+790,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+791,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+792,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+793,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+794,Safeway,grocery,Tigard,,(503) 598-6001,,OR,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+795,Safeway,grocery,Troutdale,Cherry Park Market Center,(503) 674-7000,,OR,Multnomah County,50.0,41.0,51.0,0.0,0.0,0.0,Multnomah County
+796,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,1.0,93.0,0.0,0.0,0.0,Marion County
+797,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,5.0,89.0,0.0,0.0,0.0,Marion County
+798,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,12.0,83.0,0.0,0.0,0.0,Marion County
+799,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,13.0,197.0,0.0,0.0,0.0,Marion County
+800,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,17.0,121.0,0.0,0.0,0.0,Marion County
+801,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,18.0,97.0,0.0,0.0,0.0,Marion County
+802,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,19.0,125.0,0.0,0.0,0.0,Marion County
+803,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,20.0,115.0,0.0,0.0,0.0,Marion County
+804,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,21.0,155.0,0.0,0.0,0.0,Marion County
+805,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,28.0,91.0,0.0,0.0,0.0,Marion County
+806,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,29.0,127.0,0.0,0.0,0.0,Marion County
+807,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,39.0,101.0,0.0,0.0,0.0,Marion County
+808,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,41.0,47.0,0.0,0.0,0.0,Marion County
+809,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,45.0,67.0,0.0,0.0,0.0,Marion County
+810,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,47.0,115.0,0.0,0.0,0.0,Marion County
+811,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,48.0,315.0,0.0,0.0,0.0,Marion County
+812,Safeway,grocery,Woodburn,,(503) 982-2756,,OR,Marion County,50.0,54.0,49.0,0.0,0.0,0.0,Marion County
+813,Safeway,grocery,Alexandria,Engleside Plaza,(703) 780-3646,,VA,Alexandria City County,,,,,,,
+814,Safeway,grocery,Alexandria,Hollin Hall Shopping Center,(703) 765-0924,,VA,Alexandria City County,,,,,,,
+815,Safeway,grocery,Arlington,,(703) 538-6700,,VA,Arlington County,50.0,51.0,13.0,0.0,0.0,0.0,Arlington County
+816,Safeway,grocery,Falls Church,Crossroads Center,(703) 533-3800,,VA,Fairfax County,50.0,51.0,59.0,0.0,0.0,0.0,Fairfax County
+817,Safeway,grocery,McLean,,(703) 343-1000,,VA,Fairfax County,50.0,51.0,59.0,0.0,0.0,0.0,Fairfax County
+818,Safeway,grocery,McLean,Chesterbrook,(703) 538-6539,,VA,Fairfax County,50.0,51.0,59.0,0.0,0.0,0.0,Fairfax County
+819,Safeway,grocery,Sterling,,(703) 430-1192,,VA,Loudoun County,50.0,51.0,107.0,0.0,0.0,0.0,Loudoun County
+820,Safeway,grocery,Warrenton,Warrenton Village Center,(540) 347-7909,,VA,Fauquier County,50.0,51.0,61.0,0.0,0.0,0.0,Fauquier County
+821,Safeway,grocery,Auburn,,(253) 804-0138,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+822,Safeway,grocery,Auburn,,(253) 804-0138,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+823,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,5.0,19.0,0.0,0.0,0.0,Clark County
+824,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,16.0,33.0,0.0,0.0,0.0,Clark County
+825,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,17.0,23.0,0.0,0.0,0.0,Clark County
+826,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,18.0,19.0,0.0,0.0,0.0,Clark County
+827,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,20.0,25.0,0.0,0.0,0.0,Clark County
+828,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,21.0,49.0,0.0,0.0,0.0,Clark County
+829,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,29.0,45.0,0.0,0.0,0.0,Clark County
+830,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,32.0,3.0,0.0,0.0,0.0,Clark County
+831,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,39.0,23.0,0.0,0.0,0.0,Clark County
+832,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,46.0,25.0,0.0,0.0,0.0,Clark County
+833,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,53.0,11.0,0.0,0.0,0.0,Clark County
+834,Safeway,grocery,Battle Ground,,(360) 666-2230,,WA,Clark County,50.0,55.0,19.0,0.0,0.0,0.0,Clark County
+835,Safeway,grocery,Bellingham,Sunset Square,(360) 647-8311,,WA,Whatcom County,50.0,53.0,73.0,0.0,0.0,0.0,Whatcom County
+836,Safeway,grocery,Bonney Lake,,(253) 862-1212,,WA,Pierce County,50.0,13.0,229.0,0.0,0.0,0.0,Pierce County
+837,Safeway,grocery,Bonney Lake,,(253) 862-1212,,WA,Pierce County,50.0,31.0,139.0,0.0,0.0,0.0,Pierce County
+838,Safeway,grocery,Bonney Lake,,(253) 862-1212,,WA,Pierce County,50.0,38.0,69.0,0.0,0.0,0.0,Pierce County
+839,Safeway,grocery,Bonney Lake,,(253) 862-1212,,WA,Pierce County,50.0,53.0,53.0,0.0,0.0,0.0,Pierce County
+840,Safeway,grocery,Bonney Lake,,(253) 862-1212,,WA,Pierce County,50.0,55.0,93.0,0.0,0.0,0.0,Pierce County
+841,Safeway,grocery,Bothell,,(425) 482-2767,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+842,Safeway,grocery,Bothell,,(425) 482-2767,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+843,Safeway,grocery,Centralia,,(360) 330-0884,,WA,Lewis County,50.0,16.0,61.0,0.0,0.0,0.0,Lewis County
+844,Safeway,grocery,Centralia,,(360) 330-0884,,WA,Lewis County,50.0,21.0,135.0,0.0,0.0,0.0,Lewis County
+845,Safeway,grocery,Centralia,,(360) 330-0884,,WA,Lewis County,50.0,29.0,111.0,0.0,0.0,0.0,Lewis County
+846,Safeway,grocery,Centralia,,(360) 330-0884,,WA,Lewis County,50.0,36.0,49.0,0.0,0.0,0.0,Lewis County
+847,Safeway,grocery,Centralia,,(360) 330-0884,,WA,Lewis County,50.0,47.0,101.0,0.0,0.0,0.0,Lewis County
+848,Safeway,grocery,Centralia,,(360) 330-0884,,WA,Lewis County,50.0,53.0,41.0,0.0,0.0,0.0,Lewis County
+849,Safeway,grocery,Centralia,,(360) 330-0884,,WA,Lewis County,50.0,54.0,41.0,0.0,0.0,0.0,Lewis County
+850,Safeway,grocery,Covington,Covington Square Shopping Center,(253) 630-0063,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+851,Safeway,grocery,Covington,Covington Square Shopping Center,(253) 630-0063,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+852,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,5.0,79.0,0.0,0.0,0.0,Lincoln County
+853,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,8.0,73.0,0.0,0.0,0.0,Lincoln County
+854,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,13.0,181.0,0.0,0.0,0.0,Lincoln County
+855,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,16.0,63.0,0.0,0.0,0.0,Lincoln County
+856,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,20.0,105.0,0.0,0.0,0.0,Lincoln County
+857,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,21.0,137.0,0.0,0.0,0.0,Lincoln County
+858,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,23.0,15.0,0.0,0.0,0.0,Lincoln County
+859,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,27.0,81.0,0.0,0.0,0.0,Lincoln County
+860,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,28.0,85.0,0.0,0.0,0.0,Lincoln County
+861,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,29.0,113.0,0.0,0.0,0.0,Lincoln County
+862,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,30.0,53.0,0.0,0.0,0.0,Lincoln County
+863,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,31.0,111.0,0.0,0.0,0.0,Lincoln County
+864,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,32.0,17.0,0.0,0.0,0.0,Lincoln County
+865,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,35.0,27.0,0.0,0.0,0.0,Lincoln County
+866,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,37.0,109.0,0.0,0.0,0.0,Lincoln County
+867,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,40.0,81.0,0.0,0.0,0.0,Lincoln County
+868,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,41.0,41.0,0.0,0.0,0.0,Lincoln County
+869,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,46.0,83.0,0.0,0.0,0.0,Lincoln County
+870,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,47.0,103.0,0.0,0.0,0.0,Lincoln County
+871,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,53.0,43.0,0.0,0.0,0.0,Lincoln County
+872,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,54.0,43.0,0.0,0.0,0.0,Lincoln County
+873,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,55.0,69.0,0.0,0.0,0.0,Lincoln County
+874,Safeway,grocery,Davenport,,(509) 725-7151,,WA,Lincoln County,50.0,56.0,23.0,0.0,0.0,0.0,Lincoln County
+875,Safeway,grocery,Duvall,,(425) 844-1188,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+876,Safeway,grocery,Duvall,,(425) 844-1188,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+877,Safeway,grocery,Edmonds,Aurora Marketplace,(425) 778-1411,,WA,Snohomish County,50.0,53.0,61.0,0.0,0.0,0.0,Snohomish County
+878,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,5.0,53.0,0.0,0.0,0.0,Grant County
+879,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,18.0,53.0,0.0,0.0,0.0,Grant County
+880,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,20.0,67.0,0.0,0.0,0.0,Grant County
+881,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,21.0,81.0,0.0,0.0,0.0,Grant County
+882,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,27.0,51.0,0.0,0.0,0.0,Grant County
+883,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,31.0,75.0,0.0,0.0,0.0,Grant County
+884,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,35.0,17.0,0.0,0.0,0.0,Grant County
+885,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,38.0,37.0,0.0,0.0,0.0,Grant County
+886,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,40.0,53.0,0.0,0.0,0.0,Grant County
+887,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,41.0,23.0,0.0,0.0,0.0,Grant County
+888,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,46.0,51.0,0.0,0.0,0.0,Grant County
+889,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,53.0,25.0,0.0,0.0,0.0,Grant County
+890,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,54.0,23.0,0.0,0.0,0.0,Grant County
+891,Safeway,grocery,Ephrata,,(509) 754-4441,,WA,Grant County,50.0,55.0,43.0,0.0,0.0,0.0,Grant County
+892,Safeway,grocery,Everett,Silver Lake Center,(425) 337-0886,,WA,Snohomish County,50.0,53.0,61.0,0.0,0.0,0.0,Snohomish County
+893,Safeway,grocery,Grandview,,(509) 882-1325,,WA,Yakima County,50.0,53.0,77.0,0.0,0.0,0.0,Yakima County
+894,Safeway,grocery,Kenmore,,(425) 487-2001,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+895,Safeway,grocery,Kenmore,,(425) 487-2001,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+896,Safeway,grocery,Kent,,(253) 638-7275,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+897,Safeway,grocery,Kent,,(253) 638-7275,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+898,Safeway,grocery,Kent,,(253) 852-4454,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+899,Safeway,grocery,Kent,,(253) 852-4454,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+900,Safeway,grocery,Lacey,,(360) 438-0203,,WA,Thurston County,50.0,31.0,173.0,0.0,0.0,0.0,Thurston County
+901,Safeway,grocery,Lacey,,(360) 438-0203,,WA,Thurston County,50.0,53.0,67.0,0.0,0.0,0.0,Thurston County
+902,Safeway,grocery,Lacey,,(360) 486-3400,,WA,Thurston County,50.0,31.0,173.0,0.0,0.0,0.0,Thurston County
+903,Safeway,grocery,Lacey,,(360) 486-3400,,WA,Thurston County,50.0,53.0,67.0,0.0,0.0,0.0,Thurston County
+904,Safeway,grocery,Lake Stevens,Frontier Village,(425) 249-4000,,WA,Snohomish County,50.0,53.0,61.0,0.0,0.0,0.0,Snohomish County
+905,Safeway,grocery,Longview,,(360) 575-6240,,WA,Cowlitz County,50.0,53.0,15.0,0.0,0.0,0.0,Cowlitz County
+906,Safeway,grocery,Lynnwood,James Village Shopping Center,(425) 670-9803,,WA,Snohomish County,50.0,53.0,61.0,0.0,0.0,0.0,Snohomish County
+907,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,5.0,53.0,0.0,0.0,0.0,Grant County
+908,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,18.0,53.0,0.0,0.0,0.0,Grant County
+909,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,20.0,67.0,0.0,0.0,0.0,Grant County
+910,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,21.0,81.0,0.0,0.0,0.0,Grant County
+911,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,27.0,51.0,0.0,0.0,0.0,Grant County
+912,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,31.0,75.0,0.0,0.0,0.0,Grant County
+913,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,35.0,17.0,0.0,0.0,0.0,Grant County
+914,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,38.0,37.0,0.0,0.0,0.0,Grant County
+915,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,40.0,53.0,0.0,0.0,0.0,Grant County
+916,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,41.0,23.0,0.0,0.0,0.0,Grant County
+917,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,46.0,51.0,0.0,0.0,0.0,Grant County
+918,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,53.0,25.0,0.0,0.0,0.0,Grant County
+919,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,54.0,23.0,0.0,0.0,0.0,Grant County
+920,Safeway,grocery,Moses Lake,,(509) 765-3961,,WA,Grant County,50.0,55.0,43.0,0.0,0.0,0.0,Grant County
+921,Safeway,grocery,Newcastle,,(425) 641-0902,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+922,Safeway,grocery,Newcastle,,(425) 641-0902,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+923,Safeway,grocery,Port Angeles,,(360) 457-0788,,WA,Clallam County,50.0,53.0,9.0,0.0,0.0,0.0,Clallam County
+924,Safeway,grocery,Poulsbo,,(360) 394-0023,,WA,Kitsap County,50.0,53.0,35.0,0.0,0.0,0.0,Kitsap County
+925,Safeway,grocery,Pullman,,(509) 334-0803,,WA,Whitman County,50.0,53.0,75.0,0.0,0.0,0.0,Whitman County
+926,Safeway,grocery,Puyallup,,(253) 414-1737,,WA,Pierce County,50.0,13.0,229.0,0.0,0.0,0.0,Pierce County
+927,Safeway,grocery,Puyallup,,(253) 414-1737,,WA,Pierce County,50.0,31.0,139.0,0.0,0.0,0.0,Pierce County
+928,Safeway,grocery,Puyallup,,(253) 414-1737,,WA,Pierce County,50.0,38.0,69.0,0.0,0.0,0.0,Pierce County
+929,Safeway,grocery,Puyallup,,(253) 414-1737,,WA,Pierce County,50.0,53.0,53.0,0.0,0.0,0.0,Pierce County
+930,Safeway,grocery,Puyallup,,(253) 414-1737,,WA,Pierce County,50.0,55.0,93.0,0.0,0.0,0.0,Pierce County
+931,Safeway,grocery,Puyallup,,(253) 536-4792,,WA,Pierce County,50.0,13.0,229.0,0.0,0.0,0.0,Pierce County
+932,Safeway,grocery,Puyallup,,(253) 536-4792,,WA,Pierce County,50.0,31.0,139.0,0.0,0.0,0.0,Pierce County
+933,Safeway,grocery,Puyallup,,(253) 536-4792,,WA,Pierce County,50.0,38.0,69.0,0.0,0.0,0.0,Pierce County
+934,Safeway,grocery,Puyallup,,(253) 536-4792,,WA,Pierce County,50.0,53.0,53.0,0.0,0.0,0.0,Pierce County
+935,Safeway,grocery,Puyallup,,(253) 536-4792,,WA,Pierce County,50.0,55.0,93.0,0.0,0.0,0.0,Pierce County
+936,Safeway,grocery,Renton,Fairwood Shopping Center,(425) 228-1740,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+937,Safeway,grocery,Renton,Fairwood Shopping Center,(425) 228-1740,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+938,Safeway,grocery,Richland,,(509) 946-9605,,WA,Benton County,50.0,5.0,7.0,0.0,0.0,0.0,Benton County
+939,Safeway,grocery,Richland,,(509) 946-9605,,WA,Benton County,50.0,18.0,7.0,0.0,0.0,0.0,Benton County
+940,Safeway,grocery,Richland,,(509) 946-9605,,WA,Benton County,50.0,19.0,11.0,0.0,0.0,0.0,Benton County
+941,Safeway,grocery,Richland,,(509) 946-9605,,WA,Benton County,50.0,27.0,9.0,0.0,0.0,0.0,Benton County
+942,Safeway,grocery,Richland,,(509) 946-9605,,WA,Benton County,50.0,28.0,9.0,0.0,0.0,0.0,Benton County
+943,Safeway,grocery,Richland,,(509) 946-9605,,WA,Benton County,50.0,29.0,15.0,0.0,0.0,0.0,Benton County
+944,Safeway,grocery,Richland,,(509) 946-9605,,WA,Benton County,50.0,41.0,3.0,0.0,0.0,0.0,Benton County
+945,Safeway,grocery,Richland,,(509) 946-9605,,WA,Benton County,50.0,47.0,5.0,0.0,0.0,0.0,Benton County
+946,Safeway,grocery,Richland,,(509) 946-9605,,WA,Benton County,50.0,53.0,5.0,0.0,0.0,0.0,Benton County
+947,Safeway,grocery,Sammamish,Sammamish Highlands,(425) 868-4000,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+948,Safeway,grocery,Sammamish,Sammamish Highlands,(425) 868-4000,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+949,Safeway,grocery,Seattle,,(206) 494-1685,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+950,Safeway,grocery,Seattle,,(206) 494-1685,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+951,Safeway,grocery,Seattle,,(206) 937-2272,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+952,Safeway,grocery,Seattle,,(206) 937-2272,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+953,Safeway,grocery,Seattle,,(206) 935-3996,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+954,Safeway,grocery,Seattle,,(206) 935-3996,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+955,Safeway,grocery,Seattle,,(206) 323-4988,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+956,Safeway,grocery,Seattle,,(206) 323-4988,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+957,Safeway,grocery,Seattle,,(206) 494-1518,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+958,Safeway,grocery,Seattle,,(206) 494-1518,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+959,Safeway,grocery,Seattle,,(206) 784-6480,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+960,Safeway,grocery,Seattle,,(206) 784-6480,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+961,Safeway,grocery,Seattle,Rainier Square Plaza,(206) 725-9575,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+962,Safeway,grocery,Seattle,Rainier Square Plaza,(206) 725-9575,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+963,Safeway,grocery,Seattle,Jefferson Square,(206) 932-6026,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+964,Safeway,grocery,Seattle,Jefferson Square,(206) 932-6026,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+965,Safeway,grocery,Seattle,,(206) 524-7064,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+966,Safeway,grocery,Seattle,,(206) 524-7064,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+967,Safeway,grocery,Seattle,,(206) 494-1120,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+968,Safeway,grocery,Seattle,,(206) 494-1120,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+969,Safeway,grocery,Shoreline,,(206) 364-0453,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+970,Safeway,grocery,Shoreline,,(206) 364-0453,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+971,Safeway,grocery,Spokane,,(509) 921-9859,,WA,Spokane County,50.0,53.0,63.0,0.0,0.0,0.0,Spokane County
+972,Safeway,grocery,Tacoma,,(253) 471-1630,,WA,Pierce County,50.0,13.0,229.0,0.0,0.0,0.0,Pierce County
+973,Safeway,grocery,Tacoma,,(253) 471-1630,,WA,Pierce County,50.0,31.0,139.0,0.0,0.0,0.0,Pierce County
+974,Safeway,grocery,Tacoma,,(253) 471-1630,,WA,Pierce County,50.0,38.0,69.0,0.0,0.0,0.0,Pierce County
+975,Safeway,grocery,Tacoma,,(253) 471-1630,,WA,Pierce County,50.0,53.0,53.0,0.0,0.0,0.0,Pierce County
+976,Safeway,grocery,Tacoma,,(253) 471-1630,,WA,Pierce County,50.0,55.0,93.0,0.0,0.0,0.0,Pierce County
+977,Safeway,grocery,Tacoma,,(253) 537-2124,,WA,Pierce County,50.0,13.0,229.0,0.0,0.0,0.0,Pierce County
+978,Safeway,grocery,Tacoma,,(253) 537-2124,,WA,Pierce County,50.0,31.0,139.0,0.0,0.0,0.0,Pierce County
+979,Safeway,grocery,Tacoma,,(253) 537-2124,,WA,Pierce County,50.0,38.0,69.0,0.0,0.0,0.0,Pierce County
+980,Safeway,grocery,Tacoma,,(253) 537-2124,,WA,Pierce County,50.0,53.0,53.0,0.0,0.0,0.0,Pierce County
+981,Safeway,grocery,Tacoma,,(253) 537-2124,,WA,Pierce County,50.0,55.0,93.0,0.0,0.0,0.0,Pierce County
+982,Safeway,grocery,Tacoma,Green Firs Towne Center,(253) 565-6215,,WA,Pierce County,50.0,13.0,229.0,0.0,0.0,0.0,Pierce County
+983,Safeway,grocery,Tacoma,Green Firs Towne Center,(253) 565-6215,,WA,Pierce County,50.0,31.0,139.0,0.0,0.0,0.0,Pierce County
+984,Safeway,grocery,Tacoma,Green Firs Towne Center,(253) 565-6215,,WA,Pierce County,50.0,38.0,69.0,0.0,0.0,0.0,Pierce County
+985,Safeway,grocery,Tacoma,Green Firs Towne Center,(253) 565-6215,,WA,Pierce County,50.0,53.0,53.0,0.0,0.0,0.0,Pierce County
+986,Safeway,grocery,Tacoma,Green Firs Towne Center,(253) 565-6215,,WA,Pierce County,50.0,55.0,93.0,0.0,0.0,0.0,Pierce County
+987,Safeway,grocery,Tacoma,Westgate North Shopping Center,(253) 759-9251,,WA,Pierce County,50.0,13.0,229.0,0.0,0.0,0.0,Pierce County
+988,Safeway,grocery,Tacoma,Westgate North Shopping Center,(253) 759-9251,,WA,Pierce County,50.0,31.0,139.0,0.0,0.0,0.0,Pierce County
+989,Safeway,grocery,Tacoma,Westgate North Shopping Center,(253) 759-9251,,WA,Pierce County,50.0,38.0,69.0,0.0,0.0,0.0,Pierce County
+990,Safeway,grocery,Tacoma,Westgate North Shopping Center,(253) 759-9251,,WA,Pierce County,50.0,53.0,53.0,0.0,0.0,0.0,Pierce County
+991,Safeway,grocery,Tacoma,Westgate North Shopping Center,(253) 759-9251,,WA,Pierce County,50.0,55.0,93.0,0.0,0.0,0.0,Pierce County
+992,Safeway,grocery,Wenatchee,,(509) 663-5336,,WA,Chelan County,50.0,53.0,7.0,0.0,0.0,0.0,Chelan County
+993,Safeway,grocery,Yelm,,(360) 458-8830,,WA,Thurston County,50.0,31.0,173.0,0.0,0.0,0.0,Thurston County
+994,Safeway,grocery,Yelm,,(360) 458-8830,,WA,Thurston County,50.0,53.0,67.0,0.0,0.0,0.0,Thurston County

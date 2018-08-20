@@ -1,0 +1,170 @@
+,County,State,Category,Business Name,City,County Code (FIPS),County Subdivision Code (FIPS),Place Code (FIPS),Latitude,Longitude
+0,Alameda County,CA,grocery,35,35,35,35,35,37.76521,-122.24164
+1,Alameda County,CA,grocery,35,35,35,35,35,37.76521,-122.24164
+2,Alameda County,CA,hospital,21,20,21,21,21,37.76521,-122.24164
+3,Alameda County,CA,hospital,21,20,21,21,21,37.76521,-122.24164
+4,Alpine County,CA,hospital,1,0,1,1,1,38.59725,-119.82065
+5,Amador County,CA,grocery,1,1,1,1,1,38.35269,-120.93272
+6,Amador County,CA,grocery,1,1,1,1,1,38.35269,-120.93272
+7,Amador County,CA,hospital,1,1,1,1,1,38.35269,-120.93272
+8,Amador County,CA,hospital,1,1,1,1,1,38.35269,-120.93272
+9,Butte County,CA,grocery,3,3,3,3,3,39.72849,-121.83748
+10,Butte County,CA,grocery,3,3,3,3,3,39.72849,-121.83748
+11,Butte County,CA,hospital,15,0,15,15,15,39.72849,-121.83748
+12,Butte County,CA,hospital,15,0,15,15,15,39.72849,-121.83748
+13,Calaveras County,CA,hospital,1,0,1,1,1,38.20461,-120.55413
+14,Colusa County,CA,hospital,1,0,1,1,1,39.17757,-122.23703
+15,Contra Costa County,CA,grocery,35,35,35,35,35,37.93576,-122.34775
+16,Contra Costa County,CA,grocery,35,35,35,35,35,37.93576,-122.34775
+17,Contra Costa County,CA,hospital,13,10,13,13,13,37.93576,-122.34775
+18,Contra Costa County,CA,hospital,13,10,13,13,13,37.93576,-122.34775
+19,Del Norte County,CA,hospital,1,0,1,1,1,41.74496,-123.95781
+20,El Dorado County,CA,grocery,2,2,2,2,2,38.93324,-119.98435
+21,El Dorado County,CA,grocery,2,2,2,2,2,38.93324,-119.98435
+22,El Dorado County,CA,hospital,2,0,2,2,2,38.93324,-119.98435
+23,El Dorado County,CA,hospital,2,0,2,2,2,38.93324,-119.98435
+24,Fresno County,CA,grocery,3,3,3,3,3,36.74773,-119.77237
+25,Fresno County,CA,grocery,3,3,3,3,3,36.74773,-119.77237
+26,Fresno County,CA,hospital,13,12,13,13,13,36.74773,-119.77237
+27,Fresno County,CA,hospital,13,12,13,13,13,36.74773,-119.77237
+28,Glenn County,CA,hospital,1,0,1,1,1,39.52061,-122.21755
+29,Humboldt County,CA,hospital,12,12,12,12,12,40.80207,-124.16367
+30,Imperial County,CA,hospital,3,0,3,3,3,32.67895,-115.49888
+31,Inyo County,CA,hospital,2,0,2,2,2,36.51113,-117.41079
+32,Kern County,CA,grocery,1,1,1,1,1,35.37329,-119.01871
+33,Kern County,CA,grocery,1,1,1,1,1,35.37329,-119.01871
+34,Kern County,CA,hospital,9,8,9,9,9,35.37329,-119.01871
+35,Kern County,CA,hospital,9,8,9,9,9,35.37329,-119.01871
+36,Kings County,CA,hospital,8,2,8,8,8,36.32745,-119.64568
+37,Lake County,CA,grocery,12,12,12,12,12,38.95823,-122.62637
+38,Lake County,CA,grocery,12,12,12,12,12,38.95823,-122.62637
+39,Lake County,CA,hospital,24,0,24,24,24,38.95823,-122.62637
+40,Lake County,CA,hospital,24,0,24,24,24,38.95823,-122.62637
+41,Lassen County,CA,hospital,1,1,1,1,1,40.67359,-120.59433
+42,Los Angeles County,CA,grocery,33,33,33,33,33,34.05223,-118.24368
+43,Los Angeles County,CA,grocery,33,33,33,33,33,34.05223,-118.24368
+44,Los Angeles County,CA,hospital,152,126,152,152,152,34.05223,-118.24368
+45,Los Angeles County,CA,hospital,152,126,152,152,152,34.05223,-118.24368
+46,Los Angeles County***,CA,hospital,1,0,0,0,0,,
+47,Madera County,CA,hospital,2,2,2,2,2,36.96134,-120.06072
+48,Marin County,CA,grocery,7,7,7,7,7,38.10742,-122.5697
+49,Marin County,CA,grocery,7,7,7,7,7,38.10742,-122.5697
+50,Marin County,CA,hospital,4,2,4,4,4,38.10742,-122.5697
+51,Marin County,CA,hospital,4,2,4,4,4,38.10742,-122.5697
+52,Mariposa County,CA,hospital,1,0,1,1,1,36.57855,-118.29342
+53,Mendocino County,CA,grocery,2,2,2,2,2,39.43362,-123.43155
+54,Mendocino County,CA,grocery,2,2,2,2,2,39.43362,-123.43155
+55,Mendocino County,CA,hospital,4,3,4,4,4,39.43362,-123.43155
+56,Mendocino County,CA,hospital,4,3,4,4,4,39.43362,-123.43155
+57,Merced County,CA,hospital,3,0,3,3,3,37.30216,-120.48297
+58,Modoc County,CA,hospital,2,0,2,2,2,41.58985,-120.72497
+59,Mono County,CA,grocery,1,1,1,1,1,38.0076,-119.01476
+60,Mono County,CA,grocery,1,1,1,1,1,38.0076,-119.01476
+61,Mono County,CA,hospital,1,0,1,1,1,38.0076,-119.01476
+62,Mono County,CA,hospital,1,0,1,1,1,38.0076,-119.01476
+63,Monterey County,CA,grocery,8,8,8,8,8,36.60024,-121.89468
+64,Monterey County,CA,grocery,8,8,8,8,8,36.60024,-121.89468
+65,Monterey County,CA,hospital,5,5,5,5,5,36.60024,-121.89468
+66,Monterey County,CA,hospital,5,5,5,5,5,36.60024,-121.89468
+67,Napa County,CA,grocery,5,5,5,5,5,38.29714,-122.28553
+68,Napa County,CA,grocery,5,5,5,5,5,38.29714,-122.28553
+69,Napa County,CA,hospital,4,4,4,4,4,38.29714,-122.28553
+70,Napa County,CA,hospital,4,4,4,4,4,38.29714,-122.28553
+71,Nevada County,CA,grocery,2,2,2,2,2,36.57855,-118.29342
+72,Nevada County,CA,grocery,2,2,2,2,2,36.57855,-118.29342
+73,Nevada County,CA,hospital,4,4,4,4,4,36.57855,-118.29342
+74,Nevada County,CA,hospital,4,4,4,4,4,36.57855,-118.29342
+75,Orange County,CA,grocery,80,80,80,80,80,33.78779,-117.85311
+76,Orange County,CA,grocery,80,80,80,80,80,33.78779,-117.85311
+77,Orange County,CA,hospital,360,304,360,360,360,33.78779,-117.85311
+78,Orange County,CA,hospital,360,304,360,360,360,33.78779,-117.85311
+79,Placer County,CA,grocery,6,6,6,6,6,38.75212,-121.28801
+80,Placer County,CA,grocery,6,6,6,6,6,38.75212,-121.28801
+81,Placer County,CA,hospital,3,1,3,3,3,38.75212,-121.28801
+82,Placer County,CA,hospital,3,1,3,3,3,38.75212,-121.28801
+83,Plumas County,CA,grocery,1,1,1,1,1,40.00468,-120.8386
+84,Plumas County,CA,grocery,1,1,1,1,1,40.00468,-120.8386
+85,Plumas County,CA,hospital,4,0,4,4,4,40.00468,-120.8386
+86,Plumas County,CA,hospital,4,0,4,4,4,40.00468,-120.8386
+87,Riverside County,CA,grocery,2,2,2,2,2,33.95335,-117.39616
+88,Riverside County,CA,grocery,2,2,2,2,2,33.95335,-117.39616
+89,Riverside County,CA,hospital,22,20,22,22,22,33.95335,-117.39616
+90,Riverside County,CA,hospital,22,20,22,22,22,33.95335,-117.39616
+91,Sacramento County,CA,grocery,10,10,10,10,10,38.58157,-121.4944
+92,Sacramento County,CA,grocery,10,10,10,10,10,38.58157,-121.4944
+93,Sacramento County,CA,hospital,12,4,12,12,12,38.58157,-121.4944
+94,Sacramento County,CA,hospital,12,4,12,12,12,38.58157,-121.4944
+95,San Benito County,CA,hospital,1,0,1,1,1,36.85245,-121.4016
+96,San Bernardino County,CA,grocery,2,2,2,2,2,34.10834,-117.28977
+97,San Bernardino County,CA,grocery,2,2,2,2,2,34.10834,-117.28977
+98,San Bernardino County,CA,hospital,22,17,22,22,22,34.10834,-117.28977
+99,San Bernardino County,CA,hospital,22,17,22,22,22,34.10834,-117.28977
+100,San Diego County,CA,grocery,6,6,6,6,6,32.71571,-117.16472
+101,San Diego County,CA,grocery,6,6,6,6,6,32.71571,-117.16472
+102,San Diego County,CA,hospital,36,32,36,36,36,32.71571,-117.16472
+103,San Diego County,CA,hospital,36,32,36,36,36,32.71571,-117.16472
+104,San Francisco County,CA,grocery,16,16,16,16,16,37.77493,-122.41942
+105,San Francisco County,CA,grocery,16,16,16,16,16,37.77493,-122.41942
+106,San Francisco County,CA,hospital,14,0,14,14,14,37.77493,-122.41942
+107,San Francisco County,CA,hospital,14,0,14,14,14,37.77493,-122.41942
+108,San Joaquin County,CA,grocery,21,21,21,21,21,37.9577,-121.29078
+109,San Joaquin County,CA,grocery,21,21,21,21,21,37.9577,-121.29078
+110,San Joaquin County,CA,hospital,6,6,6,6,6,37.9577,-121.29078
+111,San Joaquin County,CA,hospital,6,6,6,6,6,37.9577,-121.29078
+112,San Luis Obispo County,CA,grocery,2,2,2,2,2,35.28275,-120.65962
+113,San Luis Obispo County,CA,grocery,2,2,2,2,2,35.28275,-120.65962
+114,San Luis Obispo County,CA,hospital,6,4,6,6,6,35.28275,-120.65962
+115,San Luis Obispo County,CA,hospital,6,4,6,6,6,35.28275,-120.65962
+116,San Mateo County,CA,grocery,10,10,10,10,10,37.56299,-122.32553
+117,San Mateo County,CA,grocery,10,10,10,10,10,37.56299,-122.32553
+118,San Mateo County,CA,hospital,9,9,9,9,9,37.56299,-122.32553
+119,San Mateo County,CA,hospital,9,9,9,9,9,37.56299,-122.32553
+120,Santa Barbara County,CA,grocery,2,2,2,2,2,34.42083,-119.69819
+121,Santa Barbara County,CA,grocery,2,2,2,2,2,34.42083,-119.69819
+122,Santa Barbara County,CA,hospital,7,7,7,7,7,34.42083,-119.69819
+123,Santa Barbara County,CA,hospital,7,7,7,7,7,34.42083,-119.69819
+124,Santa Clara County,CA,grocery,25,25,25,25,25,37.35411,-121.95524
+125,Santa Clara County,CA,grocery,25,25,25,25,25,37.35411,-121.95524
+126,Santa Clara County,CA,hospital,13,13,13,13,13,37.35411,-121.95524
+127,Santa Clara County,CA,hospital,13,13,13,13,13,37.35411,-121.95524
+128,Santa Cruz County,CA,grocery,12,12,12,12,12,36.97412,-122.0308
+129,Santa Cruz County,CA,grocery,12,12,12,12,12,36.97412,-122.0308
+130,Santa Cruz County,CA,hospital,6,6,6,6,6,36.97412,-122.0308
+131,Santa Cruz County,CA,hospital,6,6,6,6,6,36.97412,-122.0308
+132,Shasta County,CA,grocery,1,1,1,1,1,40.58654,-122.39168
+133,Shasta County,CA,grocery,1,1,1,1,1,40.58654,-122.39168
+134,Shasta County,CA,hospital,3,3,3,3,3,40.58654,-122.39168
+135,Shasta County,CA,hospital,3,3,3,3,3,40.58654,-122.39168
+136,Siskiyou County,CA,hospital,1,1,1,1,1,41.59265,-122.54037
+137,Solano County,CA,grocery,5,5,5,5,5,38.10409,-122.25664
+138,Solano County,CA,grocery,5,5,5,5,5,38.10409,-122.25664
+139,Solano County,CA,hospital,7,7,7,7,7,38.10409,-122.25664
+140,Solano County,CA,hospital,7,7,7,7,7,38.10409,-122.25664
+141,Sonoma County,CA,grocery,9,9,9,9,9,38.23242,-122.63665
+142,Sonoma County,CA,grocery,9,9,9,9,9,38.23242,-122.63665
+143,Sonoma County,CA,hospital,8,8,8,8,8,38.23242,-122.63665
+144,Sonoma County,CA,hospital,8,8,8,8,8,38.23242,-122.63665
+145,Stanislaus County,CA,grocery,2,2,2,2,2,37.6391,-120.99688
+146,Stanislaus County,CA,grocery,2,2,2,2,2,37.6391,-120.99688
+147,Stanislaus County,CA,hospital,5,5,5,5,5,37.6391,-120.99688
+148,Stanislaus County,CA,hospital,5,5,5,5,5,37.6391,-120.99688
+149,Sutter County,CA,hospital,1,1,1,1,1,39.14045,-121.61691
+150,Tehama County,CA,grocery,1,1,1,1,1,40.12574,-122.23388
+151,Tehama County,CA,grocery,1,1,1,1,1,40.12574,-122.23388
+152,Tehama County,CA,hospital,1,1,1,1,1,40.12574,-122.23388
+153,Tehama County,CA,hospital,1,1,1,1,1,40.12574,-122.23388
+154,Trinity County,CA,hospital,2,2,2,2,2,40.65069,-123.11263
+155,Tulare County,CA,hospital,4,4,4,4,4,36.33023,-119.29206
+156,Tuolumne County,CA,grocery,1,1,1,1,1,38.0276,-119.95475
+157,Tuolumne County,CA,grocery,1,1,1,1,1,38.0276,-119.95475
+158,Tuolumne County,CA,hospital,1,1,1,1,1,38.0276,-119.95475
+159,Tuolumne County,CA,hospital,1,1,1,1,1,38.0276,-119.95475
+160,Ventura County,CA,grocery,2,2,2,2,2,34.27834,-119.29317
+161,Ventura County,CA,grocery,2,2,2,2,2,34.27834,-119.29317
+162,Ventura County,CA,hospital,8,8,8,8,8,34.27834,-119.29317
+163,Ventura County,CA,hospital,8,8,8,8,8,34.27834,-119.29317
+164,Yolo County,CA,grocery,3,3,3,3,3,38.58046,-121.53023
+165,Yolo County,CA,grocery,3,3,3,3,3,38.58046,-121.53023
+166,Yolo County,CA,hospital,1,1,1,1,1,38.58046,-121.53023
+167,Yolo County,CA,hospital,1,1,1,1,1,38.58046,-121.53023
+168,Yuba County,CA,hospital,1,1,1,1,1,39.14573,-121.59135

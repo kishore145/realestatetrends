@@ -1,0 +1,435 @@
+,Business Name,Category,City,Others,Phone,Ratings,State,County,Summary Level,State Code (FIPS),County Code (FIPS),County Subdivision Code (FIPS),Place Code (FIPS),Consolidtated City Code (FIPS),Area Name (including legal/statistical area description)
+0,Whole Foods Market,grocery,Berkeley,,(510) 649-1333,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+1,Whole Foods Market,grocery,Beverly Hills,,(310) 274-3360,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+2,Whole Foods Market,grocery,Campbell,,(408) 371-5000,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+3,Whole Foods Market 365,grocery,Concord,The Veranda,(925) 695-3180,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+4,Whole Foods Market,grocery,Cupertino,,(408) 257-7000,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+5,Whole Foods Market,grocery,Dublin,Persimmon Place,(925) 452-2226,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+6,Whole Foods Market,grocery,Fremont,,(510) 401-5880,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+7,Whole Foods Market,grocery,Fresno,Fig Garden Village Shopping Center,(559) 241-0300,,CA,Fresno County,50.0,6.0,19.0,0.0,0.0,0.0,Fresno County
+8,Whole Foods Market,grocery,Glendale,,(818) 548-3695,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+9,Whole Foods Market,grocery,Huntington Beach,Bella Terra,(657) 200-4200,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+10,Whole Foods Market,grocery,Huntington Beach,Bella Terra,(657) 200-4200,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+11,Whole Foods Market,grocery,Huntington Beach,Bella Terra,(657) 200-4200,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+12,Whole Foods Market,grocery,Huntington Beach,Bella Terra,(657) 200-4200,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+13,Whole Foods Market,grocery,Huntington Beach,Bella Terra,(657) 200-4200,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+14,Whole Foods Market,grocery,Huntington Beach,Bella Terra,(657) 200-4200,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+15,Whole Foods Market,grocery,Huntington Beach,Bella Terra,(657) 200-4200,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+16,Whole Foods Market,grocery,Huntington Beach,Bella Terra,(657) 200-4200,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+17,Whole Foods Market,grocery,Irvine,Los Olivos Marketplace | Irvine Spectrum,(949) 777-8500,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+18,Whole Foods Market,grocery,Irvine,Los Olivos Marketplace | Irvine Spectrum,(949) 777-8500,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+19,Whole Foods Market,grocery,Irvine,Los Olivos Marketplace | Irvine Spectrum,(949) 777-8500,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+20,Whole Foods Market,grocery,Irvine,Los Olivos Marketplace | Irvine Spectrum,(949) 777-8500,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+21,Whole Foods Market,grocery,Irvine,Los Olivos Marketplace | Irvine Spectrum,(949) 777-8500,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+22,Whole Foods Market,grocery,Irvine,Los Olivos Marketplace | Irvine Spectrum,(949) 777-8500,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+23,Whole Foods Market,grocery,Irvine,Los Olivos Marketplace | Irvine Spectrum,(949) 777-8500,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+24,Whole Foods Market,grocery,Irvine,Los Olivos Marketplace | Irvine Spectrum,(949) 777-8500,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+25,Whole Foods Market,grocery,Laguna Niguel,Aliso Village Shopping Center,(949) 900-5830,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+26,Whole Foods Market,grocery,Laguna Niguel,Aliso Village Shopping Center,(949) 900-5830,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+27,Whole Foods Market,grocery,Laguna Niguel,Aliso Village Shopping Center,(949) 900-5830,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+28,Whole Foods Market,grocery,Laguna Niguel,Aliso Village Shopping Center,(949) 900-5830,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+29,Whole Foods Market,grocery,Laguna Niguel,Aliso Village Shopping Center,(949) 900-5830,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+30,Whole Foods Market,grocery,Laguna Niguel,Aliso Village Shopping Center,(949) 900-5830,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+31,Whole Foods Market,grocery,Laguna Niguel,Aliso Village Shopping Center,(949) 900-5830,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+32,Whole Foods Market,grocery,Laguna Niguel,Aliso Village Shopping Center,(949) 900-5830,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+33,Whole Foods Market,grocery,Los Angeles,,(310) 826-4433,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+34,Whole Foods Market,grocery,Los Angeles,,(213) 873-4745,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+35,Whole Foods Market,grocery,Los Angeles,,(310) 824-0858,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+36,Whole Foods Market 365,grocery,Los Angeles,,(323) 378-3891,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+37,Whole Foods Market,grocery,Los Angeles,Town and Country Shopping Center,(323) 964-6800,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+38,Whole Foods Market,grocery,Los Gatos,,(408) 358-4434,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+39,Taquería at Whole Foods Market,grocery,Mammoth Lakes,"Amaranth Enjoy Centre,St. Albert, AB, Canada,+1 780-651-7367,Sierra Sundance Whole Foods",(760) 934-8122,,CA,Mono County,50.0,6.0,51.0,0.0,0.0,0.0,Mono County
+40,Whole Foods Market,grocery,Napa,Bel Air Plaza,(707) 224-6300,,CA,Napa County,50.0,6.0,55.0,0.0,0.0,0.0,Napa County
+41,Whole Foods Market,grocery,Newport Beach,Fashion Island,(949) 999-8572,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+42,Whole Foods Market,grocery,Newport Beach,Fashion Island,(949) 999-8572,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+43,Whole Foods Market,grocery,Newport Beach,Fashion Island,(949) 999-8572,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+44,Whole Foods Market,grocery,Newport Beach,Fashion Island,(949) 999-8572,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+45,Whole Foods Market,grocery,Newport Beach,Fashion Island,(949) 999-8572,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+46,Whole Foods Market,grocery,Newport Beach,Fashion Island,(949) 999-8572,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+47,Whole Foods Market,grocery,Newport Beach,Fashion Island,(949) 999-8572,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+48,Whole Foods Market,grocery,Newport Beach,Fashion Island,(949) 999-8572,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+49,Whole Foods Market,grocery,Oakland,,(510) 834-9800,,CA,Alameda County,50.0,6.0,1.0,0.0,0.0,0.0,Alameda County
+50,Whole Foods Market,grocery,Oxnard,The Collection Riverpark,(805) 751-4300,,CA,Ventura County,50.0,6.0,111.0,0.0,0.0,0.0,Ventura County
+51,Whole Foods Market,grocery,Pasadena,,(626) 204-2266,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+52,Whole Foods Market,grocery,Sacramento,Arden Plaza Shopping Center,(916) 488-2800,,CA,Sacramento County,50.0,6.0,67.0,0.0,0.0,0.0,Sacramento County
+53,Whole Foods Market,grocery,San Diego,,(619) 294-2800,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+54,Whole Foods Market,grocery,San Diego,Flower Hill Promenade,(858) 436-9800,,CA,San Diego County,50.0,6.0,73.0,0.0,0.0,0.0,San Diego County
+55,Whole Foods Market,grocery,San Francisco,,(415) 618-0066,,CA,San Francisco County,50.0,6.0,75.0,0.0,0.0,0.0,San Francisco County
+56,Whole Foods Market,grocery,San Jose,,(408) 207-1126,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+57,Whole Foods Market,grocery,San Jose,,(408) 266-3700,,CA,Santa Clara County,50.0,6.0,85.0,0.0,0.0,0.0,Santa Clara County
+58,Whole Foods Market,grocery,San Luis Obispo,,(805) 785-0194,,CA,San Luis Obispo County,50.0,6.0,79.0,0.0,0.0,0.0,San Luis Obispo County
+59,Whole Foods Market,grocery,San Mateo,,(650) 358-6900,,CA,San Mateo County,50.0,6.0,81.0,0.0,0.0,0.0,San Mateo County
+60,Whole Foods Market,grocery,San Rafael,,(415) 451-6333,,CA,Marin County,50.0,6.0,41.0,0.0,0.0,0.0,Marin County
+61,Whole Foods Market,grocery,San Ramon,Shops At Bishop Ranch,(925) 355-9000,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+62,Whole Foods Market,grocery,Santa Barbara,,(805) 837-6959,,CA,Santa Barbara County,50.0,6.0,83.0,0.0,0.0,0.0,Santa Barbara County
+63,Whole Foods Market,grocery,Santa Clarita,Valencia Crossroads,(661) 260-2377,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+64,Whole Foods Market,grocery,Santa Monica,,(310) 315-0662,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+65,Whole Foods Market,grocery,Sherman Oaks,,(818) 382-3700,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+66,Whole Foods Market,grocery,Sonoma,Sonoma Marketplace Shopping Center,(707) 938-8500,,CA,Sonoma County,50.0,6.0,97.0,0.0,0.0,0.0,Sonoma County
+67,Whole Foods Market,grocery,Tustin,The District at Tustin Legacy,(714) 566-7650,,CA,Orange County,50.0,6.0,59.0,0.0,0.0,0.0,Orange County
+68,Whole Foods Market,grocery,Tustin,The District at Tustin Legacy,(714) 566-7650,,CA,Orange County,50.0,12.0,95.0,0.0,0.0,0.0,Orange County
+69,Whole Foods Market,grocery,Tustin,The District at Tustin Legacy,(714) 566-7650,,CA,Orange County,50.0,18.0,117.0,0.0,0.0,0.0,Orange County
+70,Whole Foods Market,grocery,Tustin,The District at Tustin Legacy,(714) 566-7650,,CA,Orange County,50.0,36.0,71.0,0.0,0.0,0.0,Orange County
+71,Whole Foods Market,grocery,Tustin,The District at Tustin Legacy,(714) 566-7650,,CA,Orange County,50.0,37.0,135.0,0.0,0.0,0.0,Orange County
+72,Whole Foods Market,grocery,Tustin,The District at Tustin Legacy,(714) 566-7650,,CA,Orange County,50.0,48.0,361.0,0.0,0.0,0.0,Orange County
+73,Whole Foods Market,grocery,Tustin,The District at Tustin Legacy,(714) 566-7650,,CA,Orange County,50.0,50.0,17.0,0.0,0.0,0.0,Orange County
+74,Whole Foods Market,grocery,Tustin,The District at Tustin Legacy,(714) 566-7650,,CA,Orange County,50.0,51.0,137.0,0.0,0.0,0.0,Orange County
+75,Whole Foods Market,grocery,Walnut Creek,Encina Grande,(925) 269-9010,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+76,Whole Foods Market,grocery,Walnut Creek,,(925) 274-9700,,CA,Contra Costa County,50.0,6.0,13.0,0.0,0.0,0.0,Contra Costa County
+77,Whole Foods Market,grocery,West Hollywood,,(323) 848-4200,,CA,Los Angeles County,50.0,6.0,37.0,0.0,0.0,0.0,Los Angeles County
+78,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,8.0,35.0,0.0,0.0,0.0,Douglas County
+79,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,13.0,97.0,0.0,0.0,0.0,Douglas County
+80,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,17.0,41.0,0.0,0.0,0.0,Douglas County
+81,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,20.0,45.0,0.0,0.0,0.0,Douglas County
+82,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,27.0,41.0,0.0,0.0,0.0,Douglas County
+83,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,29.0,67.0,0.0,0.0,0.0,Douglas County
+84,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,31.0,55.0,0.0,0.0,0.0,Douglas County
+85,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,32.0,5.0,0.0,0.0,0.0,Douglas County
+86,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,41.0,19.0,0.0,0.0,0.0,Douglas County
+87,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,46.0,43.0,0.0,0.0,0.0,Douglas County
+88,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,53.0,17.0,0.0,0.0,0.0,Douglas County
+89,Whole Foods Market,grocery,Highlands Ranch,University Park Shopping Center,(303) 470-6003,,CO,Douglas County,50.0,55.0,31.0,0.0,0.0,0.0,Douglas County
+90,Whole Foods Market,grocery,Washington,,(202) 332-4300,,DC,District Of Columbia County,,,,,,,
+91,Whole Foods Market,grocery,Altamonte Springs,Renaissance Centre,(407) 767-2100,,FL,Seminole County,50.0,12.0,117.0,0.0,0.0,0.0,Seminole County
+92,Whole Foods Market,grocery,Altamonte Springs,Renaissance Centre,(407) 767-2100,,FL,Seminole County,50.0,13.0,253.0,0.0,0.0,0.0,Seminole County
+93,Whole Foods Market,grocery,Altamonte Springs,Renaissance Centre,(407) 767-2100,,FL,Seminole County,50.0,40.0,133.0,0.0,0.0,0.0,Seminole County
+94,Whole Foods Market,grocery,Aventura,Aventura Commons,(305) 682-4400,,FL,Miami-Dade County,50.0,12.0,86.0,0.0,0.0,0.0,Miami-Dade County
+95,Whole Foods Market,grocery,Clearwater,Westfield Countryside,(727) 724-7100,,FL,Pinellas County,50.0,12.0,103.0,0.0,0.0,0.0,Pinellas County
+96,Whole Foods Market,grocery,Coral Gables,,(305) 421-9421,,FL,Miami-Dade County,50.0,12.0,86.0,0.0,0.0,0.0,Miami-Dade County
+97,Whole Foods Market,grocery,Orlando,Phillips Crossing,(407) 355-7100,,FL,Brevard County,50.0,12.0,9.0,0.0,0.0,0.0,Brevard County
+98,Whole Foods Market,grocery,Atlanta,,(404) 634-7800,,GA,Dekalb County,,,,,,,
+99,Whole Foods Market,grocery,Duluth,Riverwalk Marketplace,(678) 514-2400,,GA,Gwinnett County,50.0,13.0,135.0,0.0,0.0,0.0,Gwinnett County
+100,Whole Foods Market,grocery,Boise,,(208) 287-4600,,ID,Ada County,50.0,16.0,1.0,0.0,0.0,0.0,Ada County
+101,Whole Foods Market,grocery,Chicago,,(312) 932-9600,,IL,Cook County,50.0,13.0,75.0,0.0,0.0,0.0,Cook County
+102,Whole Foods Market,grocery,Chicago,,(312) 932-9600,,IL,Cook County,50.0,17.0,31.0,0.0,0.0,0.0,Cook County
+103,Whole Foods Market,grocery,Chicago,,(312) 932-9600,,IL,Cook County,50.0,27.0,31.0,0.0,0.0,0.0,Cook County
+104,Whole Foods Market,grocery,Chicago,,(773) 244-4200,,IL,Cook County,50.0,13.0,75.0,0.0,0.0,0.0,Cook County
+105,Whole Foods Market,grocery,Chicago,,(773) 244-4200,,IL,Cook County,50.0,17.0,31.0,0.0,0.0,0.0,Cook County
+106,Whole Foods Market,grocery,Chicago,,(773) 244-4200,,IL,Cook County,50.0,27.0,31.0,0.0,0.0,0.0,Cook County
+107,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,1.0,73.0,0.0,0.0,0.0,Jefferson County
+108,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,5.0,69.0,0.0,0.0,0.0,Jefferson County
+109,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,8.0,59.0,0.0,0.0,0.0,Jefferson County
+110,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,12.0,65.0,0.0,0.0,0.0,Jefferson County
+111,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,13.0,163.0,0.0,0.0,0.0,Jefferson County
+112,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,16.0,51.0,0.0,0.0,0.0,Jefferson County
+113,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,17.0,81.0,0.0,0.0,0.0,Jefferson County
+114,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,18.0,77.0,0.0,0.0,0.0,Jefferson County
+115,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,19.0,101.0,0.0,0.0,0.0,Jefferson County
+116,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,20.0,87.0,0.0,0.0,0.0,Jefferson County
+117,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,21.0,111.0,0.0,0.0,0.0,Jefferson County
+118,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,28.0,63.0,0.0,0.0,0.0,Jefferson County
+119,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,29.0,99.0,0.0,0.0,0.0,Jefferson County
+120,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,30.0,43.0,0.0,0.0,0.0,Jefferson County
+121,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,31.0,95.0,0.0,0.0,0.0,Jefferson County
+122,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,36.0,45.0,0.0,0.0,0.0,Jefferson County
+123,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,39.0,81.0,0.0,0.0,0.0,Jefferson County
+124,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,40.0,67.0,0.0,0.0,0.0,Jefferson County
+125,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,41.0,31.0,0.0,0.0,0.0,Jefferson County
+126,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,42.0,65.0,0.0,0.0,0.0,Jefferson County
+127,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,47.0,89.0,0.0,0.0,0.0,Jefferson County
+128,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,48.0,245.0,0.0,0.0,0.0,Jefferson County
+129,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,53.0,31.0,0.0,0.0,0.0,Jefferson County
+130,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,54.0,37.0,0.0,0.0,0.0,Jefferson County
+131,Whole Foods Market,grocery,Metairie,,(504) 888-8225,,LA,Jefferson County,50.0,55.0,55.0,0.0,0.0,0.0,Jefferson County
+132,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,1.0,73.0,0.0,0.0,0.0,Jefferson County
+133,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,5.0,69.0,0.0,0.0,0.0,Jefferson County
+134,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,8.0,59.0,0.0,0.0,0.0,Jefferson County
+135,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,12.0,65.0,0.0,0.0,0.0,Jefferson County
+136,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,13.0,163.0,0.0,0.0,0.0,Jefferson County
+137,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,16.0,51.0,0.0,0.0,0.0,Jefferson County
+138,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,17.0,81.0,0.0,0.0,0.0,Jefferson County
+139,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,18.0,77.0,0.0,0.0,0.0,Jefferson County
+140,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,19.0,101.0,0.0,0.0,0.0,Jefferson County
+141,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,20.0,87.0,0.0,0.0,0.0,Jefferson County
+142,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,21.0,111.0,0.0,0.0,0.0,Jefferson County
+143,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,28.0,63.0,0.0,0.0,0.0,Jefferson County
+144,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,29.0,99.0,0.0,0.0,0.0,Jefferson County
+145,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,30.0,43.0,0.0,0.0,0.0,Jefferson County
+146,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,31.0,95.0,0.0,0.0,0.0,Jefferson County
+147,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,36.0,45.0,0.0,0.0,0.0,Jefferson County
+148,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,39.0,81.0,0.0,0.0,0.0,Jefferson County
+149,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,40.0,67.0,0.0,0.0,0.0,Jefferson County
+150,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,41.0,31.0,0.0,0.0,0.0,Jefferson County
+151,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,42.0,65.0,0.0,0.0,0.0,Jefferson County
+152,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,47.0,89.0,0.0,0.0,0.0,Jefferson County
+153,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,48.0,245.0,0.0,0.0,0.0,Jefferson County
+154,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,53.0,31.0,0.0,0.0,0.0,Jefferson County
+155,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,54.0,37.0,0.0,0.0,0.0,Jefferson County
+156,Whole Foods Market,grocery,New Orleans,,(504) 434-3364,,LA,Jefferson County,50.0,55.0,55.0,0.0,0.0,0.0,Jefferson County
+157,Whole Foods Market,grocery,Hadley,Mountain Farms,(413) 586-9932,,MA,Hampshire County,50.0,25.0,15.0,0.0,0.0,0.0,Hampshire County
+158,Whole Foods Market,grocery,Hadley,Mountain Farms,(413) 586-9932,,MA,Hampshire County,50.0,54.0,27.0,0.0,0.0,0.0,Hampshire County
+159,Whole Foods Market,grocery,Melrose,,(781) 606-3400,,MA,Middlesex County,50.0,9.0,7.0,0.0,0.0,0.0,Middlesex County
+160,Whole Foods Market,grocery,Melrose,,(781) 606-3400,,MA,Middlesex County,50.0,25.0,17.0,0.0,0.0,0.0,Middlesex County
+161,Whole Foods Market,grocery,Melrose,,(781) 606-3400,,MA,Middlesex County,50.0,34.0,23.0,0.0,0.0,0.0,Middlesex County
+162,Whole Foods Market,grocery,Melrose,,(781) 606-3400,,MA,Middlesex County,50.0,51.0,119.0,0.0,0.0,0.0,Middlesex County
+163,Whole Foods Market,grocery,Riverdale Park,,(240) 487-7575,,MD,Prince George's County,50.0,24.0,33.0,0.0,0.0,0.0,Prince George's County
+164,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,1.0,101.0,0.0,0.0,0.0,Montgomery County
+165,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,5.0,97.0,0.0,0.0,0.0,Montgomery County
+166,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,13.0,209.0,0.0,0.0,0.0,Montgomery County
+167,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,17.0,135.0,0.0,0.0,0.0,Montgomery County
+168,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,18.0,107.0,0.0,0.0,0.0,Montgomery County
+169,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,19.0,137.0,0.0,0.0,0.0,Montgomery County
+170,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,20.0,125.0,0.0,0.0,0.0,Montgomery County
+171,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,21.0,173.0,0.0,0.0,0.0,Montgomery County
+172,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,24.0,31.0,0.0,0.0,0.0,Montgomery County
+173,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,28.0,97.0,0.0,0.0,0.0,Montgomery County
+174,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,29.0,139.0,0.0,0.0,0.0,Montgomery County
+175,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,36.0,57.0,0.0,0.0,0.0,Montgomery County
+176,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,37.0,123.0,0.0,0.0,0.0,Montgomery County
+177,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,39.0,113.0,0.0,0.0,0.0,Montgomery County
+178,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,42.0,91.0,0.0,0.0,0.0,Montgomery County
+179,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,47.0,125.0,0.0,0.0,0.0,Montgomery County
+180,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,48.0,339.0,0.0,0.0,0.0,Montgomery County
+181,Whole Foods Market,grocery,Silver Spring,Downtown Silver Spring,(301) 608-9373,,MD,Montgomery County,50.0,51.0,121.0,0.0,0.0,0.0,Montgomery County
+182,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+183,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+184,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+185,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+186,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+187,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+188,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+189,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+190,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+191,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+192,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+193,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+194,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+195,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+196,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+197,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+198,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+199,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+200,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+201,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+202,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+203,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+204,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+205,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+206,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+207,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+208,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+209,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+210,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+211,Whole Life Natural Market,grocery,Machias,,(207) 255-8855,,ME,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+212,Whole Foods Market,grocery,Ann Arbor,,(734) 975-4500,,MI,Washtenaw County,50.0,26.0,161.0,0.0,0.0,0.0,Washtenaw County
+213,Whole Foods Market,grocery,Maple Grove,The Shoppes at Arbor Lakes,(763) 416-7300,,MN,Hennepin County,50.0,27.0,53.0,0.0,0.0,0.0,Hennepin County
+214,Whole Foods Market,grocery,Minnetonka,,(952) 797-5600,,MN,Hennepin County,50.0,27.0,53.0,0.0,0.0,0.0,Hennepin County
+215,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+216,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+217,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+218,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+219,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+220,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+221,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+222,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+223,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+224,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+225,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+226,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+227,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+228,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+229,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+230,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+231,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+232,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+233,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+234,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+235,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+236,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+237,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+238,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+239,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+240,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+241,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+242,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+243,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+244,Whole Foods Market,grocery,Woodbury,,(651) 252-3060,,MN,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+245,Whole Food MARKET,grocery,Winston-Salem,,(336) 978-9777,,NC,Forsyth County,50.0,13.0,117.0,0.0,0.0,0.0,Forsyth County
+246,Whole Food MARKET,grocery,Winston-Salem,,(336) 978-9777,,NC,Forsyth County,50.0,37.0,67.0,0.0,0.0,0.0,Forsyth County
+247,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,5.0,139.0,0.0,0.0,0.0,Union County
+248,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,12.0,125.0,0.0,0.0,0.0,Union County
+249,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,13.0,291.0,0.0,0.0,0.0,Union County
+250,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,17.0,181.0,0.0,0.0,0.0,Union County
+251,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,18.0,161.0,0.0,0.0,0.0,Union County
+252,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,19.0,175.0,0.0,0.0,0.0,Union County
+253,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,21.0,225.0,0.0,0.0,0.0,Union County
+254,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,28.0,145.0,0.0,0.0,0.0,Union County
+255,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,34.0,39.0,0.0,0.0,0.0,Union County
+256,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,35.0,59.0,0.0,0.0,0.0,Union County
+257,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,37.0,179.0,0.0,0.0,0.0,Union County
+258,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,39.0,159.0,0.0,0.0,0.0,Union County
+259,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,41.0,61.0,0.0,0.0,0.0,Union County
+260,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,42.0,119.0,0.0,0.0,0.0,Union County
+261,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,45.0,87.0,0.0,0.0,0.0,Union County
+262,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,46.0,127.0,0.0,0.0,0.0,Union County
+263,Whole Foods Market,grocery,Clark,Clark Commons,(732) 381-1010,,NJ,Union County,50.0,47.0,173.0,0.0,0.0,0.0,Union County
+264,Whole Foods Market,grocery,Albuquerque,,(505) 260-1366,,NM,Bernalillo County,50.0,35.0,1.0,0.0,0.0,0.0,Bernalillo County
+265,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,5.0,19.0,0.0,0.0,0.0,Clark County
+266,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,16.0,33.0,0.0,0.0,0.0,Clark County
+267,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,17.0,23.0,0.0,0.0,0.0,Clark County
+268,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,18.0,19.0,0.0,0.0,0.0,Clark County
+269,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,20.0,25.0,0.0,0.0,0.0,Clark County
+270,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,21.0,49.0,0.0,0.0,0.0,Clark County
+271,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,29.0,45.0,0.0,0.0,0.0,Clark County
+272,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,32.0,3.0,0.0,0.0,0.0,Clark County
+273,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,39.0,23.0,0.0,0.0,0.0,Clark County
+274,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,46.0,25.0,0.0,0.0,0.0,Clark County
+275,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,53.0,11.0,0.0,0.0,0.0,Clark County
+276,Whole Foods Market,grocery,Henderson,The District at Green Valley Ranch,(702) 361-8183,,NV,Clark County,50.0,55.0,19.0,0.0,0.0,0.0,Clark County
+277,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,5.0,19.0,0.0,0.0,0.0,Clark County
+278,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,16.0,33.0,0.0,0.0,0.0,Clark County
+279,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,17.0,23.0,0.0,0.0,0.0,Clark County
+280,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,18.0,19.0,0.0,0.0,0.0,Clark County
+281,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,20.0,25.0,0.0,0.0,0.0,Clark County
+282,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,21.0,49.0,0.0,0.0,0.0,Clark County
+283,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,29.0,45.0,0.0,0.0,0.0,Clark County
+284,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,32.0,3.0,0.0,0.0,0.0,Clark County
+285,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,39.0,23.0,0.0,0.0,0.0,Clark County
+286,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,46.0,25.0,0.0,0.0,0.0,Clark County
+287,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,53.0,11.0,0.0,0.0,0.0,Clark County
+288,Whole Foods Market,grocery,Las Vegas,Town Square Las Vegas,(702) 589-7711,,NV,Clark County,50.0,55.0,19.0,0.0,0.0,0.0,Clark County
+289,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,5.0,19.0,0.0,0.0,0.0,Clark County
+290,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,16.0,33.0,0.0,0.0,0.0,Clark County
+291,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,17.0,23.0,0.0,0.0,0.0,Clark County
+292,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,18.0,19.0,0.0,0.0,0.0,Clark County
+293,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,20.0,25.0,0.0,0.0,0.0,Clark County
+294,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,21.0,49.0,0.0,0.0,0.0,Clark County
+295,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,29.0,45.0,0.0,0.0,0.0,Clark County
+296,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,32.0,3.0,0.0,0.0,0.0,Clark County
+297,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,39.0,23.0,0.0,0.0,0.0,Clark County
+298,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,46.0,25.0,0.0,0.0,0.0,Clark County
+299,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,53.0,11.0,0.0,0.0,0.0,Clark County
+300,Sport Clips Haircuts of Las Vegas - Whole Food Market Place,grocery,Las Vegas,,(702) 636-1839,,NV,Clark County,50.0,55.0,19.0,0.0,0.0,0.0,Clark County
+301,Whole Foods Market,grocery,Brooklyn,,(718) 734-2321,,NY,Kings County,50.0,6.0,31.0,0.0,0.0,0.0,Kings County
+302,Whole Foods Market,grocery,Brooklyn,,(718) 734-2321,,NY,Kings County,50.0,36.0,47.0,0.0,0.0,0.0,Kings County
+303,Whole Foods Market,grocery,Manhasset,,(516) 869-8900,,NY,Nassau County,50.0,12.0,89.0,0.0,0.0,0.0,Nassau County
+304,Whole Foods Market,grocery,Manhasset,,(516) 869-8900,,NY,Nassau County,50.0,36.0,59.0,0.0,0.0,0.0,Nassau County
+305,Whole Foods Market,grocery,New York,,(212) 222-6160,,NY,New York County,50.0,36.0,61.0,0.0,0.0,0.0,New York County
+306,Whole Foods Market,grocery,New York,,(212) 673-5388,,NY,New York County,50.0,36.0,61.0,0.0,0.0,0.0,New York County
+307,Whole Foods Market,grocery,New York,,(212) 349-6555,,NY,New York County,50.0,36.0,61.0,0.0,0.0,0.0,New York County
+308,Whole Foods Market,grocery,Port Chester,,(914) 708-1985,,NY,Westchester County,50.0,36.0,119.0,0.0,0.0,0.0,Westchester County
+309,Whole Foods Market,grocery,Cincinnati,Rookwood Commons & Pavilion,(513) 531-8015,,OH,Brown County,50.0,17.0,9.0,0.0,0.0,0.0,Brown County
+310,Whole Foods Market,grocery,Cincinnati,Rookwood Commons & Pavilion,(513) 531-8015,,OH,Brown County,50.0,18.0,13.0,0.0,0.0,0.0,Brown County
+311,Whole Foods Market,grocery,Cincinnati,Rookwood Commons & Pavilion,(513) 531-8015,,OH,Brown County,50.0,20.0,13.0,0.0,0.0,0.0,Brown County
+312,Whole Foods Market,grocery,Cincinnati,Rookwood Commons & Pavilion,(513) 531-8015,,OH,Brown County,50.0,27.0,15.0,0.0,0.0,0.0,Brown County
+313,Whole Foods Market,grocery,Cincinnati,Rookwood Commons & Pavilion,(513) 531-8015,,OH,Brown County,50.0,31.0,17.0,0.0,0.0,0.0,Brown County
+314,Whole Foods Market,grocery,Cincinnati,Rookwood Commons & Pavilion,(513) 531-8015,,OH,Brown County,50.0,39.0,15.0,0.0,0.0,0.0,Brown County
+315,Whole Foods Market,grocery,Cincinnati,Rookwood Commons & Pavilion,(513) 531-8015,,OH,Brown County,50.0,46.0,13.0,0.0,0.0,0.0,Brown County
+316,Whole Foods Market,grocery,Cincinnati,Rookwood Commons & Pavilion,(513) 531-8015,,OH,Brown County,50.0,48.0,49.0,0.0,0.0,0.0,Brown County
+317,Whole Foods Market,grocery,Cincinnati,Rookwood Commons & Pavilion,(513) 531-8015,,OH,Brown County,50.0,55.0,9.0,0.0,0.0,0.0,Brown County
+318,Whole Foods Market,grocery,Bend,The Forum Shopping Center,(541) 389-0151,,OR,Deschutes County,50.0,41.0,17.0,0.0,0.0,0.0,Deschutes County
+319,Whole Foods Market,grocery,Eugene,,(541) 434-8820,,OR,Lane County,50.0,20.0,101.0,0.0,0.0,0.0,Lane County
+320,Whole Foods Market,grocery,Eugene,,(541) 434-8820,,OR,Lane County,50.0,41.0,39.0,0.0,0.0,0.0,Lane County
+321,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+322,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+323,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+324,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+325,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+326,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+327,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+328,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+329,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+330,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+331,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+332,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+333,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+334,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+335,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+336,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+337,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+338,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+339,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+340,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+341,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+342,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+343,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+344,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+345,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+346,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+347,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+348,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+349,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+350,Whole Foods Market,grocery,Hillsboro,Tanasbourne Market,(503) 645-9200,,OR,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+351,Whole Foods Market,grocery,Portland,,(503) 525-4343,,OR,Clackamas County,50.0,41.0,5.0,0.0,0.0,0.0,Clackamas County
+352,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,1.0,129.0,0.0,0.0,0.0,Washington County
+353,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,5.0,143.0,0.0,0.0,0.0,Washington County
+354,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,8.0,121.0,0.0,0.0,0.0,Washington County
+355,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,12.0,133.0,0.0,0.0,0.0,Washington County
+356,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,13.0,303.0,0.0,0.0,0.0,Washington County
+357,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,16.0,87.0,0.0,0.0,0.0,Washington County
+358,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,17.0,189.0,0.0,0.0,0.0,Washington County
+359,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,18.0,175.0,0.0,0.0,0.0,Washington County
+360,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,19.0,183.0,0.0,0.0,0.0,Washington County
+361,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,20.0,201.0,0.0,0.0,0.0,Washington County
+362,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,21.0,229.0,0.0,0.0,0.0,Washington County
+363,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,23.0,29.0,0.0,0.0,0.0,Washington County
+364,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,24.0,43.0,0.0,0.0,0.0,Washington County
+365,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,27.0,163.0,0.0,0.0,0.0,Washington County
+366,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,28.0,151.0,0.0,0.0,0.0,Washington County
+367,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,29.0,221.0,0.0,0.0,0.0,Washington County
+368,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,31.0,177.0,0.0,0.0,0.0,Washington County
+369,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,36.0,115.0,0.0,0.0,0.0,Washington County
+370,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,37.0,187.0,0.0,0.0,0.0,Washington County
+371,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,39.0,167.0,0.0,0.0,0.0,Washington County
+372,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,40.0,147.0,0.0,0.0,0.0,Washington County
+373,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,41.0,67.0,0.0,0.0,0.0,Washington County
+374,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,42.0,125.0,0.0,0.0,0.0,Washington County
+375,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,44.0,9.0,0.0,0.0,0.0,Washington County
+376,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,47.0,179.0,0.0,0.0,0.0,Washington County
+377,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,48.0,477.0,0.0,0.0,0.0,Washington County
+378,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,49.0,53.0,0.0,0.0,0.0,Washington County
+379,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,50.0,23.0,0.0,0.0,0.0,Washington County
+380,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,51.0,191.0,0.0,0.0,0.0,Washington County
+381,Whole Foods Market,grocery,Tigard,Greenway Town Center,(971) 371-7000,,OR,Washington County,50.0,55.0,131.0,0.0,0.0,0.0,Washington County
+382,Whole Foods Market,grocery,Wayne,Devon Village,(610) 688-9400,,PA,Delaware County,50.0,18.0,35.0,0.0,0.0,0.0,Delaware County
+383,Whole Foods Market,grocery,Wayne,Devon Village,(610) 688-9400,,PA,Delaware County,50.0,19.0,55.0,0.0,0.0,0.0,Delaware County
+384,Whole Foods Market,grocery,Wayne,Devon Village,(610) 688-9400,,PA,Delaware County,50.0,36.0,25.0,0.0,0.0,0.0,Delaware County
+385,Whole Foods Market,grocery,Wayne,Devon Village,(610) 688-9400,,PA,Delaware County,50.0,39.0,41.0,0.0,0.0,0.0,Delaware County
+386,Whole Foods Market,grocery,Wayne,Devon Village,(610) 688-9400,,PA,Delaware County,50.0,40.0,41.0,0.0,0.0,0.0,Delaware County
+387,Whole Foods Market,grocery,Wayne,Devon Village,(610) 688-9400,,PA,Delaware County,50.0,42.0,45.0,0.0,0.0,0.0,Delaware County
+388,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,1.0,101.0,0.0,0.0,0.0,Montgomery County
+389,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,5.0,97.0,0.0,0.0,0.0,Montgomery County
+390,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,13.0,209.0,0.0,0.0,0.0,Montgomery County
+391,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,17.0,135.0,0.0,0.0,0.0,Montgomery County
+392,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,18.0,107.0,0.0,0.0,0.0,Montgomery County
+393,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,19.0,137.0,0.0,0.0,0.0,Montgomery County
+394,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,20.0,125.0,0.0,0.0,0.0,Montgomery County
+395,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,21.0,173.0,0.0,0.0,0.0,Montgomery County
+396,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,24.0,31.0,0.0,0.0,0.0,Montgomery County
+397,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,28.0,97.0,0.0,0.0,0.0,Montgomery County
+398,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,29.0,139.0,0.0,0.0,0.0,Montgomery County
+399,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,36.0,57.0,0.0,0.0,0.0,Montgomery County
+400,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,37.0,123.0,0.0,0.0,0.0,Montgomery County
+401,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,39.0,113.0,0.0,0.0,0.0,Montgomery County
+402,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,42.0,91.0,0.0,0.0,0.0,Montgomery County
+403,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,47.0,125.0,0.0,0.0,0.0,Montgomery County
+404,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,48.0,339.0,0.0,0.0,0.0,Montgomery County
+405,Whole Foods Market,grocery,Wynnewood,,(610) 896-3737,,PA,Montgomery County,50.0,51.0,121.0,0.0,0.0,0.0,Montgomery County
+406,Whole Foods Market,grocery,Austin,,(512) 476-1206,,TX,Travis County,50.0,48.0,453.0,0.0,0.0,0.0,Travis County
+407,Whole Foods Market,grocery,Dallas,,(214) 520-7993,,TX,Dallas County,50.0,1.0,47.0,0.0,0.0,0.0,Dallas County
+408,Whole Foods Market,grocery,Dallas,,(214) 520-7993,,TX,Dallas County,50.0,5.0,39.0,0.0,0.0,0.0,Dallas County
+409,Whole Foods Market,grocery,Dallas,,(214) 520-7993,,TX,Dallas County,50.0,19.0,49.0,0.0,0.0,0.0,Dallas County
+410,Whole Foods Market,grocery,Dallas,,(214) 520-7993,,TX,Dallas County,50.0,29.0,59.0,0.0,0.0,0.0,Dallas County
+411,Whole Foods Market,grocery,Dallas,,(214) 520-7993,,TX,Dallas County,50.0,48.0,113.0,0.0,0.0,0.0,Dallas County
+412,Whole Foods Market,grocery,Houston,Westchase Shopping Center,(713) 784-7776,,TX,Harris County,50.0,13.0,145.0,0.0,0.0,0.0,Harris County
+413,Whole Foods Market,grocery,Houston,Westchase Shopping Center,(713) 784-7776,,TX,Harris County,50.0,48.0,201.0,0.0,0.0,0.0,Harris County
+414,Whole Foods Market,grocery,Houston,,(713) 346-0537,,TX,Harris County,50.0,13.0,145.0,0.0,0.0,0.0,Harris County
+415,Whole Foods Market,grocery,Houston,,(713) 346-0537,,TX,Harris County,50.0,48.0,201.0,0.0,0.0,0.0,Harris County
+416,Whole Foods Market,grocery,Irving,,(469) 845-8001,,TX,Dallas County,50.0,1.0,47.0,0.0,0.0,0.0,Dallas County
+417,Whole Foods Market,grocery,Irving,,(469) 845-8001,,TX,Dallas County,50.0,5.0,39.0,0.0,0.0,0.0,Dallas County
+418,Whole Foods Market,grocery,Irving,,(469) 845-8001,,TX,Dallas County,50.0,19.0,49.0,0.0,0.0,0.0,Dallas County
+419,Whole Foods Market,grocery,Irving,,(469) 845-8001,,TX,Dallas County,50.0,29.0,59.0,0.0,0.0,0.0,Dallas County
+420,Whole Foods Market,grocery,Irving,,(469) 845-8001,,TX,Dallas County,50.0,48.0,113.0,0.0,0.0,0.0,Dallas County
+421,Whole Foods Market,grocery,Sugar Land,,(281) 491-5577,,TX,Fort Bend County,50.0,48.0,157.0,0.0,0.0,0.0,Fort Bend County
+422,Whole Foods Market,grocery,Redmond,,(425) 881-2600,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+423,Whole Foods Market,grocery,Redmond,,(425) 881-2600,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+424,Whole Foods Market,grocery,Seattle,Roosevelt Square,(206) 985-1500,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+425,Whole Foods Market,grocery,Seattle,Roosevelt Square,(206) 985-1500,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+426,Whole Foods Market,grocery,Seattle,,(206) 352-5440,,WA,King County,50.0,48.0,269.0,0.0,0.0,0.0,King County
+427,Whole Foods Market,grocery,Seattle,,(206) 352-5440,,WA,King County,50.0,53.0,33.0,0.0,0.0,0.0,King County
+428,Whole Foods Market,grocery,University Place,,(253) 534-4500,,WA,Pierce County,50.0,13.0,229.0,0.0,0.0,0.0,Pierce County
+429,Whole Foods Market,grocery,University Place,,(253) 534-4500,,WA,Pierce County,50.0,31.0,139.0,0.0,0.0,0.0,Pierce County
+430,Whole Foods Market,grocery,University Place,,(253) 534-4500,,WA,Pierce County,50.0,38.0,69.0,0.0,0.0,0.0,Pierce County
+431,Whole Foods Market,grocery,University Place,,(253) 534-4500,,WA,Pierce County,50.0,53.0,53.0,0.0,0.0,0.0,Pierce County
+432,Whole Foods Market,grocery,University Place,,(253) 534-4500,,WA,Pierce County,50.0,55.0,93.0,0.0,0.0,0.0,Pierce County
+433,Northstar Shell Whole Food Market,grocery,St Germain,,(715) 542-2863,,WI,Vilas County,50.0,55.0,125.0,0.0,0.0,0.0,Vilas County
