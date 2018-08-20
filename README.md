@@ -4,15 +4,17 @@
 The program let's users see the realestate prices in various counties as an interactive heatmap based on Affordability Index. 
 ![alt text][Initial_Map]
 
+### The Jupyter Notebook to Run: RealestateTrends.ipynb
 
-[Initial_Map]: https://github.com/kishore145/realestatetrends/Images/Initial_Map.png "Initial Map"
-[Zoomed_Map]: https://github.com/kishore145/realestatetrends/Images/Zoomed_Map.png "Zoomed Map"
-[Realestate_info]: https://github.com/kishore145/realestatetrends/Images/Realestate_info.png "Real Estate Info"
-[CrimeProfile]: https://github.com/kishore145/realestatetrends/Images/CrimeProfile.png "Crime Profile"
-[Demographic_info_jupyter]: https://github.com/kishore145/realestatetrends/Images/Demographic_info_jupyter.png "Demographic Info"
-[Demo_Expanded]: https://github.com/kishore145/realestatetrends/Images/Demo_Expanded.png "Demographic Info Expanded into seperate page"
-[GroceryStore_Summary]: https://github.com/kishore145/realestatetrends/Images/GroceryStore_Summary.png "Amenties Summary"
-[Amneties_Graph]: https://github.com/kishore145/realestatetrends/Images/Amneties_Graph.png "Amenties Graph"
+
+[Initial_Map]: https://github.com/kishore145/realestatetrends/tree/master/Images/Initial_Map.png "Initial Map"
+[Zoomed_Map]: https://github.com/kishore145/realestatetrends/tree/master/Images/Zoomed_Map.png "Zoomed Map"
+[Realestate_info]: https://github.com/kishore145/realestatetrends/tree/master/Images/Realestate_info.png "Real Estate Info"
+[CrimeProfile]: https://github.com/kishore145/realestatetrends/tree/master/Images/CrimeProfile.png "Crime Profile"
+[Demographic_info_jupyter]: https://github.com/kishore145/realestatetrends/tree/master/Images/Demographic_info_jupyter.png "Demographic Info"
+[Demo_Expanded]: https://github.com/kishore145/realestatetrends/tree/master/Images/Demo_Expanded.png "Demographic Info Expanded into seperate page"
+[GroceryStore_Summary]: https://github.com/kishore145/realestatetrends/tree/master/Images/GroceryStore_Summary.png "Amenties Summary"
+[Amneties_Graph]: https://github.com/kishore145/realestatetrends/tree/master/Images/Amneties_Graph.png "Amenties Graph"
 
 Users can zoon in by clikcing on the map and using scroll wheel to zoon in or out.
 Users can hover over a county to see county name and affordability index. Users can click to select the county they wish to see more information. 
